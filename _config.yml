@@ -9,11 +9,11 @@
 title: Kevin Lin
 email: hello@kevinl.info
 description: >
-  I like computers.
+  I teach CS at Berkeley. 
 logo: "/assets/images/me.jpg"
 baseurl: ""
 url: "http://kevinl.info"
-paginate:	5 # The number of posts to show per page on your homepage
+paginate: 10
 
 name: 'Kevin Lin'
 bio: >
