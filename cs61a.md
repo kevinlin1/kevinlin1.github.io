@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CS 61A
+permalink: /cs61a
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit!
