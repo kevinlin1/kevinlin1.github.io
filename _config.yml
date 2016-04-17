@@ -6,22 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Awesome Site Title
-email: your-email@domain.com
+title: Kevin Lin
+email: hello@kevinl.info
 description: >
-  Awesome site description here
-logo: "/assets/images/logo.jpg"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  I like computers.
+logo: "/assets/images/me.jpg"
+baseurl: ""
+url: "http://kevinl.info"
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Kevin Lin'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
-author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+  Berkeley CS + CogSci 2018. I design websites for Berkeley Diversity. Teaching CS is my passion.
+author_image: "/assets/images/me.jpg"
+twitter_username:
+github_username:  kevinlin1
 
 # Build settings
 markdown: kramdown
