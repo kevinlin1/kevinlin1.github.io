@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Resume
 hidden: true
 permalink: /resume

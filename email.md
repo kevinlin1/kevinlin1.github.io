@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Email
 hidden: true
 permalink: /email
