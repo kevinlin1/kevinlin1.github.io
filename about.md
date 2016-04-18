@@ -10,6 +10,4 @@ I spend too much time designing websites (and, formerly, back-end) for [Berkeley
 
 In my spare time, I also study [Computer Science](http://eecs.berkeley.edu/csugrad/) and [Cognitive Science](http://cogsci.berkeley.edu/).
 
-[AngelList](https://angel.co/kevinlin1)
-[GitHub](https://github.com/kevinlin1)
-[Resume](/resume)
+[AngelList](https://angel.co/kevinlin1) &bull; [GitHub](https://github.com/kevinlin1) &bull; [Resume](/resume)
