@@ -1,6 +1,6 @@
 ---
 title: Email
-permalink: /email
+permalink: /email/
 redirect_to:
   - mailto:hello@kevinl.info
 ---
