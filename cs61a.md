@@ -35,18 +35,16 @@ Efficient Algorithms for Studying
 
 | Midterm 1 | Midterm 2 | Final |
 |-----------|-----------|-------|
-| [61a-sp16-mt1][] / [sol][61a-sp16-mt1-solution] | [61a-sp16-mt2][] / [sol][61a-sp16-mt2-solution] | [61a-sp16-final][] / [sol][61a-sp16-final-solution] |
-| [61a-fa15-mt1][] / [sol][61a-fa15-mt1-solution] | [61a-fa15-mt2][] / [sol][61a-fa15-mt2-solution] | [61a-fa15-final][] / [sol][61a-fa15-final-solution] |
-| [61a-su15-mt1][] / [sol][61a-su15-mt1-solution] | [61a-su15-mt2][] / [sol][61a-su15-mt2-solution] | [61a-su15-final][] / [sol][61a-su15-final-solution] |
-| [61a-sp15-mt1][] / [sol][61a-sp15-mt1-solution] | [61a-sp15-mt2][] / [sol][61a-sp15-mt2-solution] | [61a-sp15-final][] / [sol][61a-sp15-final-solution] |
-| [61a-fa14-mt1][] / [sol][61a-fa14-mt1-solution] | [61a-fa14-mt2][] / [sol][61a-fa14-mt2-solution] | [61a-fa14-final][] / [sol][61a-fa14-final-solution] |
+| [61a-sp16-mt1][] [(sol)][61a-sp16-mt1-solution] | [61a-sp16-mt2][] [(sol)][61a-sp16-mt2-solution] | 61a-sp16-final (sol) |
+| [61a-fa15-mt1][] [(sol)][61a-fa15-mt1-solution] | [61a-fa15-mt2][] [(sol)][61a-fa15-mt2-solution] | [61a-fa15-final][] [(sol)][61a-fa15-final-solution] |
+| [61a-su15-mt1][] [(sol)][61a-su15-mt1-solution] | [61a-su15-mt2][] [(sol)][61a-su15-mt2-solution] | [61a-su15-final][] [(sol)][61a-su15-final-solution] |
+| [61a-sp15-mt1][] [(sol)][61a-sp15-mt1-solution] | [61a-sp15-mt2][] [(sol)][61a-sp15-mt2-solution] | [61a-sp15-final][] [(sol)][61a-sp15-final-solution] |
+| [61a-fa14-mt1][] [(sol)][61a-fa14-mt1-solution] | [61a-fa14-mt2][] [(sol)][61a-fa14-mt2-solution] | [61a-fa14-final][] [(sol)][61a-fa14-final-solution] |
 
 [61a-sp16-mt1]: http://cs61a.org/assets/pdfs/61a-sp16-mt1.pdf
 [61a-sp16-mt1-solution]: http://cs61a.org/assets/pdfs/61a-sp16-mt1-solution.pdf
 [61a-sp16-mt2]: http://cs61a.org/assets/pdfs/61a-sp16-mt2.pdf
 [61a-sp16-mt2-solution]: http://cs61a.org/assets/pdfs/61a-sp16-mt2-solution.pdf
-[61a-sp16-final]:
-[61a-sp16-final-solution]:
 [61a-fa15-mt1]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt1.pdf
 [61a-fa15-mt1-solution]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt1-solution.pdf
 [61a-fa15-mt2]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt2.pdf
@@ -74,8 +72,8 @@ Efficient Algorithms for Studying
 
 - A more exhaustive list is available on [Andrew Huang's course wiki](https://www.ocf.berkeley.edu/~shidi/cs61a/wiki/Past_exams).
 - Beware that major changes were made to the final third of the course over Fall 2014 and Fall 2015; older finals might not reflect current course content.
-- [Alvin Wan's resource site](http://alvinwan.com/cs61a/) featuring several practice midterms
 
 ### Additional Practice
+- [Alvin Wan's resource site](http://alvinwan.com/cs61a/) featuring several practice midterms
 - [Andrew Huang's practice problems](https://www.ocf.berkeley.edu/~shidi/cs61a/wiki/Practice_problems) and [environment diagrams](https://drive.google.com/a/berkeley.edu/file/d/0B9f1uNGYHmJ9UW8zZzREQmFtRU0/view)
 - [Mark Miyashita's practice problems](http://markmiyashita.com/cs61a/practice/)
