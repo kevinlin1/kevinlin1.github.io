@@ -10,6 +10,7 @@ title: CS 61A
 - [Environment Diagrams](http://albertwu.org/cs61a/notes/environments.html), [OOP](http://albertwu.org/cs61a/notes/oop.html), and [Lists](http://albertwu.org/cs61a/notes/indexing.html) via Albert Wu
 - Inheritance
 - Scheme
+- SQL
 
 #### Guerrilla Sections
 Collaborate with other students and learn new material by attending guerrilla section every other week. Led by staff tutors, this is one of the best resources for learning in a really social environment.
@@ -17,11 +18,12 @@ Collaborate with other students and learn new material by attending guerrilla se
 #### Computer Science Mentors
 As a student, join Berkeley's CS teaching community [Computer Science Mentors](http://csmentors.berkeley.edu/) to participate in small group tutoring sessions of 4-5 students.
 
+
 - - - -
 
 ### Efficient Algorithms for Studying
 
-*Study early, study often, and stay on top of the material!*
+**Study early, study often, and stay on top of the material!**
 
 1. Reinvest Facebook time responding to Piazza and starring interesting questions. Try to answer questions clearly and succinctly.
 2. Attend lab, discussion, and especially **guerrilla sections**. Guerrilla sections are by far the most useful resource available.
@@ -31,9 +33,10 @@ As a student, join Berkeley's CS teaching community [Computer Science Mentors](h
 
 #### Past Exams
 - An exhaustive list is available on [Andrew Huang's course wiki](https://www.ocf.berkeley.edu/~shidi/cs61a/wiki/Past_exams).
-- [Alvin Wan's resource site](http://alvinwan.com/cs61a/) features several practice midterms
-- Beware that major changes were made to the final third of the course over Fall 2014 and Fall 2015; older finals might not reflect current course content.
+- [Alvin Wan's resource site](http://alvinwan.com/cs61a/) features several practice midterms.
+- Beware that major changes were made to the final third of the course over Fall 2014 and Fall 2015; older finals may not reflect current course content.
 
 #### Additional Practice
-- [Andrew Huang's practice problems](https://www.ocf.berkeley.edu/~shidi/cs61a/wiki/Practice_problems) and [environment diagrams](https://drive.google.com/a/berkeley.edu/file/d/0B9f1uNGYHmJ9UW8zZzREQmFtRU0/view)
-- [Mark Miyashita's practice problems](http://markmiyashita.com/cs61a/practice/)
+- [Andrew Huang's practice problems](https://www.ocf.berkeley.edu/~shidi/cs61a/wiki/Practice_problems) and [environment diagrams](https://drive.google.com/a/berkeley.edu/file/d/0B9f1uNGYHmJ9UW8zZzREQmFtRU0/view).
+- [Albert Wu's practice problems](http://albertwu.org/cs61a/).
+- [Mark Miyashita's practice problems](http://markmiyashita.com/cs61a/practice/).
