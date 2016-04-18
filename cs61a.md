@@ -4,16 +4,78 @@ title: CS 61A
 permalink: /cs61a
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit!
+Key Topics
+----------
+- Python Notional Machine
+- [Environment Diagram Rules via Andrew Huang](environment-diagrams)
+- [Guide to Orders of Growth and Function Runtime via Andrew Huang](https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit)
+- [Environment Diagrams](http://albertwu.org/cs61a/notes/environments.html), [OOP](http://albertwu.org/cs61a/notes/oop.html), and [Lists](http://albertwu.org/cs61a/notes/indexing.html) via Albert Wu
+- Inheritance
+- Scheme
 
-<amp-img width="600" height="500" layout="responsive" src="http://lorempixel.com/600/500/transport"></amp-img>
+Guerrilla Sections
+------------------
 
-Nulla dapibus vestibulum ligula in sodales. Phasellus eu metus quam. Sed id varius diam. Morbi pellentesque lorem vitae ex commodo, sed dapibus ex dignissim. Etiam facilisis pellentesque gravida. Sed tempus diam sed odio tempor, tristique elementum erat condimentum. Ut volutpat dui ex, a auctor dolor pretium eget.
+Computer Science Mentors
+------------------------
 
-Vivamus nec mauris suscipit enim viverra tristique ut eget risus. Vestibulum ullamcorper at sem eu sodales. Praesent felis tellus, condimentum vitae purus id, consectetur interdum urna. Pellentesque laoreet non arcu volutpat euismod. Suspendisse sed enim non ex interdum sodales. Quisque vitae vestibulum turpis. Aenean nec est dolor.
+- - - -
 
-> Pellentesque quis mi at erat iaculis cursus. Phasellus ligula neque, pulvinar sed malesuada id, feugiat ac magna. Proin sed scelerisque metus. Pellentesque mi augue, egestas nec ante a, faucibus ullamcorper enim. Sed nisi felis, rutrum imperdiet aliquam nec, placerat vel odio. Nulla quis urna ut risus aliquam tempor.
+Efficient Algorithms for Studying
+---------------------------------
+*Study early, study often, and stay on top of the material!*
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/transport"></amp-img>
+1. Reinvest Facebook time responding to Piazza and starring interesting questions. Try to answer questions clearly and succinctly.
+2. Attend lab, discussion, and especially **guerrilla sections**. Guerrilla sections are by far the most useful resource available.
+3. Before you begin reviewing material, complete 1 past exam in a timed environment to evaluate your skills. Identify what's working for you and what's not.
+4. Practice. Review. Focus on guerrilla section, quizzes, homework, discussion, lab, and then lecture in this specific order. Seek help if an idea isn't setting in especially if it's a conceptual. Recursion isn't easy and the exam environment certainly doesn't make it any better! Ask your TA: we're always here to help!
+5. Repeat steps 3 and 4 until you feel comfortable with the exam.
 
-Nulla mi risus, lobortis quis lectus vel, gravida eleifend lacus. Proin mattis odio elit, nec vehicula diam varius vitae. Nunc a ipsum at justo rhoncus mattis. Proin auctor lorem quis libero viverra aliquam. Suspendisse quis tristique sapien. Integer eu felis vel orci dignissim suscipit pharetra vitae nisl. Ut viverra sed enim quis pretium. Etiam auctor a ante sed pharetra.
+### Past Exams
+
+| Midterm 1 | Midterm 2 | Final |
+|-----------|-----------|-------|
+| [61a-sp16-mt1][] / [sol][61a-sp16-mt1-solution] | [61a-sp16-mt2][] / [sol][61a-sp16-mt2-solution] | [61a-sp16-final][] / [sol][61a-sp16-final-solution] |
+| [61a-fa15-mt1][] / [sol][61a-fa15-mt1-solution] | [61a-fa15-mt2][] / [sol][61a-fa15-mt2-solution] | [61a-fa15-final][] / [sol][61a-fa15-final-solution] |
+| [61a-su15-mt1][] / [sol][61a-su15-mt1-solution] | [61a-su15-mt2][] / [sol][61a-su15-mt2-solution] | [61a-su15-final][] / [sol][61a-su15-final-solution] |
+| [61a-sp15-mt1][] / [sol][61a-sp15-mt1-solution] | [61a-sp15-mt2][] / [sol][61a-sp15-mt2-solution] | [61a-sp15-final][] / [sol][61a-sp15-final-solution] |
+| [61a-fa14-mt1][] / [sol][61a-fa14-mt1-solution] | [61a-fa14-mt2][] / [sol][61a-fa14-mt2-solution] | [61a-fa14-final][] / [sol][61a-fa14-final-solution] |
+
+[61a-sp16-mt1]: http://cs61a.org/assets/pdfs/61a-sp16-mt1.pdf
+[61a-sp16-mt1-solution]: http://cs61a.org/assets/pdfs/61a-sp16-mt1-solution.pdf
+[61a-sp16-mt2]: http://cs61a.org/assets/pdfs/61a-sp16-mt2.pdf
+[61a-sp16-mt2-solution]: http://cs61a.org/assets/pdfs/61a-sp16-mt2-solution.pdf
+[61a-sp16-final]:
+[61a-sp16-final-solution]:
+[61a-fa15-mt1]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt1.pdf
+[61a-fa15-mt1-solution]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt1-solution.pdf
+[61a-fa15-mt2]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt2.pdf
+[61a-fa15-mt2-solution]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-mt2-solution.pdf
+[61a-fa15-final]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-final.pdf
+[61a-fa15-final-solution]: http://inst.eecs.berkeley.edu/~cs61a/fa15/assets/pdfs/61a-fa15-final-solution.pdf
+[61a-su15-mt1]: https://61a-su15-website.github.io/assets/pdfs/61a-su15-mt1.pdf
+[61a-su15-mt1-solution]: https://61a-su15-website.github.io/assets/pdfs/61a-su15-mt1-sol.pdf
+[61a-su15-mt2]: https://61a-su15-website.github.io/assets/pdfs/61a-su15-mt2.pdf
+[61a-su15-mt2-solution]: https://61a-su15-website.github.io/assets/pdfs/61a-su15-mt2-sol.pdf
+[61a-su15-final]: https://61a-su15-website.github.io/assets/pdfs/61a-su15-final.pdf
+[61a-su15-final-solution]: https://61a-su15-website.github.io/assets/pdfs/61a-su15-final-sol.pdf
+[61a-sp15-mt1]: http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-mt1.pdf
+[61a-sp15-mt1-solution]: http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-mt1-solution.pdf
+[61a-sp15-mt2]: http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-mt2.pdf
+[61a-sp15-mt2-solution]: http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-mt2-solution.pdf
+[61a-sp15-final]: http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-final.pdf
+[61a-sp15-final-solution]: http://inst.eecs.berkeley.edu/~cs61a/sp15/assets/pdfs/61a-sp15-final-solution.pdf
+[61a-fa14-mt1]: http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-mt1.pdf
+[61a-fa14-mt1-solution]: http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-mt1-solution.pdf
+[61a-fa14-mt2]: http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-mt2.pdf
+[61a-fa14-mt2-solution]: http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-mt2-solution.pdf
+[61a-fa14-final]: http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-final.pdf
+[61a-fa14-final-solution]: http://inst.eecs.berkeley.edu/~cs61a/fa14/assets/pdfs/61a-fa14-final-solution.pdf
+
+- A more exhaustive list is available on [Andrew Huang's course wiki](https://www.ocf.berkeley.edu/~shidi/cs61a/wiki/Past_exams).
+- Beware that major changes were made to the final third of the course over Fall 2014 and Fall 2015; older finals might not reflect current course content.
+- [Alvin Wan's resource site](http://alvinwan.com/cs61a/) featuring several practice midterms
+
+### Additional Practice
+- [Andrew Huang's practice problems](https://www.ocf.berkeley.edu/~shidi/cs61a/wiki/Practice_problems) and [environment diagrams](https://drive.google.com/a/berkeley.edu/file/d/0B9f1uNGYHmJ9UW8zZzREQmFtRU0/view)
+- [Mark Miyashita's practice problems](http://markmiyashita.com/cs61a/practice/)
