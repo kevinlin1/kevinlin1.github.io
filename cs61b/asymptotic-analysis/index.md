@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Asymptotic Analysis
+hidden: true
 ---
 
 An _algorithm_ is a step-by-step procedure for solving a problem. An algorithm is an abstract notion, simply describing an approach for solving a problem. The code we write in this class, our programs, are implementations of algorithms.
@@ -216,9 +217,7 @@ Like before, we want to identify both the branching factor and the height of the
 
 Plugging into the formula, we get __2<sup>log<sub>2</sub>N</sup>__ nodes which simplifies to __N__. Therefore, N nodes performing a constant amount of work each will give us an overall runtime in __O(N)__.
 
-### Conclusion
-
-#### Summary
+### Summary
 
 We developed the method of __counting steps__ as a deterministic way of calculating the algorithmic complexity of a program. This works well, but it can be challenging to get the exact instruction count. Oftentimes, however, we don't need exact constants or lower-order terms since, in the long-run, the size of the input, N, is the most significant factor in the runtime of a program. As a consequence, we learned how to __estimate__ the efficiency of an algorithm using proportionality and __orders of growth__.
 
@@ -244,5 +243,3 @@ In the final section, we applied what we learned about counting steps, estimatio
 - There are __log<sub>2</sub>(N)__ terms in the sequence 1, 2, 4, ... , N while the sum of the terms is in __Θ(N)__
 - The number of nodes in a tree, N, is __k<sup>h</sup>__ where k is the _branching factor_ and h is the _height_ of the tree
 - All logarithms are proportional to each other by the Change of Base formula.
-
-It's worth spending a little time proving each of these to yourself with a visual model!
