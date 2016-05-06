@@ -3,8 +3,6 @@ layout: page
 title: Asymptotic Analysis
 ---
 
-### Algorithms
-
 An _algorithm_ is a step-by-step procedure for solving a problem. An algorithm is an abstract notion, simply describing an approach for solving a problem. The code we write in this class, our programs, are implementations of algorithms.
 
 For example, consider the problem of sorting a list of numbers. One algorithm we might use to solve this problem is called _bubble sort_. Bubble sort says to sort a list by repeatedly looping through the list and swapping adjacent items if they are out of order, until the entire sorting is complete.
@@ -39,9 +37,7 @@ each assignment statement takes one additional step on top of however many steps
 Here are some basic rules about what we count as taking a single step to compute:
 
 - Assignment and variable declaration statements
-
 - `return` statements
-
 - Conditional `if` statements
 
 One important case to be aware of is that, while calling a function takes a single step to setup, the body of the function may require us to do much more than a single step of work.
@@ -73,18 +69,15 @@ In terms of N, how many operations are executed in this loop? Remember that each
 It takes 1 step to execute the initialization, `int k = 0`. Then, to execute the loop, we have the following sequence of steps:
 
 - Check the loop condition, `k < N`
-
 - Add 1 to the `sum`
-
 - Update the value of `sum` by assignment
-
 - Increment the loop counter, `k`
 
 In the very last loop, after we increment `k` such that `k` now equals N, when we check the loop condition again, we finally exit the loop. In the end, our total number of steps is __1 + 4N + 1__.
 
 ### Abbreviated Estimates
 
-#### Estimation with _Proportional To_
+#### Estimation with Proportional To
 
 Producing step count figures for even those simple program segments took a lot of work. Normally we don't need an exact count but rather just an estimate of how many steps will be executed.
 
@@ -111,13 +104,9 @@ There are analogous notations called _big-Oh_ (Ο) and _big-Omega_ (Ω), where b
 Here are some commonly-occurring estimates listed from no growth at all to fastest growth.
 
 - __constant time__
-
 - __linear time__ or _proportional to_ N
-
 - __quadratic/polynomial time__ or _proportional to_ N<sup>2</sup>
-
 - __exponential time__ or _proportional to_ k<sup>N</sup>
-
 - __factorial time__ or _proportional to_ N!
 
 #### Logarithmic Algorithms
@@ -125,42 +114,18 @@ Here are some commonly-occurring estimates listed from no growth at all to faste
 We will shortly encounter algorithms that run in time proportional to `log N` for some suitably defined `N`. Recall from algebra that the base-10 logarithm of a value is the exponent to which 10 must be raised to produce the value. It is usually abbreviated as log<sub>10</sub>. Thus
 
 - log<sub>10</sub> 1000 is 3 because 10<sup>3</sup> = 1000
-
 - log<sub>10</sub> 90 is slightly less than 2 because 10<sup>2</sup> = 100
-
 - log<sub>10</sub> 1 is 0 because 10 <sup>0</sup> = 1
 
 In algorithms, we commonly deal with the base-2 logarithm, defined similarly.
 
 - log<sub>2</sub> 1024 is 10 because 2<sup>10</sup> = 1024
-
 - log<sub>2</sub> 9 is slightly more than 3 because 2<sup>3</sup> = 8
-
 - log<sub>2</sub> 1 is 0 because 2<sup>0</sup> = 1
 
 Another way to think of log is the following: log<sub>B</sub>N is the number of times N must be divided by B before it hits 1. For the purposes of determining orders of growth, however, the log base, B, actually doesn't make a difference because, by the change of base formula, we know that any logarithm of N is within a constant factor of any other logarithm of N. We usually express a logarithmic algorithm as simply `log N` as a result.
 
 Algorithms for which the running time is logarithmic are those where processing discards a large proportion of values in each iterations. The binary search algorithm we encountered a few weeks back (in the "guess a number" game) is an example. In each iteration, the algorithm discards half the possible values for the searched-for number, repeatedly dividing the size of the problem by 2 until there is only one value left.
-
-For example, say you started with a range of 1024 numbers in the number guessing game. Each time you would discard half of the numbers so that each round would have the following numbers under consideration:
-
-| Round # | Numbers left |
-|---------|--------------|
-| 1       | 1024         |
-| 2       | 512          |
-| 3       | 256          |
-| 4       | 128          |
-| 5       | 64           |
-| 6       | 32           |
-| 7       | 16           |
-| 8       | 8            |
-| 9       | 4            |
-| 10      | 2            |
-| 11      | 1            |
-
-We know from above that log<sub>2</sub>1024 = 10 which gives us an approximation of how many rounds it will take.
-
-We will see further applications of logarithmic behavior when we work with trees in subsequent activities.
 
 ### Modeling runtime analysis
 
@@ -184,7 +149,9 @@ Consider the following function, `repeatedSum`.
 In `repeatedSum`, we're given an array of `values` of length N. We want to take the repeated sum over the array as defined by the following sequence of `j`'s.
 
 > 0, 1, 2, 3, ... , N-1
+
 > 1, 2, 3, 4, ... , N-1
+
 > 2, 3, 4, 5, ... , N-1
 
 Notice that each time, the number of elements, or the iterations of `j`, being added is reduced by 1. While in the first iteration, we sum over all N elements, in the second iteration, we only sum over N-1 elements. This pattern continues until the outer loop, `i`, has incremented all the way to N.
@@ -253,46 +220,29 @@ Plugging into the formula, we get __2<sup>log<sub>2</sub>N</sup>__ nodes which s
 
 #### Summary
 
-In this section, we learned about three different techniques for analyzing the runtime of program.
+We developed the method of __counting steps__ as a deterministic way of calculating the algorithmic complexity of a program. This works well, but it can be challenging to get the exact instruction count. Oftentimes, however, we don't need exact constants or lower-order terms since, in the long-run, the size of the input, N, is the most significant factor in the runtime of a program. As a consequence, we learned how to __estimate__ the efficiency of an algorithm using proportionality and __orders of growth__.
 
-1. First, we tried to estimate the runtime efficiency of a program by __timing it__. But we found that the results weren't always the same between different computers or even running at different times.
-
-2. Second, we developed the method of __counting steps__ as a deterministic way of calculating the algorithmic complexity of a program. This works well, but it can be challenging to get the exact instruction count. Oftentimes, we don't need exact constants or lower-order terms since, in the long-run, the size of the input, N, is the most significant factor in the runtime of a program.
-
-3. Third, we learned how to __estimate__ the efficiency of an algorithm using proportionality and __orders of growth__.
-
-    - Big-Ο describes an _upper bound_ for an algorithm's runtime.
-
-    - Big-Ω describes a _lower bound_ for an algorithm's runtime.
-
-    - Big-Θ describes a _tight bound_ for an algorithm's runtime.
+- Big-Ο describes an _upper bound_ for an algorithm's runtime.
+- Big-Ω describes a _lower bound_ for an algorithm's runtime.
+- Big-Θ describes a _tight bound_ for an algorithm's runtime.
 
 In the final section, we applied what we learned about counting steps, estimation, and orders of growth to model algorithmic analysis for larger problems. Two techniques, _graphs_ and _call trees_, helped us break down challenging problems into smaller pieces that we could analyze individually.
 
 #### Practical Tips
 
 1. Before attempting to calculate a function's runtime, first try to understand what the function does.
-
 2. Try some small sample inputs to get a better intuition of what the function's runtime is like. What is the function doing with the input? How does the runtime change as the input size increases? Can you spot any 'gotchas' in the code that might invalidate our findings for larger inputs?
-
 3. Try to lower bound and upper bound the function runtime given what you know about how the function works. This is a good sanity check for your later observations.
-
 4. If the function is recursive, draw a call tree to map out the recursive calls. This breaks the problem down into smaller parts that we can analyze individually. Once each part of the tree has been analyzed, we can then reassemble all the parts to determine the overall runtime of the function.
-
 5. If the function has a complicated loop, draw a bar graph to map out how much work the body of the loop executes for each iteration.
 
 #### Useful Formulas
 
 - 1 + 2 + 3 + ... + N is in __Θ(N<sup>2</sup>)__
-
 - There are __N__ terms in the sequence 1, 2, 3, ... , N while the sum of the terms is in __Θ(N<sup>2</sup>)__
-
 - 1 + 2 + 4 + ... + N is in __Θ(N)__
-
 - There are __log<sub>2</sub>(N)__ terms in the sequence 1, 2, 4, ... , N while the sum of the terms is in __Θ(N)__
-
 - The number of nodes in a tree, N, is __k<sup>h</sup>__ where k is the _branching factor_ and h is the _height_ of the tree
-
 - All logarithms are proportional to each other by the Change of Base formula.
 
 It's worth spending a little time proving each of these to yourself with a visual model!
