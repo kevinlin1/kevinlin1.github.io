@@ -4,7 +4,6 @@ title: CS 61A
 ---
 
 ## Section 139
-
 - **Lab**: Tuesdays 9:30 - 11:00 am in 330 [Soda Hall][]
 - **Discussion**: Thursdays 9:30 - 11:00 am somewhere...
 - **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan Hall][] and [by appointment][calendar appointment]
@@ -12,7 +11,6 @@ title: CS 61A
 ### Announcements
 
 #### August 25, 2016
-
 - Fill out this [quick survey][first survey], pretty please!
 - Bookmark the [Course Resources][] page: we'll be keeping it up-to-date!
 - Read these advice posts and **really, really take them to heart**.
@@ -28,7 +26,6 @@ You can always get in touch with me over email, [kevinlin1@berkeley.edu](mailto:
 ----------
 
 ## Key Topics
-
 - Python Notional Machine
 - [Environment Diagram Rules by Andrew Huang](environment-diagrams)
 - [Guide to Orders of Growth and Function Runtime by Andrew Huang][andrew asymptotics]
@@ -38,45 +35,32 @@ You can always get in touch with me over email, [kevinlin1@berkeley.edu](mailto:
 - SQL
 
 ### Guerrilla Sections
-
 Collaborate with other students and learn new material by attending guerrilla section every other week. Led by staff tutors, this is one of the best resources for learning in a highly social environment.
 
 ### Computer Science Mentors
-
 Apply for small group tutoring through [Computer Science Mentors][csm homepage]. Application TBA.
 
 ### An Efficient Algorithm for Studying
-
 1. **Evaluate**: Complete 1 past exam in a quiet, test-taking environment to figure out where you are and which concepts are most challenging for you.
-
 2. **Analyze**: Take some time to figure out not only what you may have missed on the exam, but why. Write it down. Was there a step that you forgot? Or is there a deeper misconception that we need to address? The idea here is that we should narrow things down and study only what we need to study.
-
 3. **Iterate and improve**: Study. Review. Practice. Refer back to the problems that really challenged you. See if you can solve simpler problems first. Start with the most advanced material like guerrilla section worksheets and work your way down to quizzes, worksheets, and labs until you find the level of problems that you're comfortable solving. Then, work your way back up to solving more and more challenging problems. Find help through Piazza, friends, or the course staff until your proficiency increases.
-
 4. **Recursion**: If not satisfied with your understanding of the material, go back to step 1.
 
 #### Tackling Code-Writing Questions
-
 1. Read the question. Read the question again. *Really* read it again. Identify the domain and range. Remember the domain and range when working with the problem later. Write it down. Write it down everywhere if it helps.
-
 2. Study the doctests. Study them intensely. Figure out what the exam is trying to tell you about the problem: **big hints are always given away in the doctest**. Identify a pattern in the solutions! Then, spend some time figuring out a base case that fits the domain and range you identified earlier.
-
 3. Come up with a general idea for solving the problem using the skills you've learned. Does this problem look similar to something you've seen before on the homework? Armed with your experience from homework plus the patterns in the doctest, develop a general idea of how to break down the problem.
-
 4. Write down a rough draft of your code. It probably won't be entirely correct but, after having spent some time thinking about this incomplete solution, you'll have learned a lot about the mechanics of the problem and be much more prepared to try again!
-
 5. Debug. Debug. Debug, debug, debug, debug until your code is flawless. The code won't be right on your first try, but that's entirely normal. **To improve our code, we just need to ask ourselves the right questions.** Imagine if I were there, right next to you. What input would break your program? Think like python: break down each expression and scrutinize it exactly the way python executes your function. You know what the output should look like, so make sure the actual result matches your expectations. If it doesn't match, where is it going wrong? Fix it, and repeat this step until the program is completely bug-free.
 
 ----------
 
 ## Resources and Links
-
 - [Course Resources][]
 - [Python 3 Documentation][python doc]
 - [Online Python Tutor][python tutor]
 
 ### Selected Staff Material
-
 - [Albert's website][albert]
 - [Owen's website][owen]
 - [Tammy's website][tammy]
@@ -84,7 +68,6 @@ Apply for small group tutoring through [Computer Science Mentors][csm homepage].
 - [Sumukh's website][sumukh] plus his [CS 42 book][]
 
 ### Feedback and Surveys
-
 - [Leave feedback for me anonymously][anonymous feedback]
 - [Discussion 0 Survey][first survey]
 
