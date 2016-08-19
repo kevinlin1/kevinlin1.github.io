@@ -9,7 +9,7 @@
 title: Kevin Lin
 email: hello@kevinl.info
 description: >
-  I teach Computer Science at Berkeley. 
+  I teach Computer Science at Berkeley.
 logo: "/assets/images/me.png"
 baseurl: ""
 url: "http://kevinl.info"
@@ -17,7 +17,7 @@ paginate: 10
 
 name: 'Kevin Lin'
 bio: >
-  Berkeley CS + CogSci 2018. I design websites for Berkeley Diversity. Teaching CS is my passion.
+  I teach Computer Science at Berkeley.
 author_image: "/assets/images/me.png"
 twitter_username:
 github_username:  kevinlin1
