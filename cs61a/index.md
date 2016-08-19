@@ -4,9 +4,11 @@ title: CS 61A
 ---
 
 ## Section 139
+- **Course Website**: [cs61a.org](http://cs61a.org)
 - **Lab**: Tuesdays 9:30 - 11:00 am in 330 [Soda Hall][]
 - **Discussion**: Thursdays 9:30 - 11:00 am somewhere...
 - **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan Hall][] and [by appointment][calendar appointment]
+- **Email**: [kevinlin1@berkeley.edu](mailto:kevinlin1@berkeley.edu)
 
 ### Announcements
 
