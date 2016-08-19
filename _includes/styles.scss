@@ -1,7 +1,9 @@
 @import 'bourbon/bourbon';
 @import 'syntax-highlighting';
 
-$grey-color:       #828282;
+$grey-color: #828282;
+$rs: 16px;
+$font-sans: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
 
 .icon {
 
@@ -24,10 +26,6 @@ amp-img {
   @include clearfix;
 }
 
-$rs: 16px;
-
-$font-serif: Merriweather, Georgia, Cambria, "Times New Roman", Times, serif;
-$font-sans: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
 
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
@@ -222,7 +220,7 @@ body {
     font-family: $font-sans;
   }
   .post-title {
-    font-weight: 600;
+    font-weight: 700;
     font-style: normal;
     letter-spacing: -0.04em;
     font-size: 50px;
@@ -257,7 +255,7 @@ body {
 
   .post-content {
     width: 100%;
-    font-family: $font-serif;
+    font-family: $font-sans;
     color: #333333;
     h1, h2, h3 {
       font-family: $font-sans;
@@ -391,7 +389,7 @@ body {
     h4 {
       font-size: 18px;
       line-height: 1.1;
-      font-weight: 600;
+      font-weight: 700;
       padding: 0;
       margin: 0;
       padding-left: 100px;
