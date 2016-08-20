@@ -20,9 +20,9 @@ title: CS 61A
   - [Tammy's *Course Advice*][tammy advice].
   - The **Intro** to [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]. (Recommended: [*Productivity Hacking Guide*][james maa productivity].)
 
-We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class and it's very common for students to fall behind. I encourage you to find a group of study buddies. [*Life is better with a partner.*][syllabus]
+We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class and it's very common for students to fall behind so I really encourage you to find a group of study buddies. After all, [*"life is better with a partner."*][syllabus]
 
-You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit my regular office hours above, or [meet me by appointment][calendar appointment].
+You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit my regular office hours listed above, or [meet me by appointment][calendar appointment] (email me if no time works).
 
 **Welcome to CS 61A!**
 
