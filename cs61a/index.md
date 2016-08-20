@@ -7,7 +7,8 @@ title: CS 61A
 - **Course Website**: [cs61a.org][]
 - **Lab**: Tuesdays 9:30 - 11:00 am in 330 [Soda][]
 - **Discussion**: Thursdays 9:30 - 11:00 am somewhere...
-- **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan][] and [by appointment][calendar appointment]
+- **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan][]
+- [**Schedule a meeting**][calendar appointment]
 - **Email**: <kevinlin1@berkeley.edu>
 
 ### Announcements
@@ -20,9 +21,9 @@ title: CS 61A
   - [Tammy's *Course Advice*][tammy advice].
   - The **Intro** to [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]. (Recommended: [*Productivity Hacking Guide*][james maa productivity].)
 
-We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class and it's very common for students to fall behind so I really encourage you to find a group of study buddies. After all, [*"life is better with a partner."*][syllabus]
+We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class and it's very common for students to fall behind so I encourage you to find a group of study buddies. [*Life is better with a partner.*][syllabus]
 
-You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit my regular office hours listed above, or [meet me by appointment][calendar appointment] (email me if no time works).
+You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit my regular office hours listed above, or [meet me by appointment][calendar appointment].
 
 **Welcome to CS 61A!**
 
