@@ -16,8 +16,9 @@ title: CS 61A
 - Fill out this [quick survey][first survey], pretty please!
 - Bookmark the [Course Resources][] page: we'll be keeping it up-to-date!
 - Read these advice posts and **really, really take them to heart**.
-  - [Owen's Words of Wisdom (?)][owen advice]
-  - [Tammy's Course Advice][tammy advice]
+  - [Owen's *Words of Wisdom (?)*][owen advice].
+  - [Tammy's *Course Advice*][tammy advice].
+  - The **Intro** to [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]. (Recommended: [*Productivity Hacking Guide*][james maa productivity].)
 
 We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class and it's very common for students to fall behind. I encourage you to find a group of study buddies. [*Life is better with a partner.*][syllabus]
 
@@ -90,6 +91,8 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 [python tutor]: http://tutor.cs61a.org/
 
 [albert]: http://albertwu.org/cs61a/
+[james maa advice]: http://www.jamesmaa.com/2013/08/26/a-beginners-guide-to-computer-science/
+[james maa productivity]: http://www.jamesmaa.com/2012/12/02/james-maas-productivity-hacking-guide/
 [owen]: http://owenjow.xyz/cs61a/
 [owen advice]: http://owenjow.xyz/cs61a/words-of-wisdom/
 [sumukh]: http://sumukh.me/?page=cs61a
