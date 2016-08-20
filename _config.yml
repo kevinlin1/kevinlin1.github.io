@@ -19,8 +19,6 @@ name: 'Kevin Lin'
 bio: >
   I teach Computer Science at Berkeley.
 author_image: "/assets/images/me.png"
-twitter_username:
-github_username:  kevinlin1
 
 # Build settings
 markdown: kramdown
