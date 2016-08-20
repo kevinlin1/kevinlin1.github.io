@@ -62,6 +62,9 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 - [Course Resources][]
 - [Python 3 Documentation][python doc]
 - [Online Python Tutor][python tutor]
+- [Owen's *Words of Wisdom (?)*][owen advice]
+- [Tammy's *Course Advice*][tammy advice]
+- [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]
 
 ### Selected Staff Material
 - [Albert's website][albert]
