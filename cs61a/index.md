@@ -8,7 +8,7 @@ title: CS 61A
 - **Lab**: Tuesdays 9:30 - 11:00 am in 330 [Soda][]
 - **Discussion**: Thursdays 9:30 - 11:00 am somewhere...
 - **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan][] and [by appointment][calendar appointment]
-- **Email**: [kevinlin1@berkeley.edu][]
+- **Email**: <kevinlin1@berkeley.edu>
 
 ### Announcements
 
