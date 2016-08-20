@@ -16,7 +16,7 @@ title: CS 61A
 - Fill out this [quick survey][first survey], pretty please!
 - Bookmark the [Course Resources][] page: we'll be keeping it up-to-date!
 - Read these advice posts and **really, really take them to heart**.
-  - [Owen's Obligatory Words of Advice][owen advice]
+  - [Owen's Words of Wisdom (?)][owen advice]
   - [Tammy's Course Advice][tammy advice]
 
 We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class and it's very common for students to fall behind. I encourage you to find a group of study buddies. [*Life is better with a partner.*][syllabus]
@@ -91,7 +91,7 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 
 [albert]: http://albertwu.org/cs61a/
 [owen]: http://owenjow.xyz/cs61a/
-[owen advice]: http://owenjow.xyz/cs61a/obligatory-words-of-advice/
+[owen advice]: http://owenjow.xyz/cs61a/words-of-wisdom/
 [sumukh]: http://sumukh.me/?page=cs61a
 [cs 42 book]: https://42cs.github.io/book/
 [tammy]: http://tmmydngyn.com/cs61a-resources/
