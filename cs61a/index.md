@@ -6,7 +6,7 @@ title: CS 61A
 ## Section 139
 - **Course Website**: [cs61a.org][]
 - **Lab**: Tuesdays 9:30 - 11:00 am in 330 [Soda][]
-- **Discussion**: Thursdays 9:30 - 11:00 am somewhere...
+- **Discussion**: Thursdays 9:30 - 11:00 am in 540AB [Cory][]
 - **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan][]
 - [**Schedule a meeting**][calendar appointment]
 - **Email**: <kevinlin1@berkeley.edu>
@@ -107,4 +107,5 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 
 [csm]: http://csmentors.berkeley.edu/
 [soda]: http://www.berkeley.edu/map?soda
+[cory]: http://www.berkeley.edu/map/?cory
 [morgan]: http://www.berkeley.edu/map?morgan
