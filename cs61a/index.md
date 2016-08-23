@@ -15,13 +15,13 @@ title: CS 61A
 
 #### August 25, 2016
 - Fill out this [quick survey][first survey], pretty please!
-- Bookmark the [Course Resources][] page: we'll be keeping it up-to-date!
+- Bookmark the [Course Resources][] page: we'll be keeping it up-to-date.
 - Read these advice posts and **really, really take them to heart**.
   - [Owen's *Words of Wisdom (?)*][owen advice].
   - [Tammy's *Course Advice*][tammy advice].
   - The **Intro** to [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]. (Recommended: [*Productivity Hacking Guide*][james maa productivity].)
 
-We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class and it's very common for students to fall behind so I encourage you to find a group of study buddies. [*Life is better with a partner.*][syllabus]
+We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class so I encourage you to find a study partner or a group of study buddies. [*Life is better with a partner.*][syllabus]
 
 You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit my regular office hours listed above, or [meet me by appointment][calendar appointment].
 
