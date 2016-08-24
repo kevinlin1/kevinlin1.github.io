@@ -11,14 +11,14 @@ hidden: true
 
 ## Calling User Defined Functions
 1. Evaluate the operator and operands.
-2. Create a new frame; the parent is whatever the operator s parent is. Now this is the current frame.
+2. Create a new frame; the parent is whatever the operator's parent is. Now this is the current frame.
 3. Bind the formal parameters to the argument values (the evaluated operands).
 4. Evaluate the body of the operator in the context of this new frame.
 5. After evaluating the body, go back to the frame that called the function.
 
 ## Assignment
 1. Evaluate the expression to the right of the assignment operator, `=`.
-2. If `nonlocal`, find the frame that has the variable you re looking for starting in the parent frame and ending just before the global frame (via Lookup rules). Otherwise, use the current frame. Note: If there are multiple frames that have the same variable, pick the frame closest to the current frame.
+2. If `nonlocal`, find the frame that has the variable you're looking for starting in the parent frame and ending just before the global frame (via Lookup rules). Otherwise, use the current frame. Note: If there are multiple frames that have the same variable, pick the frame closest to the current frame.
 3. Bind the variable name to the value of the expression in the identified frame. Be sure you override the variable name if it had a previous binding.
 
 ## Lookup
