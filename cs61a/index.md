@@ -27,6 +27,13 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 
 **Welcome to CS 61A!**
 
+##### First Week Logistics
+ - [Lab 0][] is a take-home assignment due Monday, August 29.
+ - Lab 1 will be next Tuesday at the regular lab time above.
+ - Homework 1, releasing soon, will be in 3 parts: a short 'vitamin', the main problem set, and a correctness quiz. Partner collaboration is only allowed for the main problem set.
+ - Make sure you're enrolled in [Piazza][cs61a piazza] to get updates and get to know the [syllabus][]!
+ - **Strongly encourage you to find a project partner in section!**
+
 ----------
 
 ## Key Topics
@@ -81,10 +88,13 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 [kevinlin1@berkeley.edu]: mailto:kevinlin1@berkeley.edu
 [cs61a.org]: http://cs61a.org
 [syllabus]: http://cs61a.org/articles/about.html
+[cs61a piazza]: https://piazza.com/class/irwl7o7shzu70z
 
 [calendar appointment]: https://calendar.google.com/calendar/selfsched?sstoken=UUxUckJmcl80Vm9UfGRlZmF1bHR8NTE5N2NhNWQ2OTI3MjRkZjgzMGFhMmE0MTIxN2U1MWE
 [first survey]: https://docs.google.com/forms/d/e/1FAIpQLScqAgS-BRfBZymh7SAKuvMCkbL4jOGzfvrOyL0obbeiZxEJXQ/viewform
 [anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
+
+[lab 0]: http://cs61a.org/lab/lab00/
 
 [course resources]: http://cs61a.org/articles/resources.html
 [andrew asymptotics]: https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit
