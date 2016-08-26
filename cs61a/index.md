@@ -14,7 +14,7 @@ title: CS 61A
 ### Announcements
 
 #### August 25, 2016
-- Fill out this [quick survey][first survey], pretty please!
+- Fill out this [quick survey][disc00 survey], pretty please!
 - Bookmark the [Course Resources][] page: we'll be keeping it up-to-date.
 - Read these advice posts and **really, really take them to heart**.
   - [Owen's *Words of Wisdom (?)*][owen advice].
@@ -83,7 +83,7 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 
 ### Feedback and Surveys
 - [Leave feedback for me anonymously][anonymous feedback]
-- [Discussion 0 Survey][first survey]
+- [Discussion 0 Survey][disc00 survey]
 
 [kevinlin1@berkeley.edu]: mailto:kevinlin1@berkeley.edu
 [cs61a.org]: http://cs61a.org
@@ -91,8 +91,8 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 [cs61a piazza]: https://piazza.com/class/irwl7o7shzu70z
 
 [calendar appointment]: https://calendar.google.com/calendar/selfsched?sstoken=UUxUckJmcl80Vm9UfGRlZmF1bHR8NTE5N2NhNWQ2OTI3MjRkZjgzMGFhMmE0MTIxN2U1MWE
-[first survey]: https://docs.google.com/forms/d/e/1FAIpQLScqAgS-BRfBZymh7SAKuvMCkbL4jOGzfvrOyL0obbeiZxEJXQ/viewform
 [anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
+[disc00 survey]: https://docs.google.com/forms/d/e/1FAIpQLScqAgS-BRfBZymh7SAKuvMCkbL4jOGzfvrOyL0obbeiZxEJXQ/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
 
