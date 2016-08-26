@@ -5,7 +5,7 @@ hidden: true
 ---
 
 ## Creating a Function
-1. Draw the func `<name>(<arg1>, <arg2>, ...)`
+1. Draw the `func <name>(<arg1>, <arg2>, ...)`
 2. The parent of the function is wherever the function was defined (the frame we're currently in, since we're creating the function).
 3. If we used `def`, make a binding of the name to the value in the current frame.
 
