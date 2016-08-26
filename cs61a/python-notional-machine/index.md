@@ -69,9 +69,9 @@ Let’s say we’re trying to evaluate the following code.
 
     def make_adder(n):
 	    """Returns a function that adds N."""
-	    def hof(x):
+	    def adder(x):
 		    return n + x
-	    return hof
+	    return adder
 	make_adder(mul(1, 2))(3)
 
 What’s our first move after defining the `make_adder` function in the global frame? We learned above that python evaluates from left to right, operators first then operands, so let’s see how far that gets us!
@@ -79,7 +79,7 @@ What’s our first move after defining the `make_adder` function in the global f
     __________
     make_adder(mul(1, 2))(3)
 
-The first thing we do is take a look at the operator: `make_adder` is a higher-order function that we’ve defined above. It takes in some number and returns a one-parameter function, `hof`, that does the actual work of adding both numbers together.
+The first thing we do is take a look at the operator: `make_adder` is a higher-order function that we’ve defined above. It takes in some number and returns a one-parameter function, `adder`, that does the actual work of adding both numbers together.
 
 Next, we see an open parentheses which signals to us that the arguments will be coming up.
 
@@ -88,8 +88,8 @@ Next, we see an open parentheses which signals to us that the arguments will be 
 
 Like we demonstrated earlier, this function call to `mul(1, 2)` is not a **final value**. We must evaluate this function call before proceeding. The first function call to `mul` gives us 2 in return which is the final value we were looking for. Plugging back into `make_adder`, we can imagine the original call looks something like `make_adder(2)(3)`.
 
-At this point, we've completely evaluated all of `make_adder`'s operands. As the second operation, we can call `make_adder(2)` which returns the higher-order function, `hof` whose parent is the `make_adder` frame. But we have not done anything with this function just yet.
+At this point, we've completely evaluated all of `make_adder`'s operands. As the second operation, we can call `make_adder(2)` which returns the higher-order function, `adder` whose parent is the `make_adder` frame. But we have not done anything with this function just yet.
 
-To help illustrate where we’re at after calling the frame, you can think of the original call as now looking like `hof(3)`. Evaluating this as we would normally, we can open a frame for `hof` and call it with 3 as the argument. The body of `hof` tells us to add `n + x` which returns 5 in this case, the answer to the original computation.
+To help illustrate where we’re at after calling the frame, you can think of the original call as now looking like `adder(3)`. Evaluating this as we would normally, we can open a frame for `adder` and call it with 3 as the argument. The body of `adder` tells us to add `n + x` which returns 5 in this case, the answer to the original computation.
 
-It might seem like an awful lot of work to do such a simple computation, but it’s important that we practice all of these steps. With higher-order functions, the first function call to `make_adder(n)` should return a function which will become the new **operator** to some other argument, `x`. We’ll still have to perform the same steps of inspecting `make_adder` and its arguments before opening the `make_adder` frame, but there’s an added layer of complexity as `make_adder`’s `hof` is the **operator** for another set of arguments.
+It might seem like an awful lot of work to do such a simple computation, but it’s important that we practice all of these steps. With higher-order functions, the first function call to `make_adder(n)` should return a function which will become the new **operator** to some other argument, `x`. We’ll still have to perform the same steps of inspecting `make_adder` and its arguments before opening the `make_adder` frame, but there’s an added layer of complexity as `make_adder`’s `adder` is the **operator** for another set of arguments.
