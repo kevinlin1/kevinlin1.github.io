@@ -37,13 +37,6 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 
 **Welcome to CS 61A!**
 
-##### First Week Logistics
- - [Lab 0][] is a take-home assignment due Monday, August 29.
- - Lab 1 will be next Tuesday at the regular lab time above.
- - Homework 1, releasing soon, will be in 3 parts: a short 'vitamin', the main problem set, and a correctness quiz. Partner collaboration is only allowed for the main problem set.
- - Make sure you're enrolled in [Piazza][cs61a piazza] to get updates and get to know the [syllabus][]!
- - **Strongly encourage you to find a project partner in section!**
-
 ----------
 
 ## Key Topics
