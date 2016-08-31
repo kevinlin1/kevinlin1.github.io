@@ -17,7 +17,7 @@ title: CS 61A
 - [Survey, round 2!][disc01 survey] This time with 100% more food options!
 - Read [Andrew's Environment Diagram Rules](environment-diagrams) and practice, practice, practice until you **love drawing them**. Seriously: they should become one of the most fun parts of the exam.
   - [Albert's Environment Diagrams page][albert environment diagrams] is also a fantastic resource.
-  - If intuition behind order of evaluation is still a little confusing, [I have a lot of words for you.](python-notional-machine). The [lecture 1 slides][cs61a.org] also have great visuals for breaking down a call expression.
+  - If intuition behind order of evaluation is still a little confusing, [I have a lot of words for you](python-notional-machine). The [lecture 1 slides][cs61a.org] also have great visuals for breaking down a call expression.
 - Read the **Tools** section of [James Maa's *A Beginner's Guide to Computer Science*][james maa advice].
 - Remember the [early submission policy][early policy].
 
