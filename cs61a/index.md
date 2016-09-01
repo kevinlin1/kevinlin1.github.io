@@ -13,6 +13,16 @@ title: CS 61A
 
 ### Announcements
 
+#### September 1, 2016
+- [Survey, round 2!][disc01 survey] This time with 100% more food options!
+- Read [Andrew's Environment Diagram Rules](environment-diagrams) and practice, practice, practice until you **love drawing them**. Seriously: they should become one of the most fun parts of the exam.
+  - [Albert's Environment Diagrams page][albert environment diagrams] is also a fantastic resource.
+  - If intuition behind order of evaluation is still a little confusing, [I have a lot of words for you](python-notional-machine). The [lecture 1 slides][cs61a.org] also have great visuals for breaking down a call expression.
+- Read the **Tools** section of [James Maa's *A Beginner's Guide to Computer Science*][james maa advice].
+- Remember the [early submission policy][early policy].
+
+> On each project, you can earn an additional bonus point by submitting the project at least 24 hours before the deadline. In addition, if you submit at least 10 homework assignments 24 hours before the deadline, you can earn one additional bonus point for the semester.
+
 #### August 25, 2016
 - Fill out this [quick survey][disc00 survey], pretty please!
 - Bookmark the [Course Resources][] page: we'll be keeping it up-to-date.
@@ -26,13 +36,6 @@ We've got a long road ahead of us but we can make it to the finish line together
 You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit my regular office hours listed above, or [meet me by appointment][calendar appointment].
 
 **Welcome to CS 61A!**
-
-##### First Week Logistics
- - [Lab 0][] is a take-home assignment due Monday, August 29.
- - Lab 1 will be next Tuesday at the regular lab time above.
- - Homework 1, releasing soon, will be in 3 parts: a short 'vitamin', the main problem set, and a correctness quiz. Partner collaboration is only allowed for the main problem set.
- - Make sure you're enrolled in [Piazza][cs61a piazza] to get updates and get to know the [syllabus][]!
- - **Strongly encourage you to find a project partner in section!**
 
 ----------
 
@@ -88,11 +91,14 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 [kevinlin1@berkeley.edu]: mailto:kevinlin1@berkeley.edu
 [cs61a.org]: http://cs61a.org
 [syllabus]: http://cs61a.org/articles/about.html
+[early policy]: http://cs61a.org/articles/about.html#early-policy
 [cs61a piazza]: https://piazza.com/class/irwl7o7shzu70z
 
 [calendar appointment]: https://calendar.google.com/calendar/selfsched?sstoken=UUxUckJmcl80Vm9UfGRlZmF1bHR8NTE5N2NhNWQ2OTI3MjRkZjgzMGFhMmE0MTIxN2U1MWE
 [anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
 [disc00 survey]: https://docs.google.com/forms/d/e/1FAIpQLScqAgS-BRfBZymh7SAKuvMCkbL4jOGzfvrOyL0obbeiZxEJXQ/viewform
+[disc01 survey]: https://docs.google.com/forms/d/e/1FAIpQLSfov43B3zDgSJuevM2PC0Ijz3zRs805BQLBGRj70UpfzXFF3w/viewform
+[disc02 survey]: https://docs.google.com/forms/d/e/1FAIpQLSda8ZzNnMEUVcvMK6Z4wPgSIVC1XGqhjWRSPWZnMMvKTZRo-w/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
 
