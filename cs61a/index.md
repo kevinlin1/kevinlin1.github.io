@@ -13,6 +13,15 @@ title: CS 61A
 
 ### Announcements
 
+#### September 8, 2016
+- [Yet another survey.][disc02 survey] It never ends.
+- Midterm prep time! Study for the midterm this weekend using my patent-pending *Efficient Algorithm for Studying*.
+  - Now is the time to use the [Course Resources][] page!
+  - **Absolutely make sure to read and internalize [Jerry's midterm 1 slides][jerry mt1 slides] and [Andrew Huang's midterm 1 reminders][andrew mt1 doc].**
+- Tutor-led guerrilla section on Saturday, Sept. 10 from 12-3 pm in the 271 Soda.
+- TA-led midterm 1 review session on Sunday, Sept. 11 from 12-3 pm in 155 Dwinelle.
+- Extra midterm 1 office hours available by [calendar appointment][].
+
 #### September 1, 2016
 - [Survey, round 2!][disc01 survey] This time with 100% more food options!
 - Read [Andrew's Environment Diagram Rules](environment-diagrams) and practice, practice, practice until you **love drawing them**. Seriously: they should become one of the most fun parts of the exam.
@@ -100,6 +109,7 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 [disc00 survey]: https://docs.google.com/forms/d/e/1FAIpQLScqAgS-BRfBZymh7SAKuvMCkbL4jOGzfvrOyL0obbeiZxEJXQ/viewform
 [disc01 survey]: https://docs.google.com/forms/d/e/1FAIpQLSfov43B3zDgSJuevM2PC0Ijz3zRs805BQLBGRj70UpfzXFF3w/viewform
 [disc02 survey]: https://docs.google.com/forms/d/e/1FAIpQLSda8ZzNnMEUVcvMK6Z4wPgSIVC1XGqhjWRSPWZnMMvKTZRo-w/viewform
+[disc03 survey]: https://docs.google.com/forms/d/e/1FAIpQLSez4RyhszB2gExRwvlBtkaWLVqkKtzdmLdGHw0smH6UuCVPzg/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
 
@@ -112,8 +122,10 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 [python tutor]: http://tutor.cs61a.org/
 
 [albert]: http://albertwu.org/cs61a/
+[andrew mt1 doc]: https://docs.google.com/document/d/1yL0H1FYXnqjwmaqTGMkx0lGcGen5yj_deIEF9EoE9HQ/edit
 [james maa advice]: http://www.jamesmaa.com/2013/08/26/a-beginners-guide-to-computer-science/
 [james maa productivity]: http://www.jamesmaa.com/2012/12/02/james-maas-productivity-hacking-guide/
+[jerry mt1 slides]: https://drive.google.com/file/d/0BzajjJ0GTP-CZlNsWnBJTDVqMlk/view
 [owen]: http://owenjow.xyz/cs61a/
 [owen advice]: http://owenjow.xyz/cs61a/words-of-wisdom/
 [sumukh]: http://sumukh.me/?page=cs61a
