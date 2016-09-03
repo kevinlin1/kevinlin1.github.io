@@ -15,12 +15,13 @@ title: CS 61A
 
 #### September 8, 2016
 - [Yet another survey.][disc02 survey] It never ends.
-- Midterm prep time! Study for the midterm this weekend using my patent-pending *Efficient Algorithm for Studying*.
+- Midterm 1 on Thursday, Sept. 15. Study for the midterm using my patent-pending *Efficient Algorithm for Studying*.
   - Now is the time to use the [Course Resources][] page!
   - **Absolutely make sure to read and internalize [Jerry's midterm 1 slides][jerry mt1 slides] and [Andrew Huang's midterm 1 reminders][andrew mt1 doc].**
+  - No discussion section next week: extra office hours available by [calendar appointment][].
 - Tutor-led guerrilla section on Saturday, Sept. 10 from 12-3 pm in the 271 Soda.
 - TA-led midterm 1 review session on Sunday, Sept. 11 from 12-3 pm in 155 Dwinelle.
-- Extra midterm 1 office hours available by [calendar appointment][].
+- [Quiz 2](quiz/quiz02.pdf) and [solutions](quiz/quiz02_sol.pdf).
 
 #### September 1, 2016
 - [Survey, round 2!][disc01 survey] This time with 100% more food options!
