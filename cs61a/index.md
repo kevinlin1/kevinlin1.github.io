@@ -18,9 +18,11 @@ title: CS 61A
 - Midterm 1 on Thursday, Sept. 15. Study for the midterm using my patent-pending *Efficient Algorithm for Studying*.
   - Now is the time to use the [Course Resources][] page!
   - **Absolutely make sure to read and internalize [Jerry's midterm 1 slides][jerry mt1 slides] and [Andrew Huang's midterm 1 reminders][andrew mt1 doc].**
-  - No discussion section next week: extra office hours available by [calendar appointment][].
-- Tutor-led guerrilla section on Saturday, Sept. 10 from 12-3 pm in the 271 Soda.
+  - No discussion section next week: extra office hours available by [calendar appointment][]. Lab on Tuesday will be midterm review.
+  - If you have a conflict, fill out the [midterm 1 conflict form][mt1 conflict form] by Sunday night.
+- Tutor-led guerrilla section on Saturday, Sept. 10 from 12-3 pm in the 247 Cory.
 - TA-led midterm 1 review session on Sunday, Sept. 11 from 12-3 pm in 155 Dwinelle.
+- Sign up for [Computer Science Mentors group tutoring][csm scheduler].
 - [Quiz 2](quiz/quiz02.pdf) and [solutions](quiz/quiz02_sol.pdf).
 
 #### September 1, 2016
@@ -58,12 +60,6 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 - Inheritance
 - Scheme
 - SQL
-
-### Guerrilla Sections
-Collaborate with other students and learn new material by attending guerrilla section every other week. Led by staff tutors, this is one of the best resources for learning in a highly social environment.
-
-### Computer Science Mentors
-Apply for small group tutoring through [Computer Science Mentors][csm]. Application TBA.
 
 ### An Efficient Algorithm for Studying
 1. **Evaluate**: Complete 1 past exam in a quiet, test-taking environment to figure out where you are and which concepts are most challenging for you.
@@ -113,6 +109,7 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 [disc03 survey]: https://docs.google.com/forms/d/e/1FAIpQLSez4RyhszB2gExRwvlBtkaWLVqkKtzdmLdGHw0smH6UuCVPzg/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
+[mt1 conflict form]: https://docs.google.com/forms/d/e/1FAIpQLScTmByOMKJ74vcThhsONJymUedgKS9yQ-pXBPuxHWiwsKfghg/viewform
 
 [course resources]: http://cs61a.org/articles/resources.html
 [andrew asymptotics]: https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit
@@ -136,6 +133,7 @@ Apply for small group tutoring through [Computer Science Mentors][csm]. Applicat
 [vivian]: http://www.vivian.tk/cs61a
 
 [csm]: http://csmentors.berkeley.edu/
+[csm scheduler]: https://csmscheduler.herokuapp.com/
 [soda]: http://www.berkeley.edu/map?soda
 [cory]: http://www.berkeley.edu/map/?cory
 [morgan]: http://www.berkeley.edu/map?morgan
