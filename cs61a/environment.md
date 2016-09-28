@@ -2,7 +2,7 @@
 layout: page
 title: Environment Diagram Rules
 hidden: true
-permalink: /environment
+permalink: environment
 ---
 
 ## Creating a Function
