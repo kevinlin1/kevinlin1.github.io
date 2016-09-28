@@ -2,7 +2,7 @@
 layout: page
 title: Environment Diagram Rules
 hidden: true
-permalink: /cs61a/environment-diagrams
+permalink: /environment
 ---
 
 ## Creating a Function

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: CS 61A
-permalink: /cs61a
 ---
 
 Key Topics
