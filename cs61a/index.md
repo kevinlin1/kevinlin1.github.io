@@ -37,7 +37,7 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 ----------
 
 ## Key Topics
-- Python Notional Machine
+- [Python Notional Machine](python-notional-machine)
 - [Environment Diagram Rules by Andrew Huang](environment-diagrams)
 - [Guide to Orders of Growth and Function Runtime by Andrew Huang][andrew asymptotics]
 - [Environment Diagrams][albert environment diagrams], [Order of Operations][albert order of operations], and [Lists][albert lists] by Albert Wu
