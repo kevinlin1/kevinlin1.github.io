@@ -4,26 +4,35 @@ title: CS 61A
 ---
 
 ## Section 139
-- **Course Website**: [cs61a.org](http://cs61a.org)
-- **Lab**: Tuesdays 9:30 - 11:00 am in 330 [Soda Hall][]
-- **Discussion**: Thursdays 9:30 - 11:00 am somewhere...
-- **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan][] and [by appointment][calendar appointment]
+- **Course Website**: [cs61a.org][]
+- **Lab**: Tuesdays 9:30 - 11:00 am in 330 [Soda][]
+- **Discussion**: Thursdays 9:30 - 11:00 am in 540AB [Cory][]
+- **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan][]
+- [**Schedule a meeting**][calendar appointment]
 - **Email**: <kevinlin1@berkeley.edu>
 
 ### Announcements
 
 #### August 25, 2016
-- Fill out this [quick survey][first survey], pretty please!
-- Bookmark the [Course Resources][] page: we'll be keeping it up-to-date!
+- Fill out this [quick survey][disc00 survey], pretty please!
+- Bookmark the [Course Resources][] page: we'll be keeping it up-to-date.
 - Read these advice posts and **really, really take them to heart**.
-  - [Owen's Obligatory Words of Advice][owen advice]
-  - [Tammy's Course Advice][tammy advice]
+  - [Owen's *Words of Wisdom (?)*][owen advice].
+  - [Tammy's *Course Advice*][tammy advice].
+  - The **Intro** to [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]. (Recommended: [*Productivity Hacking Guide*][james maa productivity].)
 
-We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class and it's very common for students to fall behind so I want to encourage you to find a group of study buddies and stay in touch with me.
+We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class so I encourage you to find a study partner or a group of study buddies. [*Life is better with a partner.*][syllabus]
 
-You can always get in touch with me over email, [kevinlin1@berkeley.edu](mailto:kevinlin1@berkeley.edu), or visit my regular office hours ([or schedule one by appointment][calendar appointment]). I want you to succeed!
+You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit my regular office hours listed above, or [meet me by appointment][calendar appointment] (email me if no time works).
 
 **Welcome to CS 61A!**
+
+##### First Week Logistics
+ - [Lab 0][] is a take-home assignment due Monday, August 29.
+ - Lab 1 will be next Tuesday at the regular lab time above.
+ - Homework 1, releasing soon, will be in 3 parts: a short 'vitamin', the main problem set, and a correctness quiz. Partner collaboration is only allowed for the main problem set.
+ - Make sure you're enrolled in [Piazza][cs61a piazza] to get updates and get to know the [syllabus][]!
+ - **Strongly encourage you to find a project partner in section!**
 
 ----------
 
@@ -40,13 +49,13 @@ You can always get in touch with me over email, [kevinlin1@berkeley.edu](mailto:
 Collaborate with other students and learn new material by attending guerrilla section every other week. Led by staff tutors, this is one of the best resources for learning in a highly social environment.
 
 ### Computer Science Mentors
-Apply for small group tutoring through [Computer Science Mentors][csm homepage]. Application TBA.
+Apply for small group tutoring through [Computer Science Mentors][csm]. Application TBA.
 
 ### An Efficient Algorithm for Studying
 1. **Evaluate**: Complete 1 past exam in a quiet, test-taking environment to figure out where you are and which concepts are most challenging for you.
 2. **Analyze**: Take some time to figure out not only what you may have missed on the exam, but why. Write it down. Was there a step that you forgot? Or is there a deeper misconception that we need to address? The idea here is that we should narrow things down and study only what we need to study.
 3. **Iterate and improve**: Study. Review. Practice. Refer back to the problems that really challenged you. See if you can solve simpler problems first. Start with the most advanced material like guerrilla section worksheets and work your way down to quizzes, worksheets, and labs until you find the level of problems that you're comfortable solving. Then, work your way back up to solving more and more challenging problems. Find help through Piazza, friends, or the course staff until your proficiency increases.
-4. **Recursion**: If not satisfied with your understanding of the material, go back to step 1.
+4. **Recurse**: If not satisfied with your understanding of the material, go back to step 1.
 
 #### Tackling Code-Writing Questions
 1. Read the question. Read the question again. *Really* read it again. Identify the domain and range. Remember the domain and range when working with the problem later. Write it down. Write it down everywhere if it helps.
@@ -61,6 +70,9 @@ Apply for small group tutoring through [Computer Science Mentors][csm homepage].
 - [Course Resources][]
 - [Python 3 Documentation][python doc]
 - [Online Python Tutor][python tutor]
+- [Owen's *Words of Wisdom (?)*][owen advice]
+- [Tammy's *Course Advice*][tammy advice]
+- [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]
 
 ### Selected Staff Material
 - [Albert's website][albert]
@@ -71,11 +83,18 @@ Apply for small group tutoring through [Computer Science Mentors][csm homepage].
 
 ### Feedback and Surveys
 - [Leave feedback for me anonymously][anonymous feedback]
-- [Discussion 0 Survey][first survey]
+- [Discussion 0 Survey][disc00 survey]
+
+[kevinlin1@berkeley.edu]: mailto:kevinlin1@berkeley.edu
+[cs61a.org]: http://cs61a.org
+[syllabus]: http://cs61a.org/articles/about.html
+[cs61a piazza]: https://piazza.com/class/irwl7o7shzu70z
 
 [calendar appointment]: https://calendar.google.com/calendar/selfsched?sstoken=UUxUckJmcl80Vm9UfGRlZmF1bHR8NTE5N2NhNWQ2OTI3MjRkZjgzMGFhMmE0MTIxN2U1MWE
-[first survey]: https://docs.google.com/forms/d/e/1FAIpQLScqAgS-BRfBZymh7SAKuvMCkbL4jOGzfvrOyL0obbeiZxEJXQ/viewform
 [anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
+[disc00 survey]: https://docs.google.com/forms/d/e/1FAIpQLScqAgS-BRfBZymh7SAKuvMCkbL4jOGzfvrOyL0obbeiZxEJXQ/viewform
+
+[lab 0]: http://cs61a.org/lab/lab00/
 
 [course resources]: http://cs61a.org/articles/resources.html
 [andrew asymptotics]: https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit
@@ -86,14 +105,17 @@ Apply for small group tutoring through [Computer Science Mentors][csm homepage].
 [python tutor]: http://tutor.cs61a.org/
 
 [albert]: http://albertwu.org/cs61a/
+[james maa advice]: http://www.jamesmaa.com/2013/08/26/a-beginners-guide-to-computer-science/
+[james maa productivity]: http://www.jamesmaa.com/2012/12/02/james-maas-productivity-hacking-guide/
 [owen]: http://owenjow.xyz/cs61a/
-[owen advice]: http://owenjow.xyz/cs61a/obligatory-words-of-advice/
+[owen advice]: http://owenjow.xyz/cs61a/words-of-wisdom/
 [sumukh]: http://sumukh.me/?page=cs61a
 [cs 42 book]: https://42cs.github.io/book/
 [tammy]: http://tmmydngyn.com/cs61a-resources/
 [tammy advice]: http://tmmydngyn.com/cs61a-resources/other/exams.html
 [vivian]: http://www.vivian.tk/cs61a
 
-[csm homepage]: http://csmentors.berkeley.edu/
-[soda hall]: http://www.berkeley.edu/map?soda
-[morgan hall]: http://www.berkeley.edu/map?morgan
+[csm]: http://csmentors.berkeley.edu/
+[soda]: http://www.berkeley.edu/map?soda
+[cory]: http://www.berkeley.edu/map/?cory
+[morgan]: http://www.berkeley.edu/map?morgan
