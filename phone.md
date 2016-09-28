@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Phone
 hidden: true
 permalink: /phone
