@@ -13,6 +13,11 @@ title: CS 61A
 
 ### Announcements
 
+#### September 22, 2016
+- [Survey.][disc03 survey]
+- If you'd like to talk, [let's meet!][calendar appointment] If none of the times work, we can also figure out something [over email][kevinlin1@berkeley.edu].
+- [Quiz 3](quiz/quiz03.pdf) and [solutions](quiz/quiz03_sol.pdf).
+
 #### September 8, 2016
 - [Yet another survey.][disc02 survey] It never ends.
 - Midterm 1 on Thursday, Sept. 15. Study for the midterm using my patent-pending *Efficient Algorithm for Studying*.
@@ -93,7 +98,6 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 
 ### Feedback and Surveys
 - [Leave feedback for me anonymously][anonymous feedback]
-- [Discussion 0 Survey][disc00 survey]
 
 [kevinlin1@berkeley.edu]: mailto:kevinlin1@berkeley.edu
 [cs61a.org]: http://cs61a.org
@@ -107,6 +111,7 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [disc01 survey]: https://docs.google.com/forms/d/e/1FAIpQLSfov43B3zDgSJuevM2PC0Ijz3zRs805BQLBGRj70UpfzXFF3w/viewform
 [disc02 survey]: https://docs.google.com/forms/d/e/1FAIpQLSda8ZzNnMEUVcvMK6Z4wPgSIVC1XGqhjWRSPWZnMMvKTZRo-w/viewform
 [disc03 survey]: https://docs.google.com/forms/d/e/1FAIpQLSez4RyhszB2gExRwvlBtkaWLVqkKtzdmLdGHw0smH6UuCVPzg/viewform
+[disc04 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyLA7yZLE2VlYsXh7GJa0xtXKUoXfzja4bJ5_Pc1Ja5X4gJg/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
 [mt1 conflict form]: https://docs.google.com/forms/d/e/1FAIpQLScTmByOMKJ74vcThhsONJymUedgKS9yQ-pXBPuxHWiwsKfghg/viewform
