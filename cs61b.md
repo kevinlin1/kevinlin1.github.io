@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My New Post
+title: CS 61B
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit!
