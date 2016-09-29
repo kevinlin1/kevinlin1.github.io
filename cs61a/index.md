@@ -13,6 +13,11 @@ title: CS 61A
 
 ### Announcements
 
+#### September 29, 2016
+- [Survey-survey.][disc04 survey]
+- Read [Andrew Huang's Guide to Orders of Growth and Function Runtime][andrew oog guide]. If you'd like more practice, check out the [Course Resources][] page!
+- [Quiz 4](quiz/quiz04.pdf) and [solutions](quiz/quiz04_sol.pdf).
+
 #### September 22, 2016
 - [Survey.][disc03 survey]
 - If you'd like to talk, [let's meet!][calendar appointment] If none of the times work, we can also figure out something [over email][kevinlin1@berkeley.edu].
@@ -112,12 +117,14 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [disc02 survey]: https://docs.google.com/forms/d/e/1FAIpQLSda8ZzNnMEUVcvMK6Z4wPgSIVC1XGqhjWRSPWZnMMvKTZRo-w/viewform
 [disc03 survey]: https://docs.google.com/forms/d/e/1FAIpQLSez4RyhszB2gExRwvlBtkaWLVqkKtzdmLdGHw0smH6UuCVPzg/viewform
 [disc04 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyLA7yZLE2VlYsXh7GJa0xtXKUoXfzja4bJ5_Pc1Ja5X4gJg/viewform
+[disc05 survey]: https://docs.google.com/forms/d/e/1FAIpQLSd7TczE0OKODaiAv6xUqwFcTxptr9Ta8svcanwEF2RwkMLVJw/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
 [mt1 conflict form]: https://docs.google.com/forms/d/e/1FAIpQLScTmByOMKJ74vcThhsONJymUedgKS9yQ-pXBPuxHWiwsKfghg/viewform
 
 [course resources]: http://cs61a.org/articles/resources.html
 [andrew asymptotics]: https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit
+[andrew oog guide]: https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit#heading=h.ldtgx4uhox88
 [albert environment diagrams]: http://albertwu.org/cs61a/notes/environments.html
 [albert order of operations]: http://albertwu.org/cs61a/notes/oop.html
 [albert lists]: http://albertwu.org/cs61a/notes/indexing.html
