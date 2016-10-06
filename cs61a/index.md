@@ -13,6 +13,10 @@ title: CS 61A
 
 ### Announcements
 
+#### October 6, 2016
+- [Survey.][disc05 survey]
+- [Quiz 5](quiz/quiz05.pdf) and [solutions](quiz/quiz05_sol.pdf).
+
 #### September 29, 2016
 - [Survey-survey.][disc04 survey]
 - Read [Andrew Huang's Guide to Orders of Growth and Function Runtime][andrew oog guide]. If you'd like more practice, check out the [Course Resources][] page!
