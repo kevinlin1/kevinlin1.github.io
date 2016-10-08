@@ -43,6 +43,7 @@ main {
 }
 
 body {
+  background-color: #fff;
   font-family: $font-sans;
   margin: 0;
   padding: 0;
@@ -276,6 +277,14 @@ body {
       font-style: normal;
       font-size: 42px;
       line-height: 1.2;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    table, th, td {
+      border: 1px solid black;
+      padding: 5px;
+      text-align: left;
     }
     p {
       font-weight: 400;
