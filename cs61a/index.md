@@ -13,6 +13,10 @@ title: CS 61A
 
 ### Announcements
 
+#### October 27, 2016
+- [Another one.][disc07 survey]
+- [Quiz 7](quiz/quiz07.pdf) and [solutions](quiz/quiz07_sol.pdf).
+
 #### October 13, 2016
 - [This one's not very special.][disc06 survey]
 - [Quiz 6](quiz/quiz06.pdf) and [solutions](quiz/quiz06_sol.pdf).
@@ -127,6 +131,7 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [disc04 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyLA7yZLE2VlYsXh7GJa0xtXKUoXfzja4bJ5_Pc1Ja5X4gJg/viewform
 [disc05 survey]: https://docs.google.com/forms/d/e/1FAIpQLSd7TczE0OKODaiAv6xUqwFcTxptr9Ta8svcanwEF2RwkMLVJw/viewform
 [disc06 survey]: https://docs.google.com/forms/d/e/1FAIpQLSeQ7i6Y3WNkROE8bqgEmbGserQ72yc6dIT6lLorPEoYUTRkQQ/viewform
+[disc07 survey]: https://docs.google.com/forms/d/e/1FAIpQLSei_TRmTZfH9G8PkqeXqrkb18xoK1DtRk-tM9o_zvopEJZSKg/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
 [mt1 conflict form]: https://docs.google.com/forms/d/e/1FAIpQLScTmByOMKJ74vcThhsONJymUedgKS9yQ-pXBPuxHWiwsKfghg/viewform
