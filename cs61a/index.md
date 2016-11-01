@@ -56,7 +56,7 @@ title: CS 61A
 - [Quiz 1](quiz/quiz01.pdf) and [Solutions](quiz/quiz01_sol.pdf).
 - Remember the [early submission policy][early policy].
 
-> On each project, you can earn an additional bonus point by submitting the project at least 24 hours before the deadline. In addition, if you submit at least 10 homework assignments 24 hours before the deadline, you can earn one additional bonus point for the semester.
+> On each project, you can earn an additional bonus point by submitting the project at least 24 hours before the deadline.
 
 #### August 25, 2016
 - Fill out this [quick survey][disc00 survey], pretty please!
