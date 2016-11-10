@@ -13,6 +13,10 @@ title: CS 61A
 
 ### Announcements
 
+#### November 10, 2016
+- [This one will do.][disc09 survey]
+- [Quiz 9](quiz/quiz09.pdf) and [solutions](quiz/quiz09_sol.pdf).
+
 #### November 3, 2016
 - [November is cold.][disc08 survey]
 - [Quiz 8](quiz/quiz08.pdf) and [solutions](quiz/quiz08_sol.pdf).
@@ -137,6 +141,7 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [disc06 survey]: https://docs.google.com/forms/d/e/1FAIpQLSeQ7i6Y3WNkROE8bqgEmbGserQ72yc6dIT6lLorPEoYUTRkQQ/viewform
 [disc07 survey]: https://docs.google.com/forms/d/e/1FAIpQLSei_TRmTZfH9G8PkqeXqrkb18xoK1DtRk-tM9o_zvopEJZSKg/viewform
 [disc08 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdFP0UTqrbKqEY91LJYOPc-wjHzosjMDY-Z-MKCtscm_CwLhA/viewform
+[disc09 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyyaRDFjJigVp0Zt5cYTQ_ynU6ZA7ok8rGAY7pwwQEDNXOww/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
 [mt1 conflict form]: https://docs.google.com/forms/d/e/1FAIpQLScTmByOMKJ74vcThhsONJymUedgKS9yQ-pXBPuxHWiwsKfghg/viewform
