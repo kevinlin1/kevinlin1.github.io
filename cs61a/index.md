@@ -13,6 +13,11 @@ title: CS 61A
 
 ### Announcements
 
+#### November 17, 2016
+- [Let me be real with you. This is really just an attendance form now.][disc10 survey]
+- [Quiz 10](quiz/quiz10.pdf) and [solutions](quiz/quiz10_sol.pdf).
+- No lab and discussion section next.
+
 #### November 10, 2016
 - [This one will do.][disc09 survey]
 - [Quiz 9](quiz/quiz09.pdf) and [solutions](quiz/quiz09_sol.pdf).
@@ -142,6 +147,7 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [disc07 survey]: https://docs.google.com/forms/d/e/1FAIpQLSei_TRmTZfH9G8PkqeXqrkb18xoK1DtRk-tM9o_zvopEJZSKg/viewform
 [disc08 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdFP0UTqrbKqEY91LJYOPc-wjHzosjMDY-Z-MKCtscm_CwLhA/viewform
 [disc09 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyyaRDFjJigVp0Zt5cYTQ_ynU6ZA7ok8rGAY7pwwQEDNXOww/viewform
+[disc10 survey]: https://docs.google.com/forms/d/e/1FAIpQLSekX2uRUpYAdk7G-cX2wx-gk5LzpPS7QA3D5TN6mNnx
 
 [lab 0]: http://cs61a.org/lab/lab00/
 [mt1 conflict form]: https://docs.google.com/forms/d/e/1FAIpQLScTmByOMKJ74vcThhsONJymUedgKS9yQ-pXBPuxHWiwsKfghg/viewform
