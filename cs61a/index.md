@@ -13,6 +13,31 @@ title: CS 61A
 
 ### Announcements
 
+#### December 1, 2016
+- [Our final survey!][disc11 survey]
+- Don't forget to fill out the [Course Evaluations][] as well! (This one's really important!)
+- No quiz today.
+
+A couple suggestions for the future.
+
+1. **Studying for the final**: Feel free to use your own study strategy or let me know if you'd like to work with me to figure out how to improve.
+  - We'll be holding optional review sections next week.
+  - The [Course Resources][] page is still great and [**Andrew Huang's Final Tips**][andrew final tips] come highly recommended as well.
+  - [Send me a message][kevinlin1@berkeley.edu] if you ever need advice.
+  - [Never give up][].
+
+2. **Liked CS 61A?**: Apply to be a [course tutor][gsi application] and [CSM Junior Mentor][csm mentor application].
+  - Teaching opportunities over summer are also normally available soon.
+
+3. **What's next**: For those of you interested in taking CS 61B with Josh next semester, here are a couple of texts that I enjoyed.
+  - PNH's [*A Java Reference*][AJR] or Josh's [*Hug61B*][hug61b] if you prefer something more hip, cool, and largely incomplete.
+  - Joshua Bloch's *Effective Java*. It's a great text to keep handy for projects. I read this three times over the semester.
+  - Pick up a little bit of Git. I read [*A Hacker's Guide to Git*][hackers guide to git] although I didn't really like it. [Albert Wu's Git guide][albert git] is probably better. But speaking from experience, it may be best to pick up bits and pieces as you go.
+  - For something more like CS 61A: Davis Foote's [Haskell Workshop][] is an excellent next step. If you thought functional programming in Scheme was liberating, try composing programs in Haskell!
+  - Relax and hang out with friends. It's winter break.
+
+See you again next semester!
+
 #### November 17, 2016
 - [Let me be real with you. This is really just an attendance form now.][disc10 survey]
 - [Quiz 10](quiz/quiz10.pdf) and [solutions](quiz/quiz10_sol.pdf).
@@ -134,6 +159,13 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [syllabus]: http://cs61a.org/articles/about.html
 [early policy]: http://cs61a.org/articles/about.html#early-policy
 [cs61a piazza]: https://piazza.com/class/irwl7o7shzu70z
+[course evaluations]: https://course-evaluations.berkeley.edu/
+[AJR]: http://inst.eecs.berkeley.edu/~cs61b/fa16/materials/book1/java.pdf
+[hug61b]: https://joshhug.gitbooks.io/hug61b/content/
+[hackers guide to git]: https://wildlyinaccurate.com/a-hackers-guide-to-git/
+[git simple guide]: https://rogerdudler.github.io/git-guide/
+[haskell workshop]: https://github.com/djfoote/haskell-workshop-2014
+[never give up]: https://www.youtube.com/watch?v=KxGRhd_iWuE
 
 [calendar appointment]: https://calendar.google.com/calendar/selfsched?sstoken=UUxUckJmcl80Vm9UfGRlZmF1bHR8NTE5N2NhNWQ2OTI3MjRkZjgzMGFhMmE0MTIxN2U1MWE
 [anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
@@ -148,6 +180,7 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [disc08 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdFP0UTqrbKqEY91LJYOPc-wjHzosjMDY-Z-MKCtscm_CwLhA/viewform
 [disc09 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyyaRDFjJigVp0Zt5cYTQ_ynU6ZA7ok8rGAY7pwwQEDNXOww/viewform
 [disc10 survey]: https://docs.google.com/forms/d/e/1FAIpQLSekX2uRUpYAdk7G-cX2wx-gk5LzpPS7QA3D5TN6mNnxjkZUTw/viewform
+[disc11 survey]: https://docs.google.com/forms/d/e/1FAIpQLSeF3WiQDCwop60bt6Qn00yqlRg_9_T8wqtzqPyJHFkh8Enbdw/viewform
 
 [lab 0]: http://cs61a.org/lab/lab00/
 [mt1 conflict form]: https://docs.google.com/forms/d/e/1FAIpQLScTmByOMKJ74vcThhsONJymUedgKS9yQ-pXBPuxHWiwsKfghg/viewform
@@ -155,9 +188,11 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [course resources]: http://cs61a.org/articles/resources.html
 [andrew asymptotics]: https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit
 [andrew oog guide]: https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit#heading=h.ldtgx4uhox88
+[andrew final tips]: https://docs.google.com/document/d/1olBIjZ0G6MrtR5oLKWKAvVt3pG4xuCjipzLz7AV689w/edit#heading=h.ywlpmc3co4tk
 [albert environment diagrams]: http://albertwu.org/cs61a/notes/environments.html
 [albert order of operations]: http://albertwu.org/cs61a/notes/oop.html
 [albert lists]: http://albertwu.org/cs61a/notes/indexing.html
+[albert git]: http://albertwu.org/cs61a/notes/git.html
 [python doc]: https://docs.python.org/3/
 [python tutor]: http://tutor.cs61a.org/
 
@@ -176,6 +211,7 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 
 [csm]: http://csmentors.berkeley.edu/
 [csm scheduler]: https://csmscheduler.herokuapp.com/
+[csm mentor application]: https://csmentors.berkeley.edu/#/mentors
 [soda]: http://www.berkeley.edu/map?soda
 [cory]: http://www.berkeley.edu/map/?cory
 [morgan]: http://www.berkeley.edu/map?morgan
