@@ -20,16 +20,16 @@ title: CS 61A
 
 A couple suggestions for the future.
 
-1. **Studying for the final**: Feel free to use your own study strategy or let me know if you'd like to work with me to figure out how to improve.
+- **Studying for the final**: Feel free to use your own study strategy or let me know if you'd like to work with me to figure out how to improve.
   - We'll be holding optional review sections next week.
   - The [Course Resources][] page is still great and [**Andrew Huang's Final Tips**][andrew final tips] come highly recommended as well.
   - [Send me a message][kevinlin1@berkeley.edu] if you ever need advice.
   - [Never give up][].
 
-2. **Liked CS 61A?**: Apply to be a [course tutor][gsi application] and [CSM Junior Mentor][csm mentor application].
+- **Liked CS 61A?** Apply to be a [course tutor][gsi application] and [CSM Junior Mentor][csm mentor application].
   - Teaching opportunities over summer are also normally available soon.
 
-3. **What's next**: For those of you interested in taking CS 61B with Josh next semester, here are a couple of texts that I enjoyed.
+- **What's next**: For those of you interested in taking CS 61B with Josh next semester, here are a couple of texts that I enjoyed.
   - PNH's [*A Java Reference*][AJR] or Josh's [*Hug61B*][hug61b] if you prefer something more hip, cool, and largely incomplete.
   - Joshua Bloch's *Effective Java*. It's a great text to keep handy for projects. I read this three times over the semester.
   - Pick up a little bit of Git. I read [*A Hacker's Guide to Git*][hackers guide to git] although I didn't really like it. [Albert Wu's Git guide][albert git] is probably better. But speaking from experience, it may be best to pick up bits and pieces as you go.
