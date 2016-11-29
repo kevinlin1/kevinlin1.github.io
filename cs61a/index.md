@@ -212,6 +212,7 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 [csm]: http://csmentors.berkeley.edu/
 [csm scheduler]: https://csmscheduler.herokuapp.com/
 [csm mentor application]: https://csmentors.berkeley.edu/#/mentors
+[gsi application]: https://eecs.berkeley.edu/resources/gsis/prospective/applications
 [soda]: http://www.berkeley.edu/map?soda
 [cory]: http://www.berkeley.edu/map/?cory
 [morgan]: http://www.berkeley.edu/map?morgan
