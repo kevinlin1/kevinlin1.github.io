@@ -16,6 +16,7 @@ title: CS 61B
 
 #### January 18, 2017
 - [Discussion 1, Hello][disc01 survey]
+- [Quiz 1](quiz/quiz01.pdf) and [solutions](quiz/quiz01_sol.pdf).
 
 ## Key Topics
 - [Asymptotic Analysis][]
