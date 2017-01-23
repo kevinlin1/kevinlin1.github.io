@@ -14,6 +14,9 @@ title: CS 61B
 
 ### Announcements
 
+#### January 25, 2017
+- [Discussion 2][disc02 survey]
+
 #### January 18, 2017
 - [Discussion 1, Hello][disc01 survey]
 - [Quiz 1](quiz/quiz01.pdf) and [solutions](quiz/quiz01_sol.pdf).
@@ -39,6 +42,7 @@ title: CS 61B
 [anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
 
 [disc01 survey]: https://docs.google.com/forms/d/e/1FAIpQLScmI-3fWOl2wS7mF4rU0MkxbuXxfPS93r0iF5vnsttMNDYKTQ/viewform
+[disc02 survey]: https://docs.google.com/forms/d/e/1FAIpQLSfer7_bGJPT5bnM48zDh0VTRyQLGlkHG6QP0JQYzwjpmruakQ/viewform
 
 [javadoc]: https://docs.oracle.com/javase/8/docs/api/
 [asymptotic analysis]: http://www.cs61bl.org/su16/materials/lab/lab07/lab07.html
