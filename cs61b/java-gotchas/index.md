@@ -96,7 +96,7 @@ Generally, a variable's scope is limited to within its enclosing braces: the var
     }
 
 ## Functions are no longer first class
-""
+
 In Python, we treat functions themselves as proper values: for example, we can pass them around as inputs to other functions and define higher-order functions.
 
     def square(x):
