@@ -155,7 +155,7 @@ While this works out nicely for primitive types, what about reference types? How
 
 ### A short detour: the compiler's view
 
-If we imagine ourselves as the Java compiler, for the Walrus.main method to work, three things must exist:
+If we imagine ourselves as the Java compiler, for the `Walrus.main` method to work, three things must exist:
 
  - A Walrus class with a no-argument constructor.
  - A no-argument `Walrus.clap()` instance method. The return type doesn't matter in this case since the value is discarded anyways.
@@ -167,7 +167,7 @@ What can be very confusing about the term **static** is that, depending on the c
 
 ### Static type
 
-With our definition of static above, **static type** refers to the type used by the compiler to make its guarantees. The static type is given on the left of the equals sign.
+With our definition of static above, **static type** refers to the type used by the compiler to make its guarantees. The static type, Walrus, is given on the left of the equals sign.
 
     Walrus w = new Walrus();
 
@@ -187,7 +187,7 @@ The BabyWalrus class provides the same set of functionality as the Walrus class 
 
 ### Dynamic type
 
-On the right side of the assignment, we've instantiated a new BabyWalrus as the value for `w`. The **dynamic type** of `w` is BabyWalrus. Here though, the problem is not with checking that Walrus satisfies all three requirements but rather that a BabyWalrus might not provide all the guarantees of a Walrus. The Java compiler isn't convinced: what if our definition of BabyWalrus didn't include a void clap() method, for instance? We can imagine a couple scenarios where the code wouldn't hold up. To assert that every BabyWalrus is a Walrus, and by extension, **claim that a BabyWalrus can do everything a Walrus can do**, use the `extends` keyword.
+On the right side of the assignment, we've instantiated a new BabyWalrus as the value for `w`. The **dynamic type** of `w` is BabyWalrus. Here though, the problem is not with checking that Walrus satisfies all three requirements but rather that a BabyWalrus might not provide all the guarantees of a Walrus. The Java compiler isn't convinced: what if our definition of BabyWalrus didn't include a `void clap()` method, for instance? We can imagine a couple scenarios where the code wouldn't hold up. To assert that every BabyWalrus is a Walrus, and by extension, **claim that a BabyWalrus can do everything a Walrus can do**, use the `extends` keyword.
 
     public class BabyWalrus extends Walrus {
         ...
