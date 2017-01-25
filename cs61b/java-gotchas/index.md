@@ -95,8 +95,8 @@ Generally, a variable's scope is limited to within its enclosing braces: the var
         }
     }
 
-## Functions are no longer "first class"
-
+## Functions are no longer first class
+""
 In Python, we treat functions themselves as proper values: for example, we can pass them around as inputs to other functions and define higher-order functions.
 
     def square(x):
@@ -195,7 +195,7 @@ On the right side of the assignment, we've instantiated a new BabyWalrus as the 
 
 This claims to the Java compiler that a BabyWalrus **is a** Walrus: that it has all the fields and functionality of Walrus. This is a strong claim to make, so in later sections we'll discuss the implications of this design choice.
 
-### `static` keyword
+### static keyword
 
 So far, we've discussed what static means in terms of the type system. Confusingly, Java also uses the term **static** as a keyword in the syntax of the language itself. You've probably already seen the keyword `static` scattered around method and field declarations in almost every class file.
 
