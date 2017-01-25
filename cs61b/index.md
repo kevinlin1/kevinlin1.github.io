@@ -18,6 +18,7 @@ title: CS 61B
 - [Discussion 2][disc02 survey]
 - [Quiz 2](quiz/quiz02.pdf) and [solutions](quiz/quiz02_sol.pdf).
 - The first part of the [Java Gotchas][] guide is ready!
+- Try [scheduling a meeting with me][calendar appointment], if you'd like.
 
 #### January 18, 2017
 - [Discussion 1, Hello][disc01 survey]
