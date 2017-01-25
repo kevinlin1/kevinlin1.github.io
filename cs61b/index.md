@@ -16,6 +16,7 @@ title: CS 61B
 
 #### January 25, 2017
 - [Discussion 2][disc02 survey]
+- [Quiz 2](quiz/quiz02.pdf) and [solutions](quiz/quiz02_sol.pdf).
 
 #### January 18, 2017
 - [Discussion 1, Hello][disc01 survey]
