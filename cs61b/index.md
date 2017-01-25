@@ -17,6 +17,7 @@ title: CS 61B
 #### January 25, 2017
 - [Discussion 2][disc02 survey]
 - [Quiz 2](quiz/quiz02.pdf) and [solutions](quiz/quiz02_sol.pdf).
+- The first part of the [Java Gotchas][] guide is ready!
 
 #### January 18, 2017
 - [Discussion 1, Hello][disc01 survey]
@@ -50,6 +51,7 @@ title: CS 61B
 [hashing]: http://www.cs61bl.org/su16/materials/lab/lab15/lab15.html
 [sorting]: http://www.cs61bl.org/su16/materials/lab/lab21/lab21.html
 
+[java gotchas]: java-gotchas
 [streams practice problems]: https://github.com/kevinlin1/streams
 [su16 mt1 worksheet]: review/su16_mt1_review.pdf
 [su16 mt1 solutions]: review/su16_mt1_review_sol.pdf
