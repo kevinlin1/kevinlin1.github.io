@@ -228,3 +228,190 @@ When static is applied to a method declaration, it means that the method is not 
     }
 
 It's called static because the decision to link fields and methods are done at compile time and, consequently, are looked up against the static type of a variable rather than its dynamic type.
+
+## Object Inheritance Model
+
+What's most confusing about Java's inheritance model is that its abstract representation and implementation look totally different. Consider the following inheritance structure.
+
+    public class Animal {
+        public String name;
+    }
+
+    public class Walrus extends Animal {
+        public int weight;
+    }
+
+We normally say that, "Walrus is a subclass of Animal," or, "Walrus is one type of Animal," or, "**Walrus is an Animal.**" The taxonomical view looks something like this.
+
+![Walrus Taxonomy](walrus-taxonomy.png)
+
+In order to support the claim that every Walrus **is an** Animal, the way Java implements inheritance is by having an Animal underneath every Walrus. Imagine a box-and-pointer diagram that looks like this.
+
+![Walrus Java](walrus-java.png)
+
+Walrus **is an** Animal because it contains all the fields and methods of the Animal class.
+
+### Dynamic method lookup
+
+To make inheritance truly useful, we need some way of performing different actions depending on the **dynamic type** of an object. Recall that our definitions of Walrus and BabyWalrus look something like this:
+
+    public class Walrus {
+        public int weight;
+
+        public Walrus() {
+            weight = 3500;
+        }
+
+        public void clap() {
+            System.out.println("*CLAP* *CLAP *CLAP*");
+        }
+
+        public static void main(String[] args) {
+            Walrus b = new BabyWalrus();
+            b.clap();
+        }
+    }
+
+    public class BabyWalrus extends Walrus {
+        public void clap() {
+            System.out.println("*clap* *clap*");
+        }
+    }
+
+Java uses dynamic method lookup to allow us to write general code that performs different functions depending on the dynamic type of the Walrus.
+
+    public static void main(String[] args) {
+        Walrus[] walri = { new Walrus(), new BabyWalrus(), new Walrus() };
+        for (Walrus w : walri) {
+            w.clap();
+        }
+    }
+
+Then, depending on the object's dynamic type, the specific overriding method is chosen. A method in a subclass overrides one in a superclass if the argument list is the same and the return type is the same or a subtype of the original method's return type. In the simple example above, `BabyWalrus.clap()` overrides `Walrus.clap()`.
+
+### Static field lookup
+
+TODO: Write this.
+
+## Default Constructors
+
+It's time for a throwback lesson! Hello, World, Again!
+
+    public class HelloWorldAgain {
+        public static void main(String[] args) {
+            System.out.println("Hello, world!");
+        }
+    }
+
+There's actually something quite mysterious lurking under the surface of this program. Did you notice that this class has no constructor? Even so, one of the first things we learned about objects is that the following code will work just fine even though there's no constructor defined in the class.
+
+    public class HelloWorldAgain {
+        public static void main(String[] args) {
+            HelloWorldAgain wowie = new HelloWorldAgain();
+        }
+    }
+
+This is the result of some Java magic: **if no constructors are provided, then a default, no-argument constructor is filled in by Java** that doesn't perform any additional variable initialization. The moment a constructor is defined, the default constructor is no longer provided.
+
+    public class HelloWorldAgain {
+        public HelloWorldAgain(String greeting) {
+            System.out.println(greeting);
+        }
+
+        public static void main(String[] args) {
+            // HelloWorldAgain wowie = new HelloWorldAgain();
+            HelloWorldAgain magic = new HelloWorldAgain("Good morning, sun!");
+        }
+    }
+
+In the example above, the first commented line does not compile because the no-argument constructor is no longer provided.
+
+### Funky Implication: Implicit super() call
+
+Recall that, in Java's object inheritance model, all Walruses are also Animals.
+
+![Walrus Java](walrus-java.png)
+
+How does that actually happen? There's one last bit of magic that glues everything together. To realize the Animal in every Walrus, the default constructor actually performs an implict `super()` call to fill the Animal fields. This is what it looks like.
+
+    public class Animal {
+        public String name;
+
+        public Animal() {
+            name = "Generic animal";
+        }
+    }
+
+    public class Walrus extends Animal {
+        public Walrus() {
+            // super();
+        }
+    }
+
+Whether you include the commented line or not doesn't make a difference: the default constructor for Walrus automatically calls super() to guarantee that the Walrus really is an Animal. Without it, the Animal.name field would not contain the correct value.
+
+The problem with this arises if we wish to extend a class that does not provide the no-argument constructor. Suppose we're working on extending NBody with some additional planetary types.
+
+    public class Planet {
+        public Planet(double xP, double yP, double xV,
+                      double yV, double m, String img) {
+            ...
+        }
+    }
+
+    /** Probably not astronomically correct! */
+    public class AntimatterPlanet extends Planet {
+        public AntimatterPlanet() {
+            System.out.println("We no longer matter anymore!");
+        }
+    }
+
+This code actually doesn't work! Remember the implicit super call really defines the body of AntimatterPlanet's constructor as:
+
+    public class AntimatterPlanet extends Planet {
+        public AntimatterPlanet() {
+            super();
+            System.out.println("We no longer matter anymore!");
+        }
+    }
+
+However, the no-argument constructor doesn't exist in the Planet class! What we can do to fix this issue is to help Java out and provide a super-constructor call.
+
+    public class AntimatterPlanet extends Planet {
+        public AntimatterPlanet() {
+            super(0.0, 0.0, 0.0, 0.0, 0.0, "images/nothing.png");
+            System.out.println("We kinda matter now... it's complicated.");
+        }
+    }
+
+Since the super call is provided, Java will use it to initialize the Planet object rather than the implicit, no-argument super call.
+
+## Overloading
+
+In Python, we can define default parameter values.
+
+    class Link:
+        empty = ()
+
+        def __init__(self, first, rest=empty):
+            self.first = first
+            self.rest = rest
+
+
+We can achieve the same in Java with method overloading. **Two methods can share the same name as long as their input parameters are not the same.** This works with constructors as well, which lets us design a nice syntax for creating IntLists.
+
+    public class IntList {
+        public int first;
+        public IntList rest;
+
+        public IntList(int first) {
+            this(first, null);
+        }
+
+        public IntList(int first, IntList rest) {
+            this.first = first;
+            this.rest = rest;
+        }
+    }
+
+One way of keeping code compact when using overloading is to first define the most general version of a function. In the example above, the second constructor `IntList(int first, IntList rest)` will initialize all the fields while the first constructor only initializes the first field. We can call the second constructor with a null argument for the rest to reuse the code.
