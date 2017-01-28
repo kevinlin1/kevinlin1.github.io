@@ -289,9 +289,7 @@ Java uses dynamic method lookup to allow us to write general code that performs 
 
 Then, depending on the object's dynamic type, the specific overriding method is chosen. A method in a subclass overrides one in a superclass if the argument list is the same and the return type is the same or a subtype of the original method's return type. In the simple example above, `BabyWalrus.clap()` overrides `Walrus.clap()`.
 
-### Static field lookup
-
-TODO: Write this.
+There's just one snag: static methods (class methods) do not obey the rules of dynamic method lookup as they're linked at compile time against the static type. In practice, it's usually a bad idea to reference static methods through an instance, but Java will allow it and bind it to the static type of the instance.
 
 ## Default Constructors
 
