@@ -17,6 +17,7 @@ title: CS 61B
 #### February 1, 2017
 - [Discussion 3][disc03 survey]
 - [Quiz 3](quiz/quiz03.pdf) and [solutions](quiz/quiz03_sol.pdf).
+- [Java Gotchas][] guide has been updated with part two: the object inheritance model.
 
 #### January 25, 2017
 - [Discussion 2][disc02 survey]
@@ -29,6 +30,7 @@ title: CS 61B
 - [Quiz 1](quiz/quiz01.pdf) and [solutions](quiz/quiz01_sol.pdf).
 
 ## Key Topics
+- [Java Gotchas][]
 - [Asymptotic Analysis][]
 - [Hashing][]
 - [Comparison-based Sorting][sorting]
