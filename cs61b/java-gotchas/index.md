@@ -100,7 +100,7 @@ Generally, a variable's scope is limited to within its enclosing braces: the var
 In Python, we treat functions themselves as proper values: for example, we can pass them around as inputs to other functions and define higher-order functions.
 
     def square(x):
-    return x * x
+        return x * x
 
     print(square)
     # <function square at 0x7f...>
