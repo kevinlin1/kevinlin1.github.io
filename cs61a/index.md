@@ -3,123 +3,11 @@ layout: page
 title: CS 61A
 ---
 
-## Section 139
-- **Course Website**: [cs61a.org][]
-- **Lab**: Tuesdays 9:30 - 11:00 am in 330 [Soda][]
-- **Discussion**: Thursdays 9:30 - 11:00 am in 540AB [Cory][]
-- **Office Hours**: Mondays 3:00 - 4:00 pm in 109 [Morgan][]
-- [**Schedule a meeting**][calendar appointment]
-- **Email**: <kevinlin1@berkeley.edu>
-
-### Announcements
-
-#### December 1, 2016
-- [Our final survey!][disc11 survey]
-- Don't forget to fill out the [Course Evaluations][] as well! (This one's really important!)
-- No quiz today.
-
-A couple suggestions for the future.
-
-- **Studying for the final**: Feel free to use your own study strategy or let me know if you'd like to work with me to figure out how to improve.
-  - We'll be holding optional review sections next week.
-  - The [Course Resources][] page is still great and [**Andrew Huang's Final Tips**][andrew final tips] come highly recommended as well.
-  - [Send me a message][kevinlin1@berkeley.edu] if you ever need advice.
-  - [Never give up][].
-
-- **Liked CS 61A?** Apply to be a [course tutor][gsi application] and [CSM Junior Mentor][csm mentor application].
-  - Teaching opportunities over summer are also normally available soon.
-
-- **What's next**: For those of you interested in taking CS 61B with Josh next semester, here are a couple of texts that I enjoyed.
-  - PNH's [*A Java Reference*][AJR] or Josh's [*Hug61B*][hug61b] if you prefer something more hip, cool, and largely incomplete.
-  - Joshua Bloch's *Effective Java*. It's a great text to keep handy for projects. I read this three times over the semester.
-  - Pick up a little bit of Git. I read [*A Hacker's Guide to Git*][hackers guide to git] although I didn't really like it. [Albert Wu's Git guide][albert git] is probably better. But speaking from experience, it may be best to pick up bits and pieces as you go.
-  - For something more like CS 61A: Davis Foote's [Haskell Workshop][] is an excellent next step. If you thought functional programming in Scheme was liberating, try composing programs in Haskell!
-  - Relax and hang out with friends. It's winter break.
-
-See you again next semester!
-
-#### November 17, 2016
-- [Let me be real with you. This is really just an attendance form now.][disc10 survey]
-- [Quiz 10](quiz/quiz10.pdf) and [solutions](quiz/quiz10_sol.pdf).
-- No lab and discussion section next week.
-
-#### November 10, 2016
-- [This one will do.][disc09 survey]
-- [Quiz 9](quiz/quiz09.pdf) and [solutions](quiz/quiz09_sol.pdf).
-
-#### November 3, 2016
-- [November is cold.][disc08 survey]
-- [Quiz 8](quiz/quiz08.pdf) and [solutions](quiz/quiz08_sol.pdf).
-
-#### October 27, 2016
-- [Another one.][disc07 survey]
-- [Quiz 7](quiz/quiz07.pdf) and [solutions](quiz/quiz07_sol.pdf).
-
-#### October 13, 2016
-- [This one's not very special.][disc06 survey]
-- [Quiz 6](quiz/quiz06.pdf) and [solutions](quiz/quiz06_sol.pdf).
-
-#### October 6, 2016
-- [Survey.][disc05 survey]
-- [Quiz 5](quiz/quiz05.pdf) and [solutions](quiz/quiz05_sol.pdf).
-
-#### September 29, 2016
-- [Survey-survey.][disc04 survey]
-- Read [Andrew Huang's Guide to Orders of Growth and Function Runtime][andrew oog guide]. If you'd like more practice, check out the [Course Resources][] page!
-- [Quiz 4](quiz/quiz04.pdf) and [solutions](quiz/quiz04_sol.pdf).
-
-#### September 22, 2016
-- [Survey.][disc03 survey]
-- If you'd like to talk, [let's meet!][calendar appointment] If none of the times work, we can also figure out something [over email][kevinlin1@berkeley.edu].
-- [Quiz 3](quiz/quiz03.pdf) and [solutions](quiz/quiz03_sol.pdf).
-
-#### September 8, 2016
-- [Yet another survey.][disc02 survey] It never ends.
-- Midterm 1 on Thursday, Sept. 15. Study for the midterm using my patent-pending *Efficient Algorithm for Studying*.
-  - Now is the time to use the [Course Resources][] page!
-  - **Absolutely make sure to read and internalize [Jerry's midterm 1 slides][jerry mt1 slides] and [Andrew Huang's midterm 1 reminders][andrew mt1 doc].**
-  - No discussion section next week: extra office hours available by [calendar appointment][]. Lab on Tuesday will be midterm review.
-  - If you have a conflict, fill out the [midterm 1 conflict form][mt1 conflict form] by Sunday night.
-- Tutor-led guerrilla section on Saturday, Sept. 10 from 12-3 pm in the 247 Cory.
-- TA-led midterm 1 review session on Sunday, Sept. 11 from 12-3 pm in 155 Dwinelle.
-- Sign up for [Computer Science Mentors group tutoring][csm scheduler].
-- [Quiz 2](quiz/quiz02.pdf) and [solutions](quiz/quiz02_sol.pdf).
-
-#### September 1, 2016
-- [Survey, round 2!][disc01 survey] This time with 100% more food options!
-- Read [Andrew's Environment Diagram Rules](environment-diagrams) and practice, practice, practice until you **love drawing them**. Seriously: they should become one of the most fun parts of the exam.
-  - [Albert's Environment Diagrams page][albert environment diagrams] is also a fantastic resource.
-  - If intuition behind order of evaluation is still a little confusing, [I have a lot of words for you](python-notional-machine). The [lecture 1 slides][cs61a.org] also have great visuals for breaking down a call expression.
-- Read the **Tools** section of [James Maa's *A Beginner's Guide to Computer Science*][james maa advice].
-- [Quiz 1](quiz/quiz01.pdf) and [Solutions](quiz/quiz01_sol.pdf).
-- Remember the [early submission policy][early policy].
-
-> On each project, you can earn an additional bonus point by submitting the project at least 24 hours before the deadline.
-
-#### August 25, 2016
-- Fill out this [quick survey][disc00 survey], pretty please!
-- Bookmark the [Course Resources][] page: we'll be keeping it up-to-date.
-- Read these advice posts and **really, really take them to heart**.
-  - [Owen's *Words of Wisdom (?)*][owen advice].
-  - [Tammy's *Course Advice*][tammy advice].
-  - The **Intro** to [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]. (Recommended: [*Productivity Hacking Guide*][james maa productivity].)
-
-We've got a long road ahead of us but we can make it to the finish line together! CS 61A is by no means an easy class so I encourage you to find a study partner or a group of study buddies. [*Life is better with a partner.*][syllabus]
-
-You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit my regular office hours listed above, or [meet me by appointment][calendar appointment] (email me if no time works).
-
-**Welcome to CS 61A!**
-
-----------
-
 ## Key Topics
 - [Python Notional Machine](python-notional-machine)
 - [Environment Diagram Rules by Andrew Huang](environment-diagrams)
 - [Guide to Orders of Growth and Function Runtime by Andrew Huang][andrew asymptotics]
 - [Environment Diagrams][albert environment diagrams], [Order of Operations][albert order of operations], and [Lists][albert lists] by Albert Wu
-- Inheritance
-- Scheme
-- SQL
 
 ### An Efficient Algorithm for Studying
 1. **Evaluate**: Complete 1 past exam in a quiet, test-taking environment to figure out where you are and which concepts are most challenging for you.
@@ -143,6 +31,18 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 - [Owen's *Words of Wisdom (?)*][owen advice]
 - [Tammy's *Course Advice*][tammy advice]
 - [James Maa's *A Beginner's Guide to Computer Science*][james maa advice]
+
+### Quizzes
+- [Quiz 1](quiz/quiz01.pdf) and [solutions](quiz/quiz01_sol.pdf)
+- [Quiz 2](quiz/quiz02.pdf) and [solutions](quiz/quiz02_sol.pdf)
+- [Quiz 3](quiz/quiz03.pdf) and [solutions](quiz/quiz03_sol.pdf)
+- [Quiz 4](quiz/quiz04.pdf) and [solutions](quiz/quiz04_sol.pdf)
+- [Quiz 5](quiz/quiz05.pdf) and [solutions](quiz/quiz05_sol.pdf)
+- [Quiz 6](quiz/quiz06.pdf) and [solutions](quiz/quiz06_sol.pdf)
+- [Quiz 7](quiz/quiz07.pdf) and [solutions](quiz/quiz07_sol.pdf)
+- [Quiz 8](quiz/quiz08.pdf) and [solutions](quiz/quiz08_sol.pdf)
+- [Quiz 9](quiz/quiz09.pdf) and [solutions](quiz/quiz09_sol.pdf)
+- [Quiz 10](quiz/quiz10.pdf) and [solutions](quiz/quiz10_sol.pdf)
 
 ### Selected Staff Material
 - [Albert's website][albert]
@@ -169,21 +69,6 @@ You can always get in touch with me [over email][kevinlin1@berkeley.edu], visit 
 
 [calendar appointment]: https://calendar.google.com/calendar/selfsched?sstoken=UUxUckJmcl80Vm9UfGRlZmF1bHR8NTE5N2NhNWQ2OTI3MjRkZjgzMGFhMmE0MTIxN2U1MWE
 [anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
-[disc00 survey]: https://docs.google.com/forms/d/e/1FAIpQLScqAgS-BRfBZymh7SAKuvMCkbL4jOGzfvrOyL0obbeiZxEJXQ/viewform
-[disc01 survey]: https://docs.google.com/forms/d/e/1FAIpQLSfov43B3zDgSJuevM2PC0Ijz3zRs805BQLBGRj70UpfzXFF3w/viewform
-[disc02 survey]: https://docs.google.com/forms/d/e/1FAIpQLSda8ZzNnMEUVcvMK6Z4wPgSIVC1XGqhjWRSPWZnMMvKTZRo-w/viewform
-[disc03 survey]: https://docs.google.com/forms/d/e/1FAIpQLSez4RyhszB2gExRwvlBtkaWLVqkKtzdmLdGHw0smH6UuCVPzg/viewform
-[disc04 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyLA7yZLE2VlYsXh7GJa0xtXKUoXfzja4bJ5_Pc1Ja5X4gJg/viewform
-[disc05 survey]: https://docs.google.com/forms/d/e/1FAIpQLSd7TczE0OKODaiAv6xUqwFcTxptr9Ta8svcanwEF2RwkMLVJw/viewform
-[disc06 survey]: https://docs.google.com/forms/d/e/1FAIpQLSeQ7i6Y3WNkROE8bqgEmbGserQ72yc6dIT6lLorPEoYUTRkQQ/viewform
-[disc07 survey]: https://docs.google.com/forms/d/e/1FAIpQLSei_TRmTZfH9G8PkqeXqrkb18xoK1DtRk-tM9o_zvopEJZSKg/viewform
-[disc08 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdFP0UTqrbKqEY91LJYOPc-wjHzosjMDY-Z-MKCtscm_CwLhA/viewform
-[disc09 survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyyaRDFjJigVp0Zt5cYTQ_ynU6ZA7ok8rGAY7pwwQEDNXOww/viewform
-[disc10 survey]: https://docs.google.com/forms/d/e/1FAIpQLSekX2uRUpYAdk7G-cX2wx-gk5LzpPS7QA3D5TN6mNnxjkZUTw/viewform
-[disc11 survey]: https://docs.google.com/forms/d/e/1FAIpQLSeF3WiQDCwop60bt6Qn00yqlRg_9_T8wqtzqPyJHFkh8Enbdw/viewform
-
-[lab 0]: http://cs61a.org/lab/lab00/
-[mt1 conflict form]: https://docs.google.com/forms/d/e/1FAIpQLScTmByOMKJ74vcThhsONJymUedgKS9yQ-pXBPuxHWiwsKfghg/viewform
 
 [course resources]: http://cs61a.org/articles/resources.html
 [andrew asymptotics]: https://docs.google.com/document/d/1TxfKmM3MlH032hjSUh92I0kQDVcvmitTSzYObGMr8Bk/edit
