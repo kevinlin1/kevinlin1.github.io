@@ -14,6 +14,9 @@ title: CS 61B
 
 ### Announcements
 
+#### February 15, 2017
+- No discussion
+
 #### February 8, 2017
 - [Discussion 4][disc04 survey]
 - [Quiz 4](quiz/quiz04.pdf) and [solutions](quiz/quiz04_sol.pdf).
