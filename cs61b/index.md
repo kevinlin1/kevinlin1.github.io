@@ -14,6 +14,9 @@ title: CS 61B
 
 ### Announcements
 
+#### March 22, 2017
+- [Discussion 10][disc10 survey]
+
 #### March 15, 2017
 - [Discussion 9][disc09 survey]
 - [Quiz 9](quiz/quiz09.pdf) and [solutions](quiz/quiz09_sol.pdf).
@@ -80,6 +83,7 @@ title: CS 61B
 [disc07 survey]: https://docs.google.com/forms/d/e/1FAIpQLSfCJU6fSo8xU5M9TocuEVqJdjH4eEe_qu7b0HWEpLwvxvUdGg/viewform
 [disc08 survey]: https://docs.google.com/forms/d/e/1FAIpQLSe9ILQ46V7jGJbCrDvUgjvAPvppxJfL28VXrgTFisxhzBWYHQ/viewform
 [disc09 survey]: https://docs.google.com/forms/d/e/1FAIpQLSfq__k5tidyMkaQLa_4CwNdADsJU3s-eSY00LEz3IBRLuVf3A/viewform
+[disc10 survey]: https://docs.google.com/forms/d/e/1FAIpQLSc07g8arN24j4z90OUN1BYY7zVPmukOhWkmYuYbGXihLZF0LA/viewform
 
 [javadoc]: https://docs.oracle.com/javase/8/docs/api/
 [asymptotic analysis]: http://www.cs61bl.org/su16/materials/lab/lab07/lab07.html
