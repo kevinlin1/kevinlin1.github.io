@@ -14,6 +14,9 @@ title: CS 61B
 
 ### Announcements
 
+#### May 3, 2017
+- [Quiz 15](quiz/quiz15.pdf) and [solutions](quiz/quiz15_sol.pdf).
+
 #### April 26, 2017
 - [Discussion 14][disc14 survey]
 - [Quiz 14](quiz/quiz14.pdf) and [solutions](quiz/quiz14_sol.pdf).
