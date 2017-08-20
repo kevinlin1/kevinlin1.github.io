@@ -5,7 +5,7 @@ title: CS 61A
 
 ## Fall 2017
 
-- **Course Website**: <cs61a.org>
+- **Course Website**: [cs61a.org](https://cs61a.org)
 - **Lab**: TBA
 - **Discussion**: TBA
 - **Office Hours**: TBA
