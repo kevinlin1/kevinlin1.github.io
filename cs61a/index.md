@@ -5,11 +5,10 @@ title: CS 61A
 
 ## Fall 2017
 
-- **Course Website**: [cs61a.org](https://cs61a.org)
-- **Lab**: TBA
-- **Discussion**: TBA
+- **Lab**: 139B W 10:30-11:59 AM (Soda 277)
+- **Discussion**: 139C F 10:30-11:59 AM (Soda 380)
 - **Office Hours**: TBA
-- **[Meet me][calendar appointment]**
+- **[Make an appointment][calendar appointment]**
 - **[Anonymous Feedback][]**
 - **Email**: <kevinlin1@berkeley.edu>
 
