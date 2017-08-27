@@ -5,9 +5,9 @@ title: CS 61A
 
 ## Fall 2017
 
-- **Lab**: 139B W 10:30-11:59 AM (Soda 277)
-- **Discussion**: 139C F 10:30-11:59 AM (Soda 380)
-- **Office Hours**: TBA
+- **Lab**: 139B W 10:30-11:59 AM ([Soda][] 277)
+- **Discussion**: 139C F 10:30-11:59 AM ([Soda][] 380)
+- **Office Hours**: M/W 6:30-8 PM ([Cory][], [check schedule][oh])
 - **[Make an appointment][calendar appointment]**
 - **[Anonymous Feedback][]**
 - **Email**: <kevinlin1@berkeley.edu>
@@ -128,3 +128,4 @@ questions*.
 [soda]: http://www.berkeley.edu/map?soda
 [cory]: http://www.berkeley.edu/map/?cory
 [morgan]: http://www.berkeley.edu/map?morgan
+[oh]: https://cs61a.org/office-hours.html
