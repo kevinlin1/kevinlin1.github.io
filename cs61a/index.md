@@ -41,14 +41,15 @@ Extending an Analysis of What Students Draw (Cunningham, Blanchard, Guzdial)](ht
 One of the most useful skills acquired in the process of learning computer
 science is metacognition: an understanding of your own thought processes and,
 in particular, how much you know or don't know about a concept. Experienced
-programmers excel at metacognition. They still make the same mistakes just like
-everyone else, and they still have to answer the question, "Why isn't it
-working?" just as often as everyone else.
+programmers still make the same mistakes just like everyone else, and they
+still have to answer the question, "Why isn't it working?" just as often as
+everyone else.
 
 What sets an experienced programmer apart is their ability to pull themselves
 away from the immediate frustration of a bug in the code and reconsider all the
-possible options. They've learned *how to ask the right questions* to
-themselves and adjust their solution bit-by-bit.
+possible options. Experienced programmers excel at **metacognition** They've
+learned *how to ask the right questions* to themselves and adjust their
+solution bit-by-bit.
 
 When faced with broken code, here are some of the questions I like to ask
 myself.
