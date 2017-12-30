@@ -123,7 +123,7 @@ questions*.
 [tammy]: http://tmmydngyn.com/cs61a/
 [vivian]: http://www.vivi.sh/cs61a
 
-[calendar appointment]: https://calendar.google.com/calendar/selfsched?sstoken=UUxUckJmcl80Vm9UfGRlZmF1bHR8NTE5N2NhNWQ2OTI3MjRkZjgzMGFhMmE0MTIxN2U1MWE
+[calendar appointment]: /meet
 [anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
 
 [soda]: http://www.berkeley.edu/map?soda
