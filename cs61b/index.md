@@ -52,7 +52,7 @@ discussion handouts.
 [datastructur.es]: http://datastructur.es/
 [slack]: https://cs61b-sp17-kevin.slack.com/
 [calendar appointment]: /meet
-[anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
+[anonymous feedback]: /feedback
 
 [java tutor]: http://www.pythontutor.com/java.html#mode=edit
 [java visualizer]: https://cscircles.cemc.uwaterloo.ca/java_visualize/

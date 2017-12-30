@@ -124,7 +124,7 @@ questions*.
 [vivian]: http://www.vivi.sh/cs61a
 
 [calendar appointment]: /meet
-[anonymous feedback]: https://docs.google.com/forms/d/e/1FAIpQLSfucwcOEoD1VDpfHVfEUSLIgzojpwIBEjCl6IDKzgrqU_Q-qQ/viewform
+[anonymous feedback]: /feedback
 
 [soda]: http://www.berkeley.edu/map?soda
 [cory]: http://www.berkeley.edu/map/?cory
