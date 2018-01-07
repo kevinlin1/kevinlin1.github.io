@@ -14,6 +14,10 @@ title: CS 61B
 
 ----------
 
+## [Java Gotchas][]
+
+*Things I wish I knew when I was learning Java in CS 61B.*
+
 ## Quizzes (Spring 2017)
 
 Much of the quiz content I wrote Spring 2017 has been integrated into the
