@@ -5,8 +5,8 @@ title: CS 61B
 
 ## Spring 2018
 
-- **Lab**: TBA
-- **Discussion**: TBA
+- **Lab (016)**: Th 11:00-12:59 PM ([Soda][] 271)
+- **Lab (037)**: F 9:00-10:59 AM ([Soda][] 277)
 - **Office Hours**: TBA
 - **[Make an appointment][calendar appointment]**
 - **[Anonymous Feedback][]**
