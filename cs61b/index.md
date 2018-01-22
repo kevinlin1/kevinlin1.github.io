@@ -7,7 +7,7 @@ title: CS 61B
 
 - **Lab (016)**: Th 11:00-12:59 PM ([Soda][] 271)
 - **Lab (037)**: F 9:00-10:59 AM ([Soda][] 277)
-- **Office Hours**: TBA
+- **Office Hours**: MW 12:00-12:59 PM ([Student Learning Center][slc])
 - **[Make an appointment][calendar appointment]**
 - **[Anonymous Feedback][]**
 - **Email**: <kevinlin1@berkeley.edu>
@@ -68,6 +68,7 @@ discussion handouts.
 [java gotchas]: java-gotchas
 [streams practice problems]: https://github.com/kevinlin1/streams
 
+[slc]: http://slc.berkeley.edu/
 [soda]: http://www.berkeley.edu/map?soda
 [cory]: http://www.berkeley.edu/map/?cory
 [bechtel]: http://www.berkeley.edu/map/?bechtel
