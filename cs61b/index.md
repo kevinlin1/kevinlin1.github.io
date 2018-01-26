@@ -71,28 +71,49 @@ discussion handouts.
 
 ## Resources
 
-- [Java Tutor][] and the original [Java Visualizer][] which has more display options
+- [Java Tutor][]
+- [VisuAlgo][]
+- [UCSF Visualizations][ucsf]
+- [PathFinding.js][pathfinding]
+
+### Guides
+
+> Josh's CS 61B [Exam Studying Guide][] is fantastic. I wrote the CS 61A
+> [Studying Guide][] which has a few more tips for general problem-solving.
+
 - [Java Gotchas][]
 - [Asymptotic Analysis][]
 - [Hashing][]
 - [Comparison-based Sorting][sorting]
 - [Streams Practice Problems][]
-- [Javadoc][]
+
+### Selected Staff Material
+
+- [Allen Guo][]
+- [Daniel Nguyen][]
+- [Matt Sit][]
 
 [datastructur.es]: http://datastructur.es/
 [slack]: https://cs61b-sp17-kevin.slack.com/
 [calendar appointment]: /meet
 [anonymous feedback]: /feedback
 
+[exam studying guide]: http://datastructur.es/sp17/materials/guides/study-guide.html
+[studying guide]: https://cs61a.org/articles/studying.html
+
 [java tutor]: http://www.pythontutor.com/java.html#mode=edit
-[java visualizer]: https://cscircles.cemc.uwaterloo.ca/java_visualize/
-[javadoc]: https://docs.oracle.com/javase/8/docs/api/
+[visualgo]: https://visualgo.net/en
+[ucsf]: http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+[pathfinding]: https://qiao.github.io/PathFinding.js/visual/
+[java gotchas]: java-gotchas
 [asymptotic analysis]: http://www.cs61bl.org/su16/materials/lab/lab07/lab07.html
 [hashing]: http://www.cs61bl.org/su16/materials/lab/lab15/lab15.html
 [sorting]: http://www.cs61bl.org/su16/materials/lab/lab21/lab21.html
-
-[java gotchas]: java-gotchas
 [streams practice problems]: https://github.com/kevinlin1/streams
+
+[allen guo]: http://aguo.us/cs61b/
+[daniel nguyen]: http://danielnguyen.io/cs61b/
+[matt sit]: https://mattsit.github.io/cs61b
 
 [slc]: http://slc.berkeley.edu/
 [soda]: http://www.berkeley.edu/map?soda
