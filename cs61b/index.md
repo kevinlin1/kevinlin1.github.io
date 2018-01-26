@@ -14,6 +14,32 @@ title: CS 61B
 
 ----------
 
+## Lab-centric Instruction
+
+Inspired by [Nate Titterton, Colleen Lewis, and Mike Clancy][lab-centric], I'm
+trying something new in my labs this semester by bringing aspects of
+CS 61BL-style lab-centric instruction techniques to our traditional-format
+course.
+
+[lab-centric]: https://people.eecs.berkeley.edu/~clancy/ucwise/CS_Ed.pdf
+
+### [Gated Collaboration Activity](/gc)
+
+> A question is posed to the students. After responding online, a student is
+> able to view the answers provided by their classmates. In this way, students
+> are required to engage with the content before reading possible answers.
+> Gated collaborations typically use questions that lend themselves to multiple
+> solutions where viewing other students' answers shows a diversity of answers
+> and provides students with experience evaluating alternative responses.
+
+- [Lab 2 GC](https://docs.google.com/forms/d/e/1FAIpQLSeXMGgJTSvvKuxsOqnVMRWaj60VawPRejH-g7cPufJB56dzUg/viewform?usp=sf_link)
+
+### [Explicit Reflection](/reflection)
+
+> A prompt that encourages students to reflect or make a note in their course
+> journal. These may encourage reflection on problem solving or debugging
+> process or on current understanding.
+
 ## [Java Gotchas][]
 
 *Things I wish I knew when I was learning Java in CS 61B.*
