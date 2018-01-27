@@ -33,6 +33,7 @@ course.
 > and provides students with experience evaluating alternative responses.
 
 - [Lab 2 GC](https://docs.google.com/forms/d/e/1FAIpQLSeXMGgJTSvvKuxsOqnVMRWaj60VawPRejH-g7cPufJB56dzUg/viewform?usp=sf_link)
+- [Lab 3 GC](https://docs.google.com/forms/d/e/1FAIpQLSeaQldFGblIx6eOWbkroGdyJKBqInbst53ImbZEirsPg1AxMw/viewform?usp=sf_link)
 
 ### [Explicit Reflection](/reflection)
 
