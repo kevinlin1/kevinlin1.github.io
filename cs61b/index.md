@@ -36,7 +36,7 @@ course.
 - [Lab 3 GC](https://docs.google.com/forms/d/e/1FAIpQLSeaQldFGblIx6eOWbkroGdyJKBqInbst53ImbZEirsPg1AxMw/viewform?usp=sf_link)
 - [Lab 4 GC](https://docs.google.com/forms/d/e/1FAIpQLScmDJ5zLtfuMvXdIFVeJXaBEw3i-VB5BCIGBsRLK1Ka7WL1WA/viewform?usp=sf_link)
 - [Lab 5 GC](https://docs.google.com/forms/d/e/1FAIpQLSeZYcT_DMB83gYe7yTr8a9JB3-6VxRFughQW8cwSfWreF4sfQ/viewform?usp=sf_link)
-- [Lab 7 GC](https://docs.google.com/forms/d/e/1FAIpQLScgt3hTUPUgbEfoQI9kT2qKNpPFtyh8iRKWzTfaV3NwJKZ80A/viewform?usp=sf_link)
+- [Lab 8 GC](https://docs.google.com/forms/d/e/1FAIpQLScgt3hTUPUgbEfoQI9kT2qKNpPFtyh8iRKWzTfaV3NwJKZ80A/viewform?usp=sf_link)
 
 ### [Explicit Reflection](/reflection)
 
