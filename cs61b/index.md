@@ -12,38 +12,6 @@ title: CS 61B
 - **[Anonymous Feedback][]**
 - **Email**: <kevinlin1@berkeley.edu>
 
-----------
-
-## Lab-centric Instruction
-
-Inspired by [Nate Titterton, Colleen Lewis, and Mike Clancy][lab-centric], I'm
-trying something new in my labs this semester by bringing aspects of
-CS 61BL-style lab-centric instruction techniques to our traditional-format
-course.
-
-[lab-centric]: https://people.eecs.berkeley.edu/~clancy/ucwise/CS_Ed.pdf
-
-### [Gated Collaboration Activity](/gc)
-
-> A question is posed to the students. After responding online, a student is
-> able to view the answers provided by their classmates. In this way, students
-> are required to engage with the content before reading possible answers.
-> Gated collaborations typically use questions that lend themselves to multiple
-> solutions where viewing other students' answers shows a diversity of answers
-> and provides students with experience evaluating alternative responses.
-
-- [Lab 2 GC](https://docs.google.com/forms/d/e/1FAIpQLSeXMGgJTSvvKuxsOqnVMRWaj60VawPRejH-g7cPufJB56dzUg/viewform?usp=sf_link)
-- [Lab 3 GC](https://docs.google.com/forms/d/e/1FAIpQLSeaQldFGblIx6eOWbkroGdyJKBqInbst53ImbZEirsPg1AxMw/viewform?usp=sf_link)
-- [Lab 4 GC](https://docs.google.com/forms/d/e/1FAIpQLScmDJ5zLtfuMvXdIFVeJXaBEw3i-VB5BCIGBsRLK1Ka7WL1WA/viewform?usp=sf_link)
-- [Lab 5 GC](https://docs.google.com/forms/d/e/1FAIpQLSeZYcT_DMB83gYe7yTr8a9JB3-6VxRFughQW8cwSfWreF4sfQ/viewform?usp=sf_link)
-- [Lab 8 GC](https://docs.google.com/forms/d/e/1FAIpQLScgt3hTUPUgbEfoQI9kT2qKNpPFtyh8iRKWzTfaV3NwJKZ80A/viewform?usp=sf_link)
-
-### [Explicit Reflection](/reflection)
-
-> A prompt that encourages students to reflect or make a note in their course
-> journal. These may encourage reflection on problem solving or debugging
-> process or on current understanding.
-
 ## [Java Gotchas][]
 
 *Things I wish I knew when I was learning Java in CS 61B.*
@@ -89,7 +57,6 @@ discussion handouts.
 - [Asymptotic Analysis][]
 - [Hashing][]
 - [Comparison-based Sorting][sorting]
-- [Streams Practice Problems][]
 
 ### Selected Staff Material
 
@@ -110,10 +77,9 @@ discussion handouts.
 [ucsf]: http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 [pathfinding]: https://qiao.github.io/PathFinding.js/visual/
 [java gotchas]: java-gotchas
-[asymptotic analysis]: http://www.cs61bl.org/su16/materials/lab/lab07/lab07.html
-[hashing]: http://www.cs61bl.org/su16/materials/lab/lab15/lab15.html
-[sorting]: http://www.cs61bl.org/su16/materials/lab/lab21/lab21.html
-[streams practice problems]: https://github.com/kevinlin1/streams
+[asymptotic analysis]: https://cs61bl.org/su16/materials/lab/lab07/lab07.html
+[hashing]: https://cs61bl.org/su16/materials/lab/lab15/lab15.html
+[sorting]: https://cs61bl.org/su16/materials/lab/lab21/lab21.html
 
 [allen guo]: http://aguo.us/cs61b/
 [daniel nguyen]: http://danielnguyen.io/cs61b/
