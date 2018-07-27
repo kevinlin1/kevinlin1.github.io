@@ -55,3 +55,11 @@ feedback.
    space.
 
 [Sources of Knowledge]: http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195301700.001.0001/oxfordhb-9780195301700-e-3
+
+*Special thanks to [David DeLiema][] for his mentorship on this model (see his
+main research focus, **[Debugging Failure][]**) and [Jennifer Wang][] for
+initial comments.*
+
+[David DeLiema]: http://www.david-deliema.com/
+[Debugging Failure]: http://www.david-deliema.com/motivation/
+[Jennifer Wang]: https://scholar.google.com/citations?user=TP1dcooAAAAJ&hl=en
