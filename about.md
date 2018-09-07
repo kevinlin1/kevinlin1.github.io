@@ -26,9 +26,9 @@ building the right connections with my staff to convey this vision, is what I'm
 most proud of achieving my first time as a lecturer for CS 61A.
 
 During my undergraduate career, I was an undergraduate student instructor (UGSI
-and a.k.a. TA) for 8 semesters. I studied and implemented scalable teaching and
+a.k.a. TA) for 8 semesters. I studied and implemented scalable teaching and
 learning techniques for CS 61A (CS 1) and CS 61B (CS 2) at UC Berkeley, two of
-the largest in-person computer science courses in the world.  This past summer,
+the largest in-person computer science courses in the world. This past summer,
 I had the incredible honor of joining the family of summer lecturers for [CS
 61A][] at UC Berkeley, and I am returning this summer to teach [CS 61BL][] and
 close the loop, ending where [I started][CS 61BL SU16 Staff].
