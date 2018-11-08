@@ -7,8 +7,8 @@ permalink: /bio
 
 Kevin Lin is a master's student in the Electrical Engineering and Computer
 Sciences department at UC Berkeley. He coordinates the teaching and development
-of all three of the large-scale, introductory undergraduate CS courses at UC
-Berkeley which, in total, support enrollments of over 8,000 students each year.
-His research focuses on methods for broadening participation in post-secondary
-and K--12 computer science education by designing interventions that improve
-the learning experience both inside and outside the classroom.
+of large-scale, introductory undergraduate CS courses which, in total, support
+enrollments of over 8,000 students each year. His research focuses on methods
+for broadening participation in post-secondary and K--12 computer science
+education by designing interventions that improve the learning experience
+inside and outside the classroom.
