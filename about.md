@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Recruiter? TL;DR? See my [resume](/resume) or [curriculum vitae](/cv).
+*See also my [CV](/cv) and my [short bio](/bio).*
 
 Hi, I'm Kevin. Starting Fall 2018, I'll be pursuing a 5th year MS in EECS at UC
 Berkeley in the area of computer science eduation, advised by [John DeNero][]
