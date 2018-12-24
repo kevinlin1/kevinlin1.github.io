@@ -40,7 +40,7 @@ Abstraction; Problem Solving
 
 ## Poster
 
-![Subgoals, Problem Solving Phases, and Sources of Knowledge](https://docs.google.com/drawings/d/e/2PACX-1vTjIKR9VaVpNVawbs4Rvi9CSm7DQNxDUBWzZvU_k4R_PPvNUWtZ2XzWL5L_G4pYP1r_lJbtkLEqQav1/pub?w=2688&amp;h=1728)
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vTjIKR9VaVpNVawbs4Rvi9CSm7DQNxDUBWzZvU_k4R_PPvNUWtZ2XzWL5L_G4pYP1r_lJbtkLEqQav1/pub?w=2688&amp;h=1728" style="width: 100%;">
 
 [*Proposal Short Paper*](https://drive.google.com/file/d/1YDRV9uhsN3XoZewXykkUHKQLElT6XjRB/view?usp=sharing)
 
