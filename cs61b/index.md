@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CS 61B
+hidden: true
 ---
 
 ## Spring 2018
