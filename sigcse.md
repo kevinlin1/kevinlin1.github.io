@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Subgoals, Problem Solving Phases, and Sources of Knowledge
-hidden: true
-permalink: /src
+title: SIGCSE
+permalink: /sigcse
 ---
 
-[Kevin Lin](/bio), [David DeLiema](http://www.david-deliema.com/),
+## Subgoals, Problem Solving Phases, and Sources of Knowledge
+
+*A Complex Mangle*
+
+[Kevin Lin](/about), [David DeLiema](http://www.david-deliema.com),
 *University of California, Berkeley*
 <br />
 Contact: <kevinlin1@berkeley.edu>
@@ -38,13 +41,13 @@ Abstraction; Problem Solving
 
 **DOI**: <https://doi.org/10.1145/3287324.3293712>
 
-## [Poster](https://docs.google.com/drawings/d/1OrfWGp7-o8sI7KJyx4-leY-A8TioXP1IQFKNBDceht4/edit)
+### [Poster](https://docs.google.com/drawings/d/1OrfWGp7-o8sI7KJyx4-leY-A8TioXP1IQFKNBDceht4/edit)
 
 *A description of the proposal is available as a [short paper][].*
 
 [short paper]: https://drive.google.com/file/d/1YDRV9uhsN3XoZewXykkUHKQLElT6XjRB/view?usp=sharing
 
-## References
+### References
 
 1. Satabdi Basu, Gautam Biswas, and John S. Kinnebrew. 2017. Learner modeling for adaptive scaffolding in a Computational Thinking-based science learning environment. User Modeling and User-Adapted Interaction 27, 1 (jan 2017), 5–53. <https://doi.org/10.1007/s11257-017-9187-0>
 2. Clark A. Chinn, Luke A. Buckland, and Ala Samarapungavan. 2011. Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology. Educational Psychologist 46, 3 (jul 2011), 141–167. <https://doi.org/10.1080/00461520.2011.587722>
