@@ -43,10 +43,10 @@ Abstraction; Problem Solving
 
 ### [Poster](https://docs.google.com/drawings/d/1OrfWGp7-o8sI7KJyx4-leY-A8TioXP1IQFKNBDceht4/edit)
 
-*A description of the proposal is available as a [short paper][] ([arXiv][]).*
+*Read about the poster in this [short paper][] ([arXiv:1901.01465][]).*
 
 [short paper]: https://drive.google.com/file/d/1YDRV9uhsN3XoZewXykkUHKQLElT6XjRB/view?usp=sharing
-[arXiv]: https://arxiv.org/abs/1901.01465
+[arXiv:1901.01465]: https://arxiv.org/abs/1901.01465
 
 ### References
 
