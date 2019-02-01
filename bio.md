@@ -5,7 +5,7 @@ hidden: true
 permalink: /bio
 ---
 
-Kevin Lin is a master's student in the Electrical Engineering and Computer
+Kevin Lin is a master's candidate in the Electrical Engineering and Computer
 Sciences department at UC Berkeley. He coordinates the teaching and development
 of large-scale, introductory undergraduate CS courses which, in total, support
 enrollments of over 3,500 students each year. His research focuses on computer
