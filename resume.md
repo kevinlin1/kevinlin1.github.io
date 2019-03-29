@@ -1,7 +1,7 @@
 ---
 title: Resume
 hidden: true
-permalink: /resume/
+permalink: /resume
 redirect_to:
-  - /cv/
+  - /cv
 ---
