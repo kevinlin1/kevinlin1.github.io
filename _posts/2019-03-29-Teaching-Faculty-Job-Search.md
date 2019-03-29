@@ -41,8 +41,11 @@ of my work and matched with the institutions that truly interested me.
 I am very lucky to have had the opportunity to lecture for CS courses twice
 during my undergraduate career, though I believe you can do just as much (if
 not more) great work as a TA. What is important is that your application
-materials make clear your passion for teaching regardless of your lecturing
-experience.
+materials make clear your teaching experience and views. (And [don't just say
+nice things about teaching][]---it's not about you, but what you can bring to
+the hiring institution, and what differentiates you from other candidates.)
+
+[don't just say nice things about teaching]: https://theprofessorisin.com/2016/09/12/thedreadedteachingstatement/
 
 The teaching job talk is one of the most important events during the interview.
 Unlike tenure-track positions which tend to follow a more standardized research
@@ -67,6 +70,13 @@ listings were posted to the CRA ads list first.
 
 [CRA Job Announcements]: https://cra.org/ads/
 [SIGCSE-members]: https://sigcse.org/sigcse/membership/mailing-lists
+
+For detailed views on the tenure-track faculty job search, plenty of other
+folks have written about their experiences. I consulted [Philip Guo][] and
+[Matt Welsh][].
+
+[Philip Guo]: http://www.pgbovine.net/faculty-job-application-materials.htm
+[Matt Welsh]: https://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-1.html
 
 I found the entire job search process incredibly enjoyable and a rare
 opportunity to broaden my perspective through meeting over a hundred academics
