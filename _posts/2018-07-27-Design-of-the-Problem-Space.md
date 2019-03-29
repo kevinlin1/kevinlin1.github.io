@@ -2,7 +2,7 @@
 layout: post
 title: Design of the Problem Space
 excerpt: >
-  Modelling the learning environment and understanding mediated learning experiences
+  Modelling the learning environment and understanding mediated learning experiences.
 ---
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSVDZCObmUWgTZfHbuUARXNfT25nvma6YmLHXUQvHRsM7_PKejWxNZBKNzK0O3LxKu3YvekyG6WY5TM/pub?w=1584&amp;h=1008" style="width: 100%;">
