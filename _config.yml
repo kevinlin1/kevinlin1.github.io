@@ -15,10 +15,16 @@ baseurl: ""
 url: "http://kevinl.info"
 paginate: 10
 
-name: 'Kevin Lin'
+name: Kevin Lin
 bio: >
   I teach Computer Science at Berkeley.
 author_image: "/assets/images/me.png"
+
+social:
+  name: Kevin Lin
+  links:
+    - https://facebook.com/kevinl.info
+    - https://github.com/kevinlin1
 
 # Build settings
 markdown: kramdown
