@@ -26,6 +26,11 @@ social:
   links:
     - https://facebook.com/kevinl.info
     - https://github.com/kevinlin1
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/images/me.png"
 
 # Build settings
 markdown: kramdown
