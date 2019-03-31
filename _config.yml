@@ -18,6 +18,7 @@ paginate: 10
 name: Kevin Lin
 bio: >
   I teach Computer Science at Berkeley.
+author: Kevin Lin
 author_image: "/assets/images/me.png"
 
 social:
