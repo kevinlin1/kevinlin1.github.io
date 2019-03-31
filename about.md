@@ -4,7 +4,8 @@ title: About
 permalink: /about
 ---
 
-*See my [CV](/cv), [recruiting materials](/recruiting), and [short bio](/bio).*
+- **CV**: [pdf](/cv)
+- **Email**: <kevinlin1@berkeley.edu>
 
 Hi, I'm Kevin. I am a master's candidate in EECS at UC Berkeley in the area of
 computer science eduation, advised by [John DeNero][] and [Josh Hug][]. I also
@@ -61,3 +62,12 @@ stories.
 [Computer Science]: https://eecs.berkeley.edu/academics/undergraduate/cs-ba
 [Cognitive Science]: http://cogsci.berkeley.edu/
 [Berkeley Diversity]: https://diversity.berkeley.edu
+
+## Bio
+
+Kevin Lin is a master's candidate in the Electrical Engineering and Computer
+Sciences department at UC Berkeley. He coordinates the teaching and development
+of large-scale, introductory undergraduate CS courses which, in total, support
+enrollments of over 3,500 students each year. His research focuses on computer
+science education with a particular emphasis on methods for broadening
+participation and retention in classrooms of all sizes.
