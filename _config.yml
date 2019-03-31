@@ -26,6 +26,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-seo-tag
