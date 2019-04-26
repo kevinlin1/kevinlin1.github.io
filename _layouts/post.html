@@ -19,10 +19,8 @@ layout: default
         <hr>
         <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
       </section>
-      <footer class="site-footer">
-        <section class="copyright"><a href="mailto:{{ site.email}}">{{site.name}}</a> &copy; {{ site.time | date: '%Y' }}</section>
-      </footer>
-      {{/post}}
     </div>
   </article>
 </main>
+
+{% include footer.html %}
