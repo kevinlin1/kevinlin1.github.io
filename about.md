@@ -16,7 +16,8 @@ collaboration with [Josh Hug][] and [Dan Garcia][]. I also previously worked
 with [David DeLiema][] in the [Embodied Design Research Lab][EDRL] in the
 Educational Psychology department to better understand the process through
 which newcomers to programming experience programming and debugging problem
-solving.
+solving. I am also interested in designing pathways to encourage the
+development of [pre-service K--12 CS teachers](/csp).
 
 My goal is to find ways to make course material more personally relevant to
 students. Teaching at the university level, in my mind, has never been about
