@@ -42,6 +42,7 @@ main {
 
 body {
   background-color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
@@ -410,6 +411,7 @@ body {
 
 pre,
 code {
+  font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
