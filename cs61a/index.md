@@ -1,7 +1,6 @@
 ---
 layout: page
 title: CS 61A
-hidden: true
 ---
 
 ## Fall 2017
