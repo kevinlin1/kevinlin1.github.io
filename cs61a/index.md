@@ -8,8 +8,6 @@ title: CS 61A
 - **Lab**: 139B W 10:30-11:59 AM ([Soda][] 277)
 - **Discussion**: 139C F 10:30-11:59 AM ([Soda][] 380)
 - **Office Hours**: M/W 6:30-8 PM ([Cory][], [check schedule][oh])
-- **[Make an appointment][calendar appointment]**
-- **[Anonymous Feedback][]**
 - **Email**: <kevinlin1@berkeley.edu>
 
 ### [How to Learn Computer Science](/gbo)
@@ -122,9 +120,6 @@ questions*.
 [allen]: http://aguo.us/cs61a/
 [tammy]: http://tmmydngyn.com/cs61a/
 [vivian]: http://www.vivi.sh/cs61a
-
-[calendar appointment]: /meet
-[anonymous feedback]: /feedback
 
 [soda]: http://www.berkeley.edu/map?soda
 [cory]: http://www.berkeley.edu/map/?cory

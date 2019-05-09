@@ -8,8 +8,6 @@ title: CS 61B
 - **Lab (016)**: Th 11:00-12:59 PM ([Soda][] 271)
 - **Lab (037)**: F 9:00-10:59 AM ([Soda][] 277)
 - **Office Hours**: MW 12:00-12:59 PM (109 [Morgan][])
-- **[Make an appointment][calendar appointment]**
-- **[Anonymous Feedback][]**
 - **Email**: <kevinlin1@berkeley.edu>
 
 ## [Java Gotchas][]
@@ -63,11 +61,6 @@ discussion handouts.
 - [Allen Guo][]
 - [Daniel Nguyen][]
 - [Matt Sit][]
-
-[datastructur.es]: http://datastructur.es/
-[slack]: https://cs61b-sp17-kevin.slack.com/
-[calendar appointment]: /meet
-[anonymous feedback]: /feedback
 
 [exam studying guide]: http://datastructur.es/sp17/materials/guides/study-guide.html
 [studying guide]: https://cs61a.org/articles/studying.html
