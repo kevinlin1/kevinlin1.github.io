@@ -45,12 +45,9 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   margin: 0;
   padding: 0;
+  letter-spacing: -0.02em;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  -moz-font-feature-settings: "liga=1, dlig=1";
-  -ms-font-feature-settings: "liga", "dlig";
-  -webkit-font-feature-settings: "liga", "dlig";
-  -o-font-feature-settings: "liga", "dlig";
   font-feature-settings: "liga", "dlig";
 }
 
@@ -107,7 +104,6 @@ body {
     margin-bottom: 8px;
     font-size: 60px;
     font-weight: 700;
-    letter-spacing: -2px;
     outline: 0;
     line-height: 50px;
     word-break: break-word;
@@ -154,7 +150,6 @@ body {
       }
     }
     .post-excerpt {
-      letter-spacing: -0.02em;
       font-weight: 300;
       font-style: normal;
       font-size: 18px;
@@ -187,7 +182,7 @@ body {
     color: #b3b3b1;
     font-size: $rs / 8 * 5;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 0.2em;
   }
 }
 
@@ -226,7 +221,6 @@ body {
   .post-title {
     font-weight: 700;
     font-style: normal;
-    letter-spacing: -0.04em;
     font-size: 50px;
     line-height: 1.1;
     color: #333332;
@@ -247,7 +241,6 @@ body {
   }
   .post-meta-text {
     color: #b3b3b1;
-    letter-spacing: -0.02em;
     font-weight: 400;
     font-style: normal;
     font-size: 14px;
@@ -260,14 +253,12 @@ body {
     width: 100%;
     color: #333333;
     h1, h2 {
-      letter-spacing: -0.02em;
       font-weight: 700;
       font-style: normal;
       font-size: 30px;
       line-height: 1.2;
     }
     h3, h4, h5, h6 {
-      letter-spacing: -0.02em;
       font-weight: 700;
       font-style: normal;
       font-size: 24px;
@@ -283,7 +274,7 @@ body {
     }
     p {
       line-height: 1.75;
-      letter-spacing: -.002em;
+      letter-spacing: 0;
       margin-top: 30px;
       margin-bottom: 0;
       color: #333333;
@@ -333,7 +324,7 @@ body {
     li {
       padding: 0;
       font-size: 18px;
-      letter-spacing: -.002em;
+      letter-spacing: 0;
       line-height: 1.75;
       margin-left: 30px;
       padding-top: 2px;
