@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Learn CS
-excerpt: >
+excerpt: >-
   High-level learning techniques for how to succeed in CS 1 courses like CS 61A.
 ---
 

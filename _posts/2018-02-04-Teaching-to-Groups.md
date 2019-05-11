@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teaching to Groups
-excerpt: >
+excerpt: >-
   Advice for leading sections, and other thoughts from shadowing undergrad TAs.
 ---
 

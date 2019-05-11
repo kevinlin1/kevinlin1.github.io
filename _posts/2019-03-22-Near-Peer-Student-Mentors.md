@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Near-Peer Student Mentors
-excerpt: >
+excerpt: >-
   Creating Scalable Learning Experiences in Large Lecture Courses.
 ---
 

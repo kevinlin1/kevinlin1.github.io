@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teaching Faculty Job Search
-excerpt: >
+excerpt: >-
   A five year, non-traditional path into academia.
 ---
 

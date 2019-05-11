@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mindstorms
-excerpt: >
+excerpt: >-
   A review of Papert's seminal work in modern context, 38 years later.
 ---
 

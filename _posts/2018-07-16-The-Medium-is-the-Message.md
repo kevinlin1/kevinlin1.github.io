@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Medium is the Message
-excerpt: >
+excerpt: >-
   Understanding what a computer is, and what it can do.
 ---
 

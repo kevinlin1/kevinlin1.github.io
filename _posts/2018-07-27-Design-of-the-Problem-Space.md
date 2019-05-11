@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design of the Problem Space
-excerpt: >
+excerpt: >-
   Modelling the learning environment and understanding mediated learning experiences.
 ---
 

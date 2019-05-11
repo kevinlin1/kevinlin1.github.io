@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Formative Feedback in Intro CS
-excerpt: >
+excerpt: >-
   Deploying in-class paper quizzes: from 40 to 400 to 1,400.
 ---
 
