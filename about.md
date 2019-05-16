@@ -8,11 +8,11 @@ permalink: /about/
 - **CV**: [pdf](/cv)
 - **Email**: <kevinlin1@berkeley.edu>
 
-Hi, I'm Kevin. Starting Fall 2019, I will be a Lecturer in the Allen School of
-Computer Science & Engineering at the University of Washington.
+Hi, I'm Kevin. Starting Fall 2019, I will be a Lecturer in the Paul G. Allen
+School of Computer Science & Engineering at the University of Washington.
 
-I completed my master's and bachelor's in Computer Science at UC Berkeley in
-the area of computer science eduation, advised by [John DeNero][] and in close
+I received a master's in Computer Science at UC Berkeley in the area of
+computer science eduation, advised by [John DeNero][] and in close
 collaboration with [Josh Hug][] and [Dan Garcia][]. I also previously worked
 with [David DeLiema][] in the [Embodied Design Research Lab][EDRL] in the
 Educational Psychology department to better understand the process through
@@ -33,20 +33,20 @@ During my undergraduate career, I was an undergraduate student instructor
 teaching and learning techniques for CS 61A (CS 1.5) and CS 61B (CS 2) at UC
 Berkeley, two of the largest in-person computer science courses in the world.
 Most recently, I helped run all aspects of course operations in CS 61C (CS 3).
-I have been on a "teaching sabbatical" this Spring 2019 while away on the
-[teaching faculty job search](/recruiting).
+I have been on a "TA sabbatical" this Spring 2019 while away on the [teaching
+faculty job search](/recruiting).
 
 In Spring 2018, I served as President of [Computer Science Mentors][], a
-student organization composed of undergraduate students who volunteer to teach
-other undergraduate students. During my time, I helped scale the organization
-over two-fold, from a group of 100 mentors to a family of over 200 mentors, in
-total serving over 1500 undergraduate EE and CS students. A particular priority
-of mines was in improving the experience for mentors by creating more
+student organization composed of undergraduate students who teach other
+undergraduate students. During my time, I scaled the organization over
+two-fold, from a group of 100 mentors to a family of over 200 mentors, in total
+serving over 1500 undergraduate EE and CS students. A particular priority of
+mines was in improving the experience for mentors by creating more
 opportunities to develop interpersonal relationships through the family system
 and in branching out services to improve mentor training and support their
 long-term goals.
 
-I was a part of the very first cohort of students in CSM Spring 2015. [It
+I was part of the very first cohort of students in CSM Spring 2015. [It
 inspired me.][Year One]
 
 [John DeNero]: http://denero.org/
@@ -56,7 +56,6 @@ inspired me.][Year One]
 [EDRL]: https://edrl.berkeley.edu/
 [CS 61A]: http://inst.eecs.berkeley.edu/~cs61a/su17/
 [CS 61BL]: https://cs61bl.org/su18
-[CS 61BL SU16 Staff]: https://cs61bl.org/su16/staff.html
 [Computer Science Mentors]: https://csmentors.berkeley.edu/
 [Year One]: /2016/08/22/Year-One.html
 
