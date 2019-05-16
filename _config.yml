@@ -14,6 +14,7 @@ logo: "/assets/images/me.png"
 baseurl: ""
 url: "https://kevinl.info"
 paginate: 10
+permalink: pretty
 
 name: Kevin Lin
 author: Kevin Lin
