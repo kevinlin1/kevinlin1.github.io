@@ -2,7 +2,7 @@
 layout: page
 title: About
 header: true
-permalink: /about
+permalink: /about/
 ---
 
 - **CV**: [pdf](/cv)

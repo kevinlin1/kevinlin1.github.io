@@ -1,6 +1,6 @@
 ---
 title: Resume
-permalink: /resume
+permalink: /resume/
 redirect_to:
-  - /cv
+  - /cv/
 ---

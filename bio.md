@@ -1,6 +1,6 @@
 ---
 title: Short Biography
-permalink: /bio
+permalink: /bio/
 redirect_to:
-  - /about#bio
+  - /about/#bio
 ---
