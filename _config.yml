@@ -8,12 +8,11 @@
 # Site settings
 title: Kevin Lin
 email: hello@kevinl.info
-description: >
+description: >-
   CS educator, data scientist, software engineer
 logo: "/assets/images/me.png"
 baseurl: ""
 url: "https://kevinl.info"
-paginate: 10
 permalink: pretty
 
 name: Kevin Lin
@@ -38,6 +37,5 @@ kramdown:
   parse_block_html: true
 
 plugins:
-  - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-seo-tag
