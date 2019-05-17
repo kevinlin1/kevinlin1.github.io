@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 - **CV**: [pdf](/cv)
-- **Email**: <kevinlin1@berkeley.edu>
+- **Email**: <kevinl@cs.uw.edu>
 
 Hi, I'm Kevin. Starting Fall 2019, I will be a Lecturer in the Paul G. Allen
 School of Computer Science & Engineering at the University of Washington.
