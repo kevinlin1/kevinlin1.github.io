@@ -88,6 +88,9 @@ main {
   max-width: 700px;
   font-size: $rs / 4 * 3;
   color: #999999;
+  @include respond-to(800) {
+    padding: $rs * 3 $rs * 1;
+  }
   a {
     color: #666666;
     text-decoration: none;
