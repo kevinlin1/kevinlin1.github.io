@@ -5,7 +5,7 @@ excerpt: >-
   The road to 27,000 student enrollments per year, and what lies ahead.
 ---
 
-- [pdf](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-99.pdf)
+- [pdf](https://drive.google.com/open?id=1kNxLaBsLHSZRgPypgcDW6T1SzBjDq-mK) (author's version)
 - [Citation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-99.html)
 
 > Over the past decade, undergraduate Computer Science (CS) programs across the
