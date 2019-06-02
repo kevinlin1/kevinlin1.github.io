@@ -18,7 +18,7 @@ activities, students experience aspects of CS such as programming, debugging,
 program tracing, and analysis while building a sense of community and belonging
 through small-classroom environments supported by numerous course tutors.
 However, these activities do not explicitly prepare students for taking
-high-stakes paper exams which have been identified as a significant source of
+high-stakes paper exams, which have been identified as a significant source of
 stress in the course. Furthermore, to improve the efficiency of their learning,
 students receive assistance from instructors in real-time in lab, discussion,
 and homework. While receiving real-time assistance significantly reduces
