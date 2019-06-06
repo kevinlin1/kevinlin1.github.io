@@ -6,10 +6,13 @@ excerpt: >-
 ---
 
 I will be receiving an MS in Computer Science from UC Berkeley in May 2019 and
-intend to start a teaching-track faculty job in Fall 2019. Some of my friends
-and students were curious as to how I got here, so I want to share most of my
-application and interview materials. These materials are all dated 2018.
+teaching in the Paul G. Allen School of Computer Science & Engineering at the
+University of Washington in Fall 2019. Some of my friends and students were
+curious as to how I got here, so I wanted to talk a bit about the process and
+share my application and interview materials. These materials are all dated
+2018.
 
+- [Cover letter](https://drive.google.com/open?id=1fWM9ZNEdC8digPhTVeuLpeCMII-aNWdE)
 - [Curriculum vitae](https://drive.google.com/open?id=1Bv7aQF6cOye_Uq30hcubZV5oewOlo6DY)
 - [Teaching statement](https://drive.google.com/open?id=1vCpS_KdDNBuvDxwi7Bt2IDbOYbNVM7yz)
 - [Diversity statement](https://drive.google.com/open?id=1Iu7SgtrIi_U9Kp870AwO7TkjSezXgXvC)
@@ -22,12 +25,16 @@ departments at the university level are also increasingly open to hiring
 experienced teachers with master's degrees, though going directly from
 completing a master's degree into a teaching faculty position is rare. But I'm
 certainly not the first to go down this track: a few colleagues include [Adam
-Blank][], [Hunter Schafer][], among many others. The UW undergraduate TA
-program in particular has been a trailblazer in this regard.
+Blank][], [Hunter Schafer][], [Allison Obourn][], [Zorah Fung][], [among many
+others][UW TAs]. The UW undergraduate TA program in particular has been a
+trailblazer in this regard.
 
 [capacity]: https://cs.stanford.edu/people/eroberts/ResourcesForTheCSCapacityCrisis/
 [Adam Blank]: https://www.countablethoughts.com
 [Hunter Schafer]: https://homes.cs.washington.edu/~hschafer/
+[Allison Obourn]: http://allisonobourn.com/
+[Zorah Fung]: https://www.cs.washington.edu/people/faculty/zorahf
+[UW TAs]: https://news.cs.washington.edu/2016/11/23/uw-cse-undergraduate-tas-reunite-and-celebrate/
 
 I am very lucky to have had the opportunity to lecture for CS courses twice
 during my undergraduate career, though I believe you can do just as much (if
@@ -87,5 +94,5 @@ also suggest connecting with them.
 I found the entire job search process incredibly enjoyable and a rare
 opportunity to broaden my perspective through meeting over a hundred academics
 in the span of a few months. I couldn't have asked for any better way to cap
-off my five year project at UC Berkeley, and I am very grateful to the faculty,
+off my five year experience at UC Berkeley, and I am grateful to the faculty,
 staff, and students in the EECS Department for their perpetual support.
