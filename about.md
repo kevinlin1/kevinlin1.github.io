@@ -11,14 +11,14 @@ permalink: /about/
 Hi, I'm Kevin. Starting Fall 2019, I will be a Lecturer in the Paul G. Allen
 School of Computer Science & Engineering at the University of Washington.
 
-I a BA and MS in Computer Science from UC Berkeley in the area of computer
-science eduation, advised by [John DeNero][] and in close collaboration with
-[Josh Hug][] and [Dan Garcia][]. During this time, I also worked with [David
-DeLiema][] in the [Embodied Design Research Lab][EDRL] in the Educational
-Psychology department to better understand the process through which newcomers
-to programming experience programming and debugging problem solving. I am also
-interested in designing pathways to encourage the development of [pre-service
-K--12 CS teachers](/csp).
+I completed a BA and MS in Computer Science from UC Berkeley in the area of
+computer science eduation, advised by [John DeNero][] and in close
+collaboration with [Josh Hug][] and [Dan Garcia][]. During this time, I also
+worked with [David DeLiema][] in the [Embodied Design Research Lab][EDRL] in
+the Educational Psychology department to better understand the process through
+which newcomers to programming experience programming and debugging problem
+solving. I am also interested in designing pathways to encourage the
+development of [pre-service K--12 CS teachers](/csp).
 
 My goal is to find ways to make course material more personally relevant to
 students. Teaching at the university level, in my mind, has never been about
