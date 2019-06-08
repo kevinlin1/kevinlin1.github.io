@@ -19,9 +19,7 @@ with problems while still in the safety of your guidance.
 Here are a few universal principles that encompass the majority of the feedback
 I give to teachers.
 
-## Universal Principles
-
-### Focus on Ideas
+## Focus on Ideas
 
 - **Design lessons around ideas.** Before showing how to solve a problem,
   present the intuition and ideas in plain English. Better yet, come up with a
@@ -66,7 +64,7 @@ sure that you have a plan for keeping attention up throughout the presentation
 and that the information is all sufficiently laid out on any one slide. Think
 of it as a digital whiteboard, rather than a presentation.
 
-### Communicate Intentions Clearly
+## Communicate Intentions Clearly
 
 - **Make your expectations and classroom decisions explicit, but also explain
   why.** "In this discussion section, we will rarely ever cover all the
@@ -95,7 +93,7 @@ students and their questions, in particular. Students notice.  There are also
 more explicit biases in the words we choose, but be aware of unconscious biases
 by asking for feedback from other teachers.
 
-### Develop a Teaching Persona
+## Develop a Teaching Persona
 
 - **Be charismatic.** It is better than being uncharismatic.
 - **Develop a personal style.** Some teachers have a style that is more calm
