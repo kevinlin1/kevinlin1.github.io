@@ -20,25 +20,25 @@ through small-classroom environments supported by numerous course tutors.
 However, these activities do not explicitly prepare students for taking
 high-stakes paper exams, which have been identified as a significant source of
 stress in the course. Furthermore, to improve the efficiency of their learning,
-students receive assistance from instructors in real-time in lab, discussion,
-and homework. While receiving real-time assistance significantly reduces
-frustration, it can also shortcut learning when too much help is given causing
-students to struggle with exams as they become reliant upon the guidance.
+students receive real-time assistance from instructors during lab, discussion,
+and office hours. While this assistance significantly reduces frustration, it
+can also shortcut learning when too much help is given causing students to
+struggle with exams as they become reliant upon the guidance.
 
-I believe CS 61A can maintain its current goal of minimizing student
-frustration with real-time feedback while also supporting comprehensive student
-learning by highlighting misconceptions through targeted, formative feedback.
-In Fall 2016, as a means of providing such formative feedback, I introduced
-10-minute paper quizzes in my 40-student discussion sections. Quizzes serve as
-a check on student understanding after synthesizing and applying ideas in
-homework but before taking a high-stakes exam. Quiz questions are designed to
-model what students can expect to see on the exam and highlight key ideas from
-the previous week's discussion section. Inspired by the active learning
-literature, students first take the full 10 minutes to complete their quiz
-individually and commit to an answer, then break out into small groups to
-discuss their solution process, before regrouping as a class to summarize their
-ideas. This sparks lively discussion as students are forced to confront their
-misconceptions and reflect on their solution process.
+I believe introductory CS instructors can maintain their current goal of
+minimizing student frustration with real-time feedback while also supporting
+comprehensive student learning by highlighting misconceptions through targeted,
+formative feedback. In Fall 2016, as a means of providing such formative
+feedback, I introduced 10-minute paper quizzes in my 40-student discussion
+sections. Quizzes serve as a check on student understanding after synthesizing
+and applying ideas in homework but before taking a high-stakes exam. Quiz
+questions are designed to model what students can expect to see on the exam and
+highlight key ideas from the previous week's discussion section. Inspired by
+the active learning literature, students first take the full 10 minutes to
+complete their quiz individually and commit to an answer, then break out into
+small groups to discuss their solution process, before regrouping as a class to
+summarize their ideas. This sparks lively discussion as students are forced to
+confront their misconceptions and reflect on their solution process.
 
 After some polishing, my quizzes were deployed to 400 students in CS 61A Summer
 2017\. While student feedback reported the group discussions as generally
@@ -64,5 +64,5 @@ guide accompanying each quiz. Each study guide included a summary of the quiz's
 key ideas, problem-solving strategies, and resources for further review, as
 well as 3--6 problems of increasing difficulty for students to check their
 understanding. End-of-semester student evaluations suggested that this
-quiz-study guide system was well-received by students, and an effective use of
-time in discussion section.
+quiz-study guide system was well-received by students and that it served as an
+effective use of time in discussion section.
