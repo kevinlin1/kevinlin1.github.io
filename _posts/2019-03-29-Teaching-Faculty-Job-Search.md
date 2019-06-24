@@ -63,12 +63,9 @@ institution, reusing materials where possible.
 
 - [Inheritance](https://docs.google.com/presentation/d/1Gs2UUoyPPhYjcrMo2fPvHfqyKXOSXbNGXxAbVbrF31Q/edit?usp=sharing)
 - [Heaps](https://docs.google.com/presentation/d/18v_7bwPdroeU3nWXZlx6ZVraN2BQHXEffuUmdYbpWfA/edit?usp=sharing)
-- [Effective Teaching at Scale][]---it is a reflection of my approach that my
-  teaching philosophy has very little to do with my own teaching.
+- [Effective Teaching at Scale](https://docs.google.com/presentation/d/13gIWG0vA2tFHKbXaWZ8QAsBsn9L9zqE5tRXh1HX729s/edit?usp=sharing)
 - And [live coding demos](https://github.com/kevinlin1/teaching-faculty-demos)
   for these presentations.
-
-[Effective Teaching at Scale]: https://docs.google.com/presentation/d/13gIWG0vA2tFHKbXaWZ8QAsBsn9L9zqE5tRXh1HX729s/edit?usp=sharing
 
 For finding job listings, the [CRA Job Announcements][] page is by far the most
 complete for candidates looking to teach at R1 universities. Based on my
