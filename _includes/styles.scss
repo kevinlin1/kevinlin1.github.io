@@ -103,6 +103,8 @@ article {
   padding: 20px 0;
 
   section {
+    color: #333333;
+
     h1, h2 {
       font-weight: 700;
       font-style: normal;
@@ -129,7 +131,6 @@ article {
 
     p {
       line-height: 1.75;
-      color: #333333;
       -webkit-hyphens: auto;
       -moz-hyphens: auto;
       hyphens: auto;
@@ -148,9 +149,8 @@ article {
     figcaption {
       font-weight: 400;
       font-style: italic;
-      font-size: 16px;
       line-height: 1.3;
-      color: #666665;
+      color: #666666;
       outline: 0;
       z-index: 300;
       text-align: center;
@@ -195,7 +195,7 @@ article {
   margin: 0;
   a {
     text-decoration: none;
-    color: #333332;
+    color: #333333;
     &:hover {
       text-decoration: none;
     }
@@ -204,7 +204,7 @@ article {
 
 .post-excerpt {
   font-size: 18px;
-  color: #666665;
+  color: #666666;
 }
 
 .post-meta {
