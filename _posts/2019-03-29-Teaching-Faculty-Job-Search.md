@@ -5,6 +5,11 @@ excerpt: >-
   A five year, non-traditional path into academia.
 ---
 
+*For a long-form article on the faculty job search process and what it entails,
+see the [Microeconomics of the Faculty Job Search][].*
+
+[Microeconomics of the Faculty Job Search]: /2019/06/25/Microeconomics-of-the-Faculty-Job-Search/
+
 I will be receiving an MS in Computer Science from UC Berkeley in May 2019 and
 teaching in the Paul G. Allen School of Computer Science & Engineering at the
 University of Washington in Fall 2019. Some of my friends and students were
