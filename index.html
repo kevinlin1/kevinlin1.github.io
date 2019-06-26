@@ -7,9 +7,9 @@ layout: default
       <h2 class="blog-description">{{ site.description }}</h2>
   </header>
   {% for post in site.posts %}
-  <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-    <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-    <p class="post-excerpt" itemprop="description">
+  <article class="post">
+    <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="post-excerpt">
       {{ post.excerpt | strip_html | truncatewords: 50 }}
     </p>
     <div class="post-meta">
