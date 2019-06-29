@@ -203,7 +203,8 @@ assistants, experienced interviewers can usually get a sense of a candidate's
 intellectual personality within the first five minutes of a teaching
 demonstration. More often than not, these initial impressions are on the mark.
 How would someone who only saw the first few minutes and last few minutes of
-your talk respond to your value alignment on the following metrics?
+your talk respond to your value alignment on the following metrics? How about
+the entire lesson?
 
 [persona]: /2018/02/04/Teaching-to-Groups/#develop-a-teaching-persona
 
