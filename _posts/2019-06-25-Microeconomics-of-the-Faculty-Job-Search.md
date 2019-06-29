@@ -12,21 +12,21 @@ An institution's most important resource is its people.
 
 The faculty job is a rational economic exchange between the institution and the
 candidate. The faculty candidate offers highly-skilled and specialized labor
-and mentorship; contributes to the fabric of the community through their
-actions and initiatives in teaching, research, and service; and influences the
-prestige of the institution, which has downstream impacts on funding,
-productivity, and attracting future faculty candidates. In return, the
-institution will commit several millions of dollars in salary and funding over
-the span of a full academic career; thousands of hours of faculty mentorship
-and attention; and a steady supply of administrative, teaching, and research
-support. The faculty search committee's role is to connect the two sides by
-identifying and recruiting the candidates best prepared to generate the most
-value for the institution.
+and mentorship; contributes to the community through their actions and
+initiatives in teaching, research, and service; and influences the prestige of
+the institution, which has downstream impacts on funding, productivity, and
+attracting future faculty candidates. In return, the institution will commit
+several millions of dollars in salary and funding over the span of a full
+academic career; thousands of hours of faculty mentorship and attention; and a
+steady supply of administrative, teaching, and research support. The faculty
+search committee's role is to connect the two sides by identifying and
+recruiting the candidates best prepared to generate the most value for the
+institution.
 
 The faculty job search is about **value alignment**: the fit between what the
 candidate wants, what they bring, and what the institution needs. This
 shouldn't come as particularly surprising but is worth stating explicitly
-because it provides a framework for the faculty candidate to make decisions
+because it provides a framework for the faculty candidate to make the decisions
 that best support their candidacy throughout each stage of the process.
 
 1. Composing application materials.
@@ -44,7 +44,7 @@ particular needs of the institution.
 ## Application
 
 The faculty job application is an argument for your value alignment typically
-spanning a set of 4 or 5 documents, plus academic references.
+spanning a set of 4 or 5 documents and academic references.
 
 1. Cover letter, formally prepared.
 1. Academic CV, very different in format, content, and context from a resume.
@@ -57,23 +57,23 @@ statement, diversity statement, and cover letter. The application is similar to
 your dissertation or thesis in that it draws together various professional
 experiences into a cohesive narrative. But beyond your dissertation or thesis,
 the application argues how your experiences form a foundation for generating
-future value for the institution in the ways that matter for the particular
+future value for the institution in the ways that matter to the particular
 job.
 
-An effective faculty job application explicitly positions the candidate as
-well-prepared to generate value in the most relevant ways for the job. This
-often requires additional research on the applicant's part. An argument
-involves three parts.
+An effective faculty job application is an argument that explicitly positions
+the candidate as well-prepared to generate value in the most relevant ways for
+the job. One way to structure this argument is to break it down into three
+parts.
 
-1. Identifying a central challenge or problem of concern for the job.
-1. Taking a position informed by personal experiences.
-1. Presenting an effective argument for the position.
+1. Identify a central challenge or problem of concern for the job.
+1. Take a position informed by personal experiences.
+1. Present an effective argument for the position.
 
 In larger departments, the application's audience is the faculty search
 committee. The faculty search committee is primarily composed of a few faculty
 members within the department. They are tasked with reviewing potentially
-hundreds of applications and creating a shortlist of candidates to invite for
-further interviews.
+hundreds of applications and shortlisting candidates to invite for further
+interviews.
 
 To this academic audience, effective argumentation involves systematic
 reasoning and logical presentation of evidence to support a position. Don't
@@ -87,14 +87,17 @@ standard.
 [pander]: https://theprofessorisin.com/2016/09/12/thedreadedteachingstatement/
 [make empty statements]: https://theprofessorisin.com/2013/01/18/the-weepy-teaching-statement-just-say-no/
 
-The challenges of teaching CS, especially in times [like today][], are
-[well-published][]. I supplemented this public information by cold emailing
-teaching faculty at a few institutions that particularly interested me. As a
-result of this research and my own teaching experiences, I argued that teaching
-CS at scale is a problem that can be solved through automation, support, and
-preparation. But there are many ways to respond to this problem. Furthermore,
-this isn't the only problem and different institutions have different
-priorities.
+I did a bit of reserach to form the foundation of my argument. The challenges
+of teaching CS, especially in times [like today][], are [well-published][]. I
+supplemented this public information by cold emailing teaching faculty at a few
+institutions that particularly interested me. Combining this research with my
+teaching experiences, I argued that teaching CS at scale is a problem that can
+be solved through automation, support, and preparation. But there are many ways
+to respond to this problem. Furthermore, this isn't the only problem that I
+could have written about. Different institutions have different priorities, and
+not all institutions would benefit directly from my experiences with teaching
+CS at scale. How evidence is selected and tailored to the argument can reflect
+differently on the search committee.
 
 [like today]: https://cs.stanford.edu/people/eroberts/ResourcesForTheCSCapacityCrisis/
 [well-published]: https://www.nytimes.com/2019/01/24/technology/computer-science-courses-college.html
@@ -134,10 +137,12 @@ as building a rapport with the search committee.
 
 [Talking Points Document]: http://www.pgbovine.net/guo-faculty-job-search.pdf#page=5
 
-Building rapport is especially important in the on-campus interview. The
-on-campus interview typically involved a full day of events coordinated by the
-faculty host, typically a member of the faculty search committee. Most of my
-teaching-track faculty interviews ran between 8 and 12 hours long.
+Building rapport is particularly important in the next interview phase: the
+on-campus interview. The on-campus interview involved a full day of events
+coordinated by the faculty host, typically a member of the faculty search
+committee. Most of my teaching-track faculty interviews ran between 9 and 12
+hours long with the shortest at 5 hours and the longest at 13 hours. Interviews
+largely followed a standard template.
 
 - Breakfast with the host.
 - Half-hour, back-to-back, one-on-one meetings with interested faculty until
@@ -154,7 +159,7 @@ department culture because they showed the degree to which people outside of
 the immediate faculty were involved in the different missions of the
 department. I made sure to request an additional meeting with undergraduate
 teaching assistants to envision mentorship and program development
-opportunities, if it was not already included in the schedule. The departments
+opportunities if it was not already included in the schedule. The departments
 that most impressed me demonstrated a high level of engagement from staff and
 students outside of the classroom. Likewise, the nature of the requests you
 make in the planning of the interview will make an impression upon the faculty
@@ -162,14 +167,14 @@ search committee.
 
 The faculty job interview is a grueling process not only due to its length but
 also because the candidate is always on. Every interaction from the moment you
-greet the host for breakfast until you're dropped off after dinner is part of
-the interview and should be considered critical to the faculty search
-committee's view of your value alignment. I echo Philip's advice that at the
-heart of the faculty interview is being a great communicator: [Strive to
-engage, not to impress][]. Faculty are people, first and foremost, so one of
-the functions of the interview meetings is to determine how you would
-collaborate and interact with those people. You're not going there to get a
-job. You're going there to [meet your colleagues][].
+greet the host for breakfast until the moment you're dropped off after dinner
+is part of the interview and should be considered critical to the faculty's
+view of your value alignment. I echo Philip's advice that at the heart of the
+faculty interview is being a great communicator: [Strive to engage, not to
+impress][]. Faculty are people, first and foremost, so one of the functions of
+the interview meetings is to determine how you would collaborate and interact
+with those people. You're not going there to get a job. You're going there to
+[meet your colleagues][].
 
 [Strive to engage, not to impress]: http://www.pgbovine.net/guo-faculty-job-search.pdf#page=6
 [meet your colleagues]: https://ask.metafilter.com/31759/Academic-Job-Interview-Questions#c499299
@@ -181,31 +186,30 @@ dimensions of you and your work. Through the application, they understand your
 value proposition to the department in terms of your background and experience,
 and to some extent your ability to design, execute, and evaluate research or
 teaching ideas. Through the interview meetings, they understand how you might
-fit into the department and the way you might present yourself to faculty,
-staff, and students. What is missing is an understanding of your [intellectual
-personality][]: how you present yourself, how you talk about ideas, and how you
-would represent the department to the public.
+fit with faculty, staff, and students. What is missing is an understanding of
+your [intellectual personality][]: how you present yourself, how you talk about
+ideas, and how you would represent the department to the public.
 
 [intellectual personality]: http://www.pgbovine.net/guo-faculty-job-search.pdf#page=8
 
 The teaching faculty job talk is typically posed to the candidate as an
 hour-long lecture on a technical topic from the undergraduate curriculum during
 which the faculty interviewers role-play as undergraduate students in your
-class. The delivery of the content and the decisions or assumptions that go
-into the talk can be particularly nuanced. More experienced teachers tend to
-have an established or characteristic teaching style or [persona][]. Speaking
-from interviewing teaching assistants, experienced interviewers can usually get
-a sense of a candidate's intellectual personality within the first five minutes
-of a demonstration. More often than not, these initial impressions are on the
-mark. What would someone who only saw the first few minutes and last few
-minutes of your talk feel about you on the following metrics?
+class. While you can certainly reuse a lecture from a real course you've taught
+before, the delivery of the content and the decisions that go into the job talk
+should reflect your value alignment. More experienced teachers tend to have an
+established teaching style or [persona][]. Speaking from interviewing teaching
+assistants, experienced interviewers can usually get a sense of a candidate's
+intellectual personality within the first five minutes of a teaching
+demonstration. More often than not, these initial impressions are on the mark.
+How would someone who only saw the first few minutes and last few minutes of
+your talk respond to your value alignment on the following metrics?
 
-[persona]: https://kevinl.info/2018/02/04/Teaching-to-Groups/#develop-a-teaching-persona
+[persona]: /2018/02/04/Teaching-to-Groups/#develop-a-teaching-persona
 
 - What pedagogies do you utilize, and why is it suited to the content?
-- How do you organize a complex lesson?
-- What do you emphasize, e.g. motivation, exposition, demonstration, practice,
-  theory?
+- How do you organize a complex lesson? What do you emphasize in the lesson?
+  e.g. motivation, exposition, demonstration, practice, theory.
 - How do you manage time, especially in a dynamic environment where students
   may want to ask multiple questions throughout the talk?
 - How do you engage students?
@@ -214,28 +218,31 @@ minutes of your talk feel about you on the following metrics?
   factors within your control, even in the time-restricted job talk.)
 - How do you support students who are less-prepared for the lesson or
   uncomfortable with the content?
-- How does your body language, facial expressions, and physical presence
-  contribute to the talk?
+- How does your body language, facial expressions, and physical presence impact
+  the lesson?
 
 In addition to this teaching talk, a few departments also asked me to give a
-teaching philosophy talk, a teaching at scale talk, or another type of
-technical talk.
+teaching philosophy talk, a teaching at scale talk, or another type of talk
+aimed at technical audiences.
 
 ## Decision
 
 Throughout the application and interview steps, the job search has been focused
-around emphasizing the candidate's value proposition. How a department comes to
-a decision about to whom they should make an offer is [often convoluted][].
-Typically, offers are made between February and May, and can be delayed further
-depending on how long the department spends waiting on the response from
-another candidate and their confidence in the rest of the faculty candidate
-interview schedule. Once the department decides to make an offer, leverage
-shifts to the candidate's side.
+around emphasizing the candidate's value proposition. After the on-campus
+interview is a period of waiting as the department interviews other candidates
+and decides to whom they should make offers.
+
+How a department comes to a decision about to whom they should make an offer is
+[often convoluted][]. Typically, offers are made between February and May, but
+this process can be accelerated or delayed depending on the department's
+confidence in the rest of the faculty candidate interview schedule. Once the
+department decides to make an offer, leverage shifts to the candidate's side.
 
 [often convoluted]: https://career.berkeley.edu/PhDs/PhDhiring
 
-Determining fit and the overall work environment was the top priority for me. A
-few criteria about the institutions ultimately shaped my decision.
+Determining fit and the overall work environment was the top priority for me in
+making a decision between multiple competing offers. A few criteria about the
+institutions ultimately made the difference.
 
 - Who are the students? What is their profile and general background?
 - How are teaching assistants and administrative staff utilized? What are the
@@ -259,37 +266,40 @@ about the offer details.
 - Discretionary fund.
 - Teaching load.
 
-The process of negotiation is about value alignment. The department chair will
-do their best to attract you, but equity between faculty in the department is
-an important concern. Salary, for example, is difficult to negotiate primarily
-due to salary compression. Salaries at some public institutions may also be
-restricted by the state legislature. The permanent teaching load or the
-availability of discretionary funds are also typically subject to this same
-standard: while temporary adjustments may be possible on a case-by-case basis,
-any permanent change will need to apply uniformly to all faculty.
+The process of negotiation is also about value alignment. The department chair
+will do their best to attract you, but equity between faculty in the department
+is an important concern. Salary, for example, is difficult to negotiate
+primarily due to salary compression. In many fields, academic salaries have not
+been keeping up with inflation or cost of living, so the salary difference
+between tenured professors and new faculty is compressed, leaving little room
+for new faculty to negotiate on salary.
 
-Negotiating better benefits doesn't come free. It requires leverage, which can
-come from your job search situation as well as your value proposition. Every
-candidate with a job offer in hand has leverage: they can choose to decline the
-offer, forcing the department to move on to their next candidate. With multiple
-job offers in hand, the risk of a declined offer increases for any one
-department, so the candidate's leverage also increases. Departments can reduce
-this risk by matching competing offer details you choose to share.
+Negotiating for better benefits doesn't come automatically. It requires
+leverage, which can come from your competing job offers as well as your value
+proposition. Every candidate with a job offer in hand has leverage: they can
+choose to decline the offer, forcing the department to move on to their next
+candidate. With multiple job offers in hand, the risk of a declined offer
+increases for any one department, so the candidate's leverage also increases.
+Departments can reduce this risk by matching competing offer details you choose
+to share. Your role in the negotiation process is determining what you need to
+succeed, and utilizing your available leverage to get it.
 
-Often, the negotiation does not just involve the candidate and the department.
-On the department's side, funding streams and faculty slots can be controlled
-by higher administrative units such as colleges, so modifications to the terms
-of the offer can require external approval. There can thus be an administrative
-or political cost to modifying the terms of the offer, which works against the
-candidate's leverage. The more a change can be proposed as added value for the
-institution, the more leverage can be recovered. In the greater scheme of
-things, as a junior faculty candidate, your total leverage is limited to the
-value you provide over the next candidate. Don't sell yourself short, do
-advocate for what you want or need to succeed, but also recognize that you are
-one of many faculty in the department.
+Often, however, negotiations do not just involve the candidate and the
+department. On the department's side, funding streams and faculty slots can be
+controlled by higher administrative units such as colleges, so modifications to
+the terms of the offer will often require external approval. There can thus be
+an administrative or political cost to modifying the terms of the offer that
+works against the candidate's leverage. The more a change can be proposed as
+added value for the institution, the more leverage can be recovered.
 
-With just one signature, the faculty job search spanning more than 8 months
-finally concludes.
+But, in the greater scheme of things, as a junior faculty candidate, your total
+leverage is limited to the value you provide over the next candidate. Don't
+sell yourself short, do advocate for what you need to succeed, but also
+recognize that you are one of many faculty in the department.
+
+With the final offer hand, all that's left is your signature.
+
+---
 
 A notable exception from this article is the human side of the faculty job
 search. This article does not address the potential emotional or mental toll of
