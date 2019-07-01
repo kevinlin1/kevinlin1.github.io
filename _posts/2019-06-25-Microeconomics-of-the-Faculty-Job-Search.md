@@ -291,12 +291,9 @@ controlled by higher administrative units such as colleges, so modifications to
 the terms of the offer will often require external approval. There can thus be
 an administrative or political cost to modifying the terms of the offer that
 works against the candidate's leverage. The more a change can be proposed as
-added value for the institution, the more leverage can be recovered.
-
-But, in the greater scheme of things, as a junior faculty candidate, your total
-leverage is limited to the value you provide over the next candidate. Don't
-sell yourself short, do advocate for what you need to succeed, but also
-recognize that you are one of many faculty in the department.
+added value for the institution, the more leverage can be recovered. Don't sell
+yourself short, do advocate for what you need to succeed, but also recognize
+that you are one of many faculty in the department.
 
 With the final offer hand, all that's left is your signature.
 
