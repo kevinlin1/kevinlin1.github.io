@@ -66,7 +66,7 @@ the job. One way to structure this argument is to break it down into three
 parts.
 
 1. Identify a central challenge or problem of concern for the job.
-1. Take a position informed by personal experiences.
+1. Take a position.
 1. Present an effective argument for the position.
 
 In larger departments, the application's audience is the faculty search
@@ -87,7 +87,7 @@ standard.
 [pander]: https://theprofessorisin.com/2016/09/12/thedreadedteachingstatement/
 [make empty statements]: https://theprofessorisin.com/2013/01/18/the-weepy-teaching-statement-just-say-no/
 
-I did a bit of reserach to form the foundation of my argument. The challenges
+I did a bit of research to form the foundation of my argument. The challenges
 of teaching CS, especially in times [like today][], are [well-published][]. I
 supplemented this public information by cold emailing teaching faculty at a few
 institutions that particularly interested me. Combining this research with my
@@ -208,7 +208,7 @@ the entire lesson?
 
 [persona]: /2018/02/04/Teaching-to-Groups/#develop-a-teaching-persona
 
-- What pedagogies do you utilize, and why is it suited to the content?
+- What pedagogies do you utilize? Why are they suited to the content?
 - How do you organize a complex lesson? What do you emphasize in the lesson?
   e.g. motivation, exposition, demonstration, practice, theory.
 - How do you manage time, especially in a dynamic environment where students
@@ -220,7 +220,7 @@ the entire lesson?
 - How do you support students who are less-prepared for the lesson or
   uncomfortable with the content?
 - How does your body language, facial expressions, and physical presence impact
-  the lesson?
+  learning?
 
 In addition to this teaching talk, a few departments also asked me to give a
 teaching philosophy talk, a teaching at scale talk, or another type of talk
@@ -233,11 +233,12 @@ around emphasizing the candidate's value proposition. After the on-campus
 interview is a period of waiting as the department interviews other candidates
 and decides to whom they should make offers.
 
-How a department comes to a decision about to whom they should make an offer is
-[often convoluted][]. Typically, offers are made between February and May, but
-this process can be accelerated or delayed depending on the department's
-confidence in the rest of the faculty candidate interview schedule. Once the
-department decides to make an offer, leverage shifts to the candidate's side.
+The process by which a department comes to a decision about to whom they should
+make an offer is [often convoluted][]. Typically, offers are made between
+February and May, but this process can be accelerated or delayed depending on
+the department's confidence in the rest of the faculty candidate interview
+schedule. Once the department decides to make an offer, leverage shifts to the
+candidate's side.
 
 [often convoluted]: https://career.berkeley.edu/PhDs/PhDhiring
 
