@@ -31,10 +31,9 @@ most proud of achieving as a lecturer for [CS 61A][] and [CS 61BL][].
 During my undergraduate career, I was an undergraduate student instructor
 (teaching assistant) for 8 semesters. I studied and implemented scalable
 teaching and learning techniques for CS 61A (CS 1.5) and CS 61B (CS 2) at UC
-Berkeley, two of the largest in-person computer science courses in the world.
-Most recently, I helped run all aspects of course operations in CS 61C (CS 3).
-I have been on a "TA sabbatical" this Spring 2019 while away on the [teaching
-faculty job search](/recruiting).
+Berkeley. Most recently, I helped run all aspects of course operations in CS
+61C (CS 3). I have been on a "TA sabbatical" this Spring 2019 while away on the
+[teaching faculty job search](/recruiting).
 
 In Spring 2018, I served as President of [Computer Science Mentors][], a
 student organization composed of undergraduate students who teach other
