@@ -39,3 +39,11 @@ kramdown:
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blank_lines: false
+  profile: false
