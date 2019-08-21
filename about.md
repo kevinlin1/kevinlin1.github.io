@@ -12,8 +12,9 @@ permalink: /about/
 > and developed programs for broadening participation and retention in
 > classrooms of all sizes.
 
-- **CV**: [pdf](/cv)
 - **Email**: <kevinl@cs.uw.edu>
+- **Office**: CSE 560
+- **CV**: [pdf](/cv)
 
 Hi, I'm Kevin. Starting Fall 2019, I will be a Lecturer in the Paul G. Allen
 School of Computer Science & Engineering at the University of Washington.
