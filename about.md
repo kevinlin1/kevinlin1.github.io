@@ -5,6 +5,13 @@ header: true
 permalink: /about/
 ---
 
+> Kevin Lin is a Lecturer in the Paul G. Allen School of Computer Science &
+> Engineering at the University of Washington. Kevin received his BA (2018) and
+> MS (2019) in Computer Science from UC Berkeley where he coordinated the
+> teaching and delivery of large-scale introductory undergraduate CS courses,
+> and developed programs for broadening participation and retention in
+> classrooms of all sizes.
+
 - **CV**: [pdf](/cv)
 - **Email**: <kevinl@cs.uw.edu>
 
@@ -57,12 +64,3 @@ inspired me.][Year One]
 [CS 61BL]: https://cs61bl.org/su18
 [Computer Science Mentors]: https://csmentors.berkeley.edu/
 [Year One]: /2016/08/22/Year-One.html
-
-## Bio
-
-Kevin Lin is a Lecturer in the Paul G. Allen School of Computer Science &
-Engineering at the University of Washington. Kevin received his BA (2018) and
-MS (2019) in Computer Science from UC Berkeley where he coordinated the
-teaching and delivery of large-scale introductory undergraduate CS courses, and
-developed programs for broadening participation and retention in classrooms of
-all sizes.
