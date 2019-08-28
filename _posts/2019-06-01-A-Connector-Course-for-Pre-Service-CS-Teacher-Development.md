@@ -3,6 +3,8 @@ layout: post
 title: A Connector Course for Pre-Service CS Teacher Development
 excerpt: >-
   Bootstrapping pre-service CS teacher training with CS0.
+redirect_from:
+  - /csp/
 ---
 
 - [pdf](https://drive.google.com/open?id=1R3ksUdguWTeQiRyo4FvzsDGGHE0kwpe-)
