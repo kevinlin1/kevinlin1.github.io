@@ -3,6 +3,8 @@ layout: page
 title: About
 header: true
 permalink: /about/
+redirect_from:
+  - /bio/
 ---
 
 > Kevin Lin is a Lecturer in the Paul G. Allen School of Computer Science &
