@@ -6,8 +6,10 @@ excerpt: >-
 ---
 
 *This essay was selected for the 2019 UC Berkeley Teaching Effectiveness Award.
-An edited copy is slated to appear on the GSI Teaching & Resource Center.
-Below is the author's version.*
+The [definitive version][] can be found on the GSI Teaching & Resource Center
+website. Below is the author's version.*
+
+[definitive version]: https://gsi.berkeley.edu/from-40-to-400-to-1400-providing-formative-feedback-in-large-scale-courses/
 
 Students learn computer science (CS) by doing. In CS 61A, a highly-rated
 introductory CS course at UC Berkeley, students are introduced to new concepts
