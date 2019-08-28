@@ -3,6 +3,8 @@ layout: post
 title: Teaching Faculty Job Search
 excerpt: >-
   A five year, non-traditional path into academia.
+redirect_from:
+  - /recruiting/
 ---
 
 *For a long-form article on the faculty job search process and what it entails,
