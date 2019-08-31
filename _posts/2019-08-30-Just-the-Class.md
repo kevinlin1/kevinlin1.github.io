@@ -44,8 +44,8 @@ everything else. This means that you also get:
 One neat feature is the full-text [search][] capability. I use it to index all
 of the content in the course, including PDF-based materials such as lecture
 slides and section handouts. Try searching the [CSE 373][] course website for
-terms like "abstract data types" or "invariant" and you'll see it pick up uses
-from lecture as well as the readings.
+terms like "abstract data types" or "TMWLO" and you'll see it pick up uses
+from lecture.
 
 If you click through one of the lecture search results, you'll notice that it
 brings you briefly to a redirect landing page. When generating the website on
