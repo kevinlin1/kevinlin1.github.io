@@ -12,6 +12,7 @@ redirect_from:
 ## 2019
 
 - [A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-A-Berkeley-View-of-Teaching-CS-at-Scale.md %})
+- [You're Spamming the Autograder]({% link _posts/2019-08-29-Spamming-the-Autograder.md %})
 - How a Defensive Climate Develops in the Undergraduate CS Classroom
 
 ### UC Berkeley [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/)
