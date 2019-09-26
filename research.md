@@ -26,3 +26,11 @@ redirect_from:
 
 - [Subgoals, Problem-Solving Phases, and Sources of Knowledge: A Complex Mangle]({% link _posts/2019-02-28-Subgoals-Problem-Solving-Phases-Sources-of-Knowledge.md %})
 - [A Connector Course for Pre-Service CS Teacher Development]({% link _posts/2019-06-01-A-Connector-Course-for-Pre-Service-CS-Teacher-Development.md %})
+
+### Non-Refereed and Unpublished
+
+Machine learning, optimization, and natural language processing for Computer Science Education.
+
+- Clustering Students to Improve Retention, Self-Efficacy, and Belonging in CS1 ([Colab](https://colab.research.google.com/github/kevinlin1/cluster-schedule/blob/master/schedule.ipynb))
+- Next Step Prediction ([Poster](https://docs.google.com/drawings/d/1EpIBfVAo-tGj9ZMp6kt_r9ljazhnMJBs2WupKliVBEA/edit?usp=sharing)), with Alex Stennet, Lara McConnaughey, Mansi Shah, Nandika Donthi
+- Piazza Suggestions
