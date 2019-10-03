@@ -13,9 +13,9 @@ layout: default
     <p class="post-excerpt">
       {{ post.excerpt | strip_html | truncatewords: 50 }}
     </p>
-    <div class="post-meta">
+    <p class="post-meta">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
-    </div>
+    </p>
   </article>
   {% endfor %}
 </main>
