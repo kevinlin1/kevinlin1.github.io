@@ -2,21 +2,17 @@
 layout: default
 ---
 <main>
-  <article>
+  <article class="post">
     <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-excerpt">
+      {{ page.excerpt | strip_html | truncatewords: 50 }}
+    </p>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
+    </p>
     <section class="post-content">
-      {{content}}
+      {{ content }}
     </section>
-    <div class="bottom-teaser">
-      <h2 class="index-headline"><span>Written by</span></h2>
-      <section class="author">
-        <amp-img src="{{ site.baseurl }}{{ site.author_image }}" width="80" height="80"></amp-img>
-        <h3>{{ site.author }}</h3>
-        <p class="bio">{{ site.description }}</p>
-        <hr>
-        <p>Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
-      </section>
-    </div>
   </article>
 </main>
 {% include footer.html %}
