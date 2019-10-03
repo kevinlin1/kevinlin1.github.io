@@ -19,6 +19,8 @@ exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "redirects
 name: Kevin Lin
 author: Kevin Lin
 author_image: "/assets/images/me.png"
+button_link: "https://calendar.google.com/calendar/selfsched?sstoken=UUowZ0M1TUlSMXFffGRlZmF1bHR8YmI1YmZkNjM2MjJiMDdlMzdmNzI4ZmMyMTExOGY0ZGM"
+button_text: "Schedule a meeting"
 
 social:
   name: Kevin Lin

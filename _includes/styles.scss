@@ -30,6 +30,18 @@ body {
   }
 }
 
+.button {
+  text-decoration: none;
+  font-size: 18px;
+  color: #999999;
+  padding: 5px 8px 4px;
+  border-radius: 6px;
+  border: 1px solid #f2f2f0;
+  &:hover {
+    color: #333333;
+  }
+}
+
 .page-links {
   float: right;
   line-height: 48px;
@@ -45,14 +57,7 @@ body {
   }
 
   a {
-    text-decoration: none;
-    color: #999999;
-    padding: 5px 8px 4px;
-    border-radius: 6px;
-    border: 1px solid #f2f2f0;
-    &:hover {
-      color: #333333;
-    }
+    @extend .button;
   }
 }
 
