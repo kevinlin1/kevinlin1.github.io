@@ -225,45 +225,6 @@ article {
   }
 }
 
-.bottom-teaser {
-  padding: 50px 0 0 0;
-
-  h3 {
-    padding-left: 100px;
-    margin-bottom: 0;
-  }
-
-  p {
-    font-size: 14px;
-    margin: 10px 0;
-    padding-left: 100px;
-    color: #999999;
-  }
-
-  amp-img {
-    float: left;
-  }
-
-  hr {
-    width: 15%;
-    margin: 16px 0 16px 100px;
-    border: none;
-    border-top: 1px solid #dddddd;
-  }
-
-  .index-headline {
-    border-top: 1px solid #dededc;
-    margin: 0;
-
-    span {
-      color: #b3b3b1;
-      font-size: $rs / 8 * 5;
-      text-transform: uppercase;
-      letter-spacing: 0.2em;
-    }
-  }
-}
-
 pre,
 code {
   font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
