@@ -27,6 +27,7 @@ permalink: /teaching/
 - [Summer 2017](https://inst.eecs.berkeley.edu/~cs61a/su17/)
 - [Fall 2016](https://inst.eecs.berkeley.edu/~cs61a/fa16/) (TA)
 - [Spring 2016](https://inst.eecs.berkeley.edu/~cs61a/sp16/) (Tutor)
+- [Fall 2015](https://inst.eecs.berkeley.edu/~cs61a/sp16/) (Academic Intern)
 
 ### [CS 61B(L)]({% link cs61b/index.md %}): Data Structures
 
