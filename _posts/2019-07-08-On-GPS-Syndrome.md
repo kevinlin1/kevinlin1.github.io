@@ -9,7 +9,7 @@ I often see students suffer from **[GPS Syndrome][]**, a term coined by
 [Kristin Stephens-Martinez](https://users.cs.duke.edu/~ksm/) from her
 experiences as a UC Berkeley introductory computer science teaching assistant.
 
-[GPS Syndrome]: https://docs.google.com/document/d/1zNMebkKIUdzwV2LeenPQ0vfElHsL0FSxh6TXAsAqtTA/edit?usp=sharing
+[GPS Syndrome]: https://ksm-cs.blogspot.com/2019/10/gps-syndrome.html
 
 > When a teacher provides scaffolding to a student, but does not fade it
 > appropriately over time, leaving it there for too long. This results in a
