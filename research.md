@@ -9,10 +9,18 @@ redirect_from:
   - /sigcse/
 ---
 
+## 2020
+
+- [Contraction Hierarchies: Efficient Real-World Route Searching]({% link _posts/2019-10-13-Contraction-Hierarchies.md %})
+
+### [SIGCSE 2020](https://sigcse2020.sigcse.org/)
+
+- It Seemed Like a Good Idea at the Time (Hindsight is 2020): [You're Spamming the Autograder]({% link _posts/2019-08-29-Spamming-the-Autograder.md %})
+- Perspectives on Allyship in Academia
+
 ## 2019
 
 - [A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-A-Berkeley-View-of-Teaching-CS-at-Scale.md %})
-- [You're Spamming the Autograder]({% link _posts/2019-08-29-Spamming-the-Autograder.md %})
 - How a Defensive Climate Develops in the Undergraduate CS Classroom
 
 ### UC Berkeley [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/)
