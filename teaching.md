@@ -12,7 +12,9 @@ permalink: /teaching/
 > - What is a significant hardship students face in this course?
 > - Why do you think you would make a good TA for this course?
 >
-> The purpose of the personal statement is to make a **logical argument as to why you would succeed as a TA for this course**. The most effective personal statements draw on evidence from either student experience and/or teaching experience to substantiate claims. Successful applicants typically take three or more paragraphs to address these points, though this is not a hard requirement.
+> The purpose of the personal statement is to make a **logical argument as to why you would succeed as a TA for this course**. The most effective personal statements draw on evidence from either student experience and/or teaching experience to substantiate claims. Successful applicants typically write (in total) three or more paragraphs to address all of these points, though this is not a hard requirement.
+>
+> Note that your personal statement will be seen by all instructors who review your application. If more than one course interests you, you may want to tailor your personal statement so that it also makes sense to other instructors who may review your application.
 
 ## University of Washington
 
