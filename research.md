@@ -9,6 +9,10 @@ redirect_from:
   - /sigcse/
 ---
 
+> Are you a current **UW undergrad or CSE B.S./M.S. student** interested in working with me? Read this Allen School page on [Undergraduate Research](https://www.cs.washington.edu/academics/ugrad/enrichment/research) and then email me about why you're interested in working on CS Education research with me.
+>
+> Are you a current or prospective **Ph.D student** interested in working with me? I do not formally advise Ph.D students, but we have a vibrant group of CS Education researchers in the [ComputingEd@UW](http://computinged.uw.edu/) community who would love to get in touch with you.
+
 ## 2020
 
 - [Contraction Hierarchies: Efficient Real-World Route Searching]({% link _posts/2019-10-13-Contraction-Hierarchies.md %})
