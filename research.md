@@ -25,7 +25,7 @@ redirect_from:
 ## 2019
 
 - [A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-A-Berkeley-View-of-Teaching-CS-at-Scale.md %})
-- How a Defensive Climate Develops in the Undergraduate CS Classroom
+- How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom
 
 ### UC Berkeley [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/)
 
