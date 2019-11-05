@@ -69,7 +69,7 @@ mixed and matched presentations to prepare a customized talk for each
 institution, reusing materials where possible.
 
 - [Inheritance](https://docs.google.com/presentation/d/1Gs2UUoyPPhYjcrMo2fPvHfqyKXOSXbNGXxAbVbrF31Q/edit?usp=sharing)
-- [Heaps](https://docs.google.com/presentation/d/18v_7bwPdroeU3nWXZlx6ZVraN2BQHXEffuUmdYbpWfA/edit?usp=sharing)
+- [Heaps](https://docs.google.com/presentation/d/18v_7bwPdroeU3nWXZlx6ZVraN2BQHXEffuUmdYbpWfA/edit?usp=sharing) (cf. [updated lecture](https://docs.google.com/presentation/d/1jJoIAsLMIZ2KxiGCgcxtAfdCyxhFcw9bjRNCCw5MOkw/edit?usp=sharing) implemented as part of a real class in Autumn 2019)
 - [Effective Teaching at Scale](https://docs.google.com/presentation/d/13gIWG0vA2tFHKbXaWZ8QAsBsn9L9zqE5tRXh1HX729s/edit?usp=sharing)
 - And [live coding demos](https://github.com/kevinlin1/teaching-faculty-demos)
   for these presentations.
