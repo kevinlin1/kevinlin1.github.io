@@ -7,16 +7,20 @@ description: >-
 permalink: /teaching/
 ---
 
-> Interested in becoming a teaching assistant for one of my courses? Complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following questions in your personal statement.
+> Want to be a teaching assistant (TA) for one of my courses? Complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following questions in your personal statement.
 > - Why do you want to teach this course?
 > - What is a significant hardship students face in this course?
 > - Why do you think you would make a good TA for this course?
 >
 > The purpose of the personal statement is to make a **logical argument as to why you would succeed as a TA for this course**. The most effective personal statements draw on evidence from either student experience and/or teaching experience to substantiate claims. Successful applicants typically write (in total) three or more paragraphs to address all of these points, though this is not a hard requirement.
 >
-> Note that your personal statement will be seen by all instructors who review your application. If more than one course interests you, you may want to tailor your personal statement so that it also makes sense to other instructors who may review your application.
+> Note that your personal statement will be seen by all instructors who review your application. If more than one course interests you, you may want to tailor your personal statement so that it also makes sense to the other instructors who may review your application.
 
 ## University of Washington
+
+### CSE 143: Computer Programming II
+
+- Spring 2020
 
 ### CSE 332: Data Structures and Parallelism
 
@@ -25,8 +29,6 @@ permalink: /teaching/
 ### CSE 373: Data Structures and Algorithms
 
 - [Autumn 2019](https://courses.cs.washington.edu/courses/cse373/19au/)
-
----
 
 ## University of California, Berkeley
 
