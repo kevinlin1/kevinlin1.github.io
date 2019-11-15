@@ -13,6 +13,8 @@ redirect_from:
 >
 > Are you a current or prospective **Ph.D student** interested in working with me? I do not formally advise Ph.D students, but we have a vibrant group of CS Education researchers in the [ComputingEd@UW](http://computinged.uw.edu/) community who would love to get in touch with you.
 
+A formal list of research publications can be found in my [CV](/cv).
+
 ## 2020
 
 - [Contraction Hierarchies: Efficient Real-World Route Searching]({% link _posts/2019-10-13-Contraction-Hierarchies.md %})
