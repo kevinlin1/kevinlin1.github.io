@@ -21,6 +21,8 @@ redirect_from:
 
 - It Seemed Like a Good Idea at the Time (Hindsight is 2020): [You're Spamming the Autograder]({% link _posts/2019-08-29-Spamming-the-Autograder.md %})
 - Perspectives on Allyship in Academia
+- Metacognitive Scaffolding with Guided Lecture Notes
+- How Can We Make Office Hours Better?
 
 ## 2019
 
