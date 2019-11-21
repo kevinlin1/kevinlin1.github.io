@@ -9,14 +9,14 @@ permalink: /teaching/
 
 > **Teaching tea parties** are 3:40-4:30 PM most every Friday Autumn 2019 in my office, CSE 560. Teaching tea parties are an opportunity to chill-out, listen to good music, and enjoy tasty snacks in the company of other educators. All UW students are welcome to participate.
 
-> **Interested in being a teaching assistant for my course?** Complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following questions in your personal statement.
+> **Interested in being a teaching assistant for my course?** Complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement.
 > - Why do you want to teach this course?
-> - What is a significant hardship students face in this course?
-> - Why do you think you would make an effective TA for this course?
+> - Describe a college classroom experience (CSE or otherwise) that was particularly effective or ineffective.
+> - Why would you be an effective TA for this course?
 >
-> The purpose of the personal statement is to make a **logical argument as to why you would succeed as a TA for this course**. The most effective personal statements draw on evidence from either student experience and/or teaching experience to substantiate claims. Successful applicants typically write (in total) three or more paragraphs to address all of these points, though this is not a hard requirement.
+> The purpose of the personal statement is to make a **logical** argument as to why you would succeed as a TA by demonstrating fluency around the challenges of teaching computer science in the university setting. I read your personal statement with the intention of sparking conversation around your ideas on computer science education.
 >
-> Note that your personal statement will be seen by all instructors who review your application. If more than one course interests you, you may want to tailor your personal statement so that it also makes sense to the other instructors who may review your application.
+> Note that your personal statement will be seen by all instructors reviewing your application. If you're interested in teaching other courses, you may want to tailor your personal statement so that it also makes sense to other instructors.
 
 ## University of Washington
 
