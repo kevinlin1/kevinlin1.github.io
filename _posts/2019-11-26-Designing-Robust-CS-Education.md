@@ -30,7 +30,7 @@ Broadly speaking, effective teaching at any level necessarily requires an equity
 
 [productive failure]: https://www.manukapur.com/productive-failure/
 
-What is the critical thinking skillset specific to a technical CS education? One framing for CS education is to view it as a problem of obtaining canonical mental representations and solution methods (RSMs). In this view, ``programming is not merely about language syntax and semantics, but more fundamentally about the iterative process of refining mental representations of computational problems and solutions and expressing those representations as code'' ([Loksa et al, 2016][]).
+What is the critical thinking skillset specific to a technical CS education? One framing for CS education is to view it as a problem of obtaining canonical mental representations and solution methods (RSMs). In this view, "programming is not merely about language syntax and semantics, but more fundamentally about the iterative process of refining mental representations of computational problems and solutions and expressing those representations as code" ([Loksa et al, 2016][]).
 
 [Loksa et al, 2016]: https://dl.acm.org/citation.cfm?id=2858252
 
