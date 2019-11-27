@@ -5,11 +5,11 @@ excerpt: >-
   Equitable CS education in higher-ed: a 2-year retrospective on Teaching to Groups.
 ---
 
-*Part two to [Teaching to Groups]({% link _posts/2018-02-04-Teaching-to-Groups.md %}).*
+*Part two of [Teaching to Groups]({% link _posts/2018-02-04-Teaching-to-Groups.md %}).*
 
 I used to think undergraduate teaching assistants (TAs) were the most amazing part of a CS course. I admired my TAs, and I owe to them my interest in teaching computer science. But, over time, I've also grown increasingly critical of what I call **inherited pedagogy**: when a teacher chooses their pedagogy based on how their teachers taught them. These practices reinforce the status quo, and we know that the status quo often enables diversity and achievement gaps in CS education. How can we design a technical CS education that is accessible to all undergraduates?
 
-If we want to teach CS (in and of itself) equitably in higher education, if we want to close the diversity and achievement gaps, then we need to begin with a common understanding of the goals of CS education.
+If we want to teach CS equitably in higher education, if we want to close the diversity and achievement gaps, then we need to begin with a common understanding of the goals of CS education.
 
 > [Computer science is the study of computers and all the phenomena surrounding them][] ([Newell, Perlis, Simon, 1967][])
 
@@ -18,7 +18,7 @@ If we want to teach CS (in and of itself) equitably in higher education, if we w
 
 The study of computer science includes the study of data representation (data structures), data transformation (algorithms), abstractions over these processes and structures, and the effects of these ideas on humans and society.
 
-Broadly speaking, effective teaching at any level necessarily requires an equity perspective on education. The difficulty of teaching is not merely the transfer of information from one mind to another, but rather a more fundamental problem of empowerment and access to relevant, actionable critical thinking skills ([Freire, 1968][]). As a consequence, education must be focused on real-world outcomes. The difference between an effective or ineffective teacher cannot simply be determined by their [student evaluations][], which capture a wide variety of psychological phenomena mostly unrelated to the goal of educational equity. Equitable CS education requires optimizing pedagogy to enable a more diverse set of students to meet higher educational outcomes, not just increasing their [feeling of learning][].
+Broadly speaking, effective teaching at any level necessarily requires an equity perspective on education. Teaching is not merely about the transfer of information from one mind to another, but rather a more fundamental problem of access to relevant, actionable critical thinking skills that leads to empowerment ([Freire, 1968][]). The purpose of a course is not the course in and of itself, but rather its realized student outcomes. The difference between an effective or ineffective teacher cannot simply be determined by their [student evaluations][], which capture a wide variety of psychological phenomena mostly unrelated to the goal of educational equity. Equitable CS education requires optimizing pedagogy to enable a more diverse set of students to meet higher educational outcomes, not just increasing their [feeling of learning][].
 
 [Freire, 1968]: https://patitsas.github.io/2016/01/28/On-Paulo-Freire-and-seeing-computing-as-literacy/
 [student evaluations]: https://www.stat.berkeley.edu/~stark/Preprints/setNotes19.pdf
@@ -30,7 +30,7 @@ Broadly speaking, effective teaching at any level necessarily requires an equity
 
 [productive failure]: https://www.manukapur.com/productive-failure/
 
-What is the critical thinking skillset specific to a technical CS education? One framing for CS education is to view it as a problem of obtaining canonical mental representations and solution methods (RSMs). In this view, "programming is not merely about language syntax and semantics, but more fundamentally about the iterative process of refining mental representations of computational problems and solutions and expressing those representations as code" ([Loksa et al, 2016][]).
+What is the critical thinking skillset specific to a technical CS education? One framing for CS education is to view it as a problem of obtaining canonical mental representations and solution methods (RSMs). Here, "programming is not merely about language syntax and semantics, but more fundamentally about the iterative process of refining mental representations of computational problems and solutions and expressing those representations as code" ([Loksa et al, 2016][]).
 
 [Loksa et al, 2016]: https://dl.acm.org/citation.cfm?id=2858252
 
