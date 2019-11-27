@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing Robust CS Education
+title: Towards Robust CS Education
 excerpt: >-
   Equitable CS education in higher-ed: a 2-year retrospective on Teaching to Groups.
 ---
