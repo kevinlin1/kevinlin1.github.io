@@ -53,7 +53,7 @@ institution, and what differentiates you from other candidates.)
 [don't just say nice things about teaching]: https://theprofessorisin.com/2016/09/12/thedreadedteachingstatement/
 
 My feeling is that strong recommendation letters and a proven teaching record
-are the most important attriutes for getting your foot in the door. A strong
+are the most important attributes for getting your foot in the door. A strong
 set of application materials sets up a first impression about your teaching
 values (and whether those values align with the hiring institution). When I was
 preparing my materials, I chose to emphasize strategies for teaching at scale
