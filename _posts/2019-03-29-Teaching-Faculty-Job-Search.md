@@ -81,10 +81,10 @@ long-term teaching faculty positions starting in the 2019-2020 academic year,
 and about two-thirds of them required a master's as the minimum degree. The
 [SIGCSE-members][] mailing list is also useful for last-minute and special
 opportunities, but the majority of listings were posted to the CRA ads list
-first.
+first. (Update: This has migrated to SIGCSE-jobs.)
 
 [CRA Job Announcements]: https://cra.org/ads/
-[SIGCSE-members]: https://sigcse.org/sigcse/membership/mailing-lists
+[SIGCSE-members]: https://sigcse.org/sigcse/membership/mailing-lists.html
 
 For detailed views on the tenure-track faculty job search, plenty of other
 folks have written about their experiences. I consulted [Philip Guo][] and
