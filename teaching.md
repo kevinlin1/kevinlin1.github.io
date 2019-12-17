@@ -11,7 +11,7 @@ permalink: /teaching/
 
 > **Interested in being a teaching assistant for my course?** Complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement.
 > - Why do you want to teach this course?
-> - Describe a college classroom experience (CSE or otherwise) that was particularly effective or ineffective.
+> - Describe a college classroom experience that was particularly effective or ineffective.
 > - Why would you be an effective TA for this course?
 >
 > The purpose of the personal statement is to make a **logical** argument as to why you would succeed as a TA by demonstrating fluency with the challenges of teaching computer science in the university setting. I read your personal statement with the intention of sparking conversation around your ideas on computer science education.
