@@ -26,7 +26,7 @@ permalink: /teaching/
 
 ### CSE 332: Data Structures and Parallelism
 
-- Winter 2020
+- [Winter 2020](https://courses.cs.washington.edu/courses/cse332/20wi/)
 
 ### CSE 373: Data Structures and Algorithms
 
