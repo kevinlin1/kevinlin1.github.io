@@ -9,7 +9,7 @@ excerpt: >-
 
 I used to think undergraduate teaching assistants (TAs) were the most amazing part of a CS course. I admired my TAs, and I owe to them my interest in teaching computer science. I mostly still think this way. But, over time, I've grown increasingly critical of what I call **inherited pedagogy**: when a teacher chooses their pedagogy based on how their teachers taught them. These practices reinforce the status quo, and we know that the status quo often enables diversity and achievement gaps in CS education. How can we design a technical CS education that is accessible to all undergraduates?
 
-If we want to teach CS equitably in higher education, if we want to close the diversity and achievement gaps, then we need to begin with a common understanding of the goals of CS education.
+If we want to teach CS equitably in higher education, then we need to begin with a common understanding of the goals of CS education.
 
 > [Computer science is the study of computers and all the phenomena surrounding them][] ([Newell, Perlis, Simon, 1967][])
 
