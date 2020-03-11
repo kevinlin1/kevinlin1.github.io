@@ -21,6 +21,8 @@ excerpt: >-
 > perceiving the cooldown timer as an inconvenience more than a learning
 > opportunity.
 
+[Slides](https://docs.google.com/presentation/d/1WO7fxvEAZnfCv8oqTrbHjm5_a0uAkv4u8sw9bQ_mSqM/edit?usp=sharing)
+
 ## It Seemed like a Good Idea at the Time
 
 Autograders provide instant feedback to students, clarify assignment grading,
