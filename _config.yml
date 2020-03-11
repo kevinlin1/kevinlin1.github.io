@@ -10,7 +10,7 @@ title: Kevin Lin
 email: hello@kevinl.info
 description: >-
   CS Educator. Social/Data/Computer Scientist.
-logo: "/assets/images/me.png"
+logo: "/assets/images/kevin.jpg"
 baseurl: ""
 url: "https://kevinl.info"
 permalink: pretty
@@ -18,7 +18,7 @@ exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "redirects
 
 name: Kevin Lin
 author: Kevin Lin
-author_image: "/assets/images/me.png"
+author_image: "/assets/images/kevin.jpg"
 button_link: "https://calendar.google.com/calendar/selfsched?sstoken=UUowZ0M1TUlSMXFffGRlZmF1bHR8YmI1YmZkNjM2MjJiMDdlMzdmNzI4ZmMyMTExOGY0ZGM&ctz=America/Los_Angeles"
 button_text: "Schedule a meeting"
 
@@ -31,7 +31,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "/assets/images/me.png"
+      image: "/assets/images/kevin.jpg"
 
 # Build settings
 markdown: kramdown
