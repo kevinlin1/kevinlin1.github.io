@@ -23,7 +23,7 @@ A formal list of research publications can be found in my [CV](/cv).
 
 - It Seemed Like a Good Idea at the Time (Hindsight is 2020): [You're Spamming the Autograder]({% link _posts/2019-08-29-Spamming-the-Autograder.md %})
 - Perspectives on Allyship in Academia
-- Transitioning From Peer Instruction to POGIL with Guided Lecture Notes
+- Transitioning From [Peer Instruction to POGIL]({% link _posts/2020-03-11-Peer-Instruction-to-POGIL.md %}) with Guided Lecture Notes
 - How Can We Make Office Hours Better?
 
 ## 2019
