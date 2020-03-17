@@ -15,7 +15,7 @@ redirect_from:
 
 - [Making CS Learning Visible](https://doi.org/10.1145/3304221.3319791). Exploring studio-based learning and self-directed assignments to replace the immense human expenditure needed for developing and grading highly standardized assignments.
 - [Computer-Based Testing Facility](http://zilles.cs.illinois.edu/cbtf.html). Automated, frequent formative assessment as a means of deconstructing the fixed-time, fixed-learning model of the [US education system](https://computinged.wordpress.com/2020/01/27/thorndike-won-dewey-lost-the-most-important-thing-to-know-about-the-us-education-system/) and moving a step towards problem-centric and context-aware computing education.
-- [Can Learning Be Fair?](http://calendar.washington.edu/140800140/AdvancesinHigherEducationResearchSeminarPracticingIntoInclusionUtilizingaLearningAssistantPedagogyCoursetoExploreandAddressImpactsofStructuralOppressiononLearning). Embedding equity, social justice, and social responsibility into the [values of CS education](https://medium.com/bits-and-behavior/21st-grand-challenges-for-computing-education-f5e937d57155) for students and teachers.
+- [Can Learning Be Fair?](http://calendar.washington.edu/140800140/AdvancesinHigherEducationResearchSeminarPracticingIntoInclusionUtilizingaLearningAssistantPedagogyCoursetoExploreandAddressImpactsofStructuralOppressiononLearning) Embedding equity, social justice, and social responsibility into the [values of CS education](https://medium.com/bits-and-behavior/21st-grand-challenges-for-computing-education-f5e937d57155) for students and teachers.
 
 A formal list of research publications can be found in my [CV](/cv).
 
