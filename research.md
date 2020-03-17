@@ -39,7 +39,7 @@ A formal list of research publications can be found in my [CV](/cv).
 
 - [Near-Peer Student Mentors: Creating Scalable Learning Experiences in Large Lecture Courses]({% link _posts/2019-03-22-Near-Peer-Student-Mentors.md %})
 
-### [SIGCSE 2019](http://sigcse2019.sigcse.org/)
+### [SIGCSE 2019](https://sigcse2019.sigcse.org/)
 
 - [Subgoals, Problem-Solving Phases, and Sources of Knowledge: A Complex Mangle]({% link _posts/2019-02-28-Subgoals-Problem-Solving-Phases-Sources-of-Knowledge.md %})
 - [A Connector Course for Pre-Service CS Teacher Development]({% link _posts/2019-06-01-A-Connector-Course-for-Pre-Service-CS-Teacher-Development.md %})
