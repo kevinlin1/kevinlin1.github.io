@@ -9,7 +9,7 @@ permalink: /teaching/
 
 > **Teaching tea parties** are 4:30-5:20 PM every Friday in my office, CSE 560. Teaching tea parties are an opportunity to chill-out, listen to good music, and enjoy tasty snacks in the company of other educators. All UW students are welcome to participate.
 
-> **Interested in being a teaching assistant for my course?** Complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement.
+> **Interested in being a teaching assistant for my course?** For CSE 14X, complete a [CSE 14X TA Application](http://courses.cs.washington.edu/courses/cse14x/ta/). For all other courses, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement.
 > - Why do you want to teach this course?
 > - Describe a college classroom experience that was particularly effective or ineffective.
 > - Why would you be an effective TA for this course?
