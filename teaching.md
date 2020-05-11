@@ -22,7 +22,7 @@ permalink: /teaching/
 
 ### CSE 143: Computer Programming II
 
-- Spring 2020
+- [Spring 2020](https://courses.cs.washington.edu/courses/cse143/20sp/)
 
 ### CSE 332: Data Structures and Parallelism
 
