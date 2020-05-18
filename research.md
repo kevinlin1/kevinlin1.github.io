@@ -52,6 +52,6 @@ A formal list of research publications can be found in my [CV](/cv).
 
 Machine learning, optimization, and natural language processing for Computer Science Education.
 
-- Clustering Students to Improve Retention, Self-Efficacy, and Belonging in CS1 ([Colab](https://colab.research.google.com/github/kevinlin1/cluster-schedule/blob/master/schedule.ipynb))
-- Next Step Prediction ([Poster](https://docs.google.com/drawings/d/1EpIBfVAo-tGj9ZMp6kt_r9ljazhnMJBs2WupKliVBEA/edit?usp=sharing))
+- [Clustering Students to Improve Retention, Self-Efficacy, and Belonging in CS1](https://colab.research.google.com/github/kevinlin1/cluster-schedule/blob/master/schedule.ipynb)
+- [Next Step Prediction](https://docs.google.com/drawings/d/1EpIBfVAo-tGj9ZMp6kt_r9ljazhnMJBs2WupKliVBEA/edit?usp=sharing)
 - Piazza Suggestions
