@@ -1,22 +1,30 @@
 ---
 layout: default
 ---
-<main>
-  <header class="blog-header">
-      <h1 class="blog-title">{{ site.title }}</h1>
-      <h2 class="blog-description">{{ site.description }}</h2>
-      <a class="button" href="{{ site.button_link }}">{{ site.button_text }}</a>
-  </header>
-  {% for post in site.posts %}
-  <article class="post">
-    <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="post-excerpt">
-      {{ post.excerpt | strip_html | truncatewords: 50 }}
-    </p>
-    <p class="post-meta">
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
-    </p>
-  </article>
+
+<header>
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+  {% for link in site.buttons %}
+  <a href="{{ link.last }}"><em>{{ link.first }}</em></a>
   {% endfor %}
-</main>
-{% include footer.html %}
+</header>
+{% for post in site.posts %}
+{% if post.title %}
+<article>
+  <header>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% if post.excerpt %}
+    <p>
+      {{ post.excerpt | strip_html }}
+    </p>
+    {% endif %}
+    {% if post.date %}
+    <small>
+      <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_string: "ordinal", "US" }}</time>
+    </small>
+    {% endif %}
+  </header>
+</article>
+{% endif %}
+{% endfor %}
