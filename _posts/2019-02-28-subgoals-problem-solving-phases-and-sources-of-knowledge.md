@@ -3,6 +3,8 @@ layout: post
 title: Subgoals, Problem Solving Phases, and Sources of Knowledge
 excerpt: >-
   A complex mangle.
+redirect_from:
+  - /2019/02/28/Subgoals-Problem-Solving-Phases-Sources-of-Knowledge/
 ---
 
 [Kevin Lin](/about), [David DeLiema](http://www.david-deliema.com), *University of California, Berkeley*

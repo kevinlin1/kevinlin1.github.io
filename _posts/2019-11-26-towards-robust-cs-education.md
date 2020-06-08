@@ -3,6 +3,8 @@ layout: post
 title: Towards robust CS education
 excerpt: >-
   Equitable CS education in higher-ed: a 2-year retrospective on teaching to groups.
+redirect_from:
+  - /2019/11/26/Towards-Robust-CS-Education/
 ---
 
 *Part two of [Teaching to Groups]({% link _posts/2018-02-04-teaching-to-groups.md %}).*

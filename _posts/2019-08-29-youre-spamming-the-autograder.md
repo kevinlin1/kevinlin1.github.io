@@ -3,6 +3,8 @@ layout: post
 title: You're spamming the autograder
 excerpt: >-
   A lesson in user-testing, expectations management, and course integration.
+redirect_from:
+  - /2019/08/29/Spamming-the-Autograder/
 ---
 
 > Autograders provide instant feedback on student work, but they can also harm learning if students grow dependent on autograder feedback to solve problems. The resulting autograder-driven development cycle occurs when students make minor adjustments to their code seemingly at random, submit code to the autograder, and repeat until their program passes all of the given tests. Anecdotal evidence from other instructors suggested that rate-limiting student submissions on the server-side autograder to 3 or 4 submissions per hour was an effective intervention. We hypothesized that introducing a 3-5 minute “cooldown timer” on the client-side autograder could mitigate student over-reliance on autograder feedback by requiring students to spend more time independently debugging, planning, and evaluating their changes before receiving autograder feedback. However, a lack of user-testing, expectations management, and course integration led to students and course staff alike perceiving the cooldown timer as an inconvenience more than a learning opportunity.

@@ -3,6 +3,8 @@ layout: post
 title: Just the Class
 excerpt: >-
   A Jekyll template for developing course websites.
+redirect_from:
+  - /2019/08/30/Just-the-Class/
 ---
 
 See the template live with [Data 100][] offered at UC Berkeley and [CSE 373][] offered at the University of Washington.

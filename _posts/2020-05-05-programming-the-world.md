@@ -3,6 +3,8 @@ layout: post
 title: Programming the world
 excerpt: >-
   Design principles for the future of computing instruction.
+redirect_from:
+  - /2020/05/05/Programming-the-World/
 ---
 
 [Programming is not for computers.](https://doi.org/10.1145/3328778.3366794)

@@ -3,6 +3,8 @@ layout: post
 title: Mindstorms
 excerpt: >-
   A review of Papert's seminal work in modern context, 38 years later.
+redirect_from:
+  - /2018/01/05/Mindstorms/
 ---
 
 At 21 years young, it seems like I'm slowly but surely catching up to Seymour Papert's *Mindstorms*.

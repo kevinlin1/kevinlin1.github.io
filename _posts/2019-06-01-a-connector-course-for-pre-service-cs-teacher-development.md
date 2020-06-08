@@ -5,6 +5,7 @@ excerpt: >-
   Bootstrapping pre-service CS teacher training with CS0.
 redirect_from:
   - /csp/
+  - /2019/06/01/A-Connector-Course-for-Pre-Service-CS-Teacher-Development/
 ---
 
 - [PDF](https://drive.google.com/open?id=1R3ksUdguWTeQiRyo4FvzsDGGHE0kwpe-)

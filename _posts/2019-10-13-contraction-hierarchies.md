@@ -3,6 +3,8 @@ layout: post
 title: Contraction Hierarchies
 excerpt: >-
   Efficient real-world route searching
+redirect_from:
+  - /2019/10/13/Contraction-Hierarchies/
 ---
 
 [![Contraction Hierarchies Header](/contraction-hierarchies/header.png)](/contraction-hierarchies/)

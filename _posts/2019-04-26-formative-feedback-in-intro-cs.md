@@ -3,6 +3,8 @@ layout: post
 title: Formative feedback in intro CS
 excerpt: >-
   Deploying in-class paper quizzes: from 40 to 400 to 1,400.
+redirect_from:
+  - /2019/04/26/Formative-Feedback-in-Intro-CS/
 ---
 
 *This essay was selected for the 2019 UC Berkeley Teaching Effectiveness Award. The [definitive version][] can be found on the GSI Teaching & Resource Center website. Below is the author's version.*

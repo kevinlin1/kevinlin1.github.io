@@ -3,6 +3,8 @@ layout: post
 title: Data structures course transformation
 excerpt: >-
   Design principles for the intersection of theoretical and practical CS.
+redirect_from:
+  - /2020/02/19/Data-Structures-Course-Transformation/
 ---
 
 For the past 20 or more years, data structures courses have struggled with an identity crisis.

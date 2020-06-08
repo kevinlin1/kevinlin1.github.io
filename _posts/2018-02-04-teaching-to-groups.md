@@ -3,6 +3,8 @@ layout: post
 title: Teaching to groups
 excerpt: >-
   Advice for leading sections, and other thoughts from shadowing undergrad TAs.
+redirect_from:
+  - /2018/02/04/Teaching-to-Groups/
 ---
 
 *This post was originally written Fall 2017 for CS 61A staff.*

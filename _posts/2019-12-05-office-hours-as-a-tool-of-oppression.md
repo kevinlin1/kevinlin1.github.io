@@ -3,6 +3,8 @@ layout: post
 title: Office hours as a tool of oppression
 excerpt: >-
   A critical review of power and pedagogy in large-scale office hours.
+redirect_from:
+  - /2019/12/05/Office-Hours-as-a-Tool-of-Oppression/
 ---
 
 Large-enrollment CS courses often rely on **large-scale office hours** staffed by multiple TAs helping students one-on-one, one after the other. Typically, these interactions are discrete sessions during which the TA helps the student make progress on homework. Within this context, the question, "Why do some students struggle with learning CS more than other students?" has been on my mind especially in the past few months: [Towards Robust CS Education][], [Sending Mixed Messages][], and [On GPS Syndrome][].

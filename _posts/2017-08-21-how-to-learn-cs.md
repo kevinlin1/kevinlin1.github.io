@@ -3,6 +3,8 @@ layout: post
 title: How to Learn CS
 excerpt: >-
   High-level learning techniques for how to succeed in CS 1 courses like CS 61A.
+redirect_from:
+  - /2017/08/21/How-to-Learn-CS/
 ---
 
 - [Slides](/gbo)

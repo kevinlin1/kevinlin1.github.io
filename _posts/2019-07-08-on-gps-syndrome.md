@@ -3,6 +3,8 @@ layout: post
 title: On GPS Syndrome
 excerpt: >-
     The code is never the focal point.
+redirect_from:
+  - /2019/07/08/On-GPS-Syndrome/
 ---
 
 I often see students suffer from **[GPS Syndrome][]**, a term coined by [Kristin Stephens-Martinez](https://users.cs.duke.edu/~ksm/) from her experiences as a UC Berkeley introductory computer science teaching assistant.

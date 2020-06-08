@@ -3,6 +3,8 @@ layout: post
 title: Sending mixed messages
 excerpt: >-
   Do as I say, not as I do.
+redirect_from:
+  - /2019/08/13/Sending-Mixed-Messages/
 ---
 
 Mark Guzdial recently [highlighted an ICER 2019 paper][] by Jamie Gorson and Eleanor O'Rourke, "[How Do Students Talk About Intelligence? An Investigation of Motivation, Self-efficacy, and Mindsets in Computer Science][paper]."
