@@ -3,26 +3,15 @@ layout: page
 title: CS 61B
 ---
 
-## Spring 2018
-
-- **Lab (016)**: Th 11:00-12:59 PM ([Soda][] 271)
-- **Lab (037)**: F 9:00-10:59 AM ([Soda][] 277)
-- **Office Hours**: MW 12:00-12:59 PM (109 [Morgan][])
-- **Email**: <kevinlin1@berkeley.edu>
-
 ## [Java Gotchas][]
 
 *Things I wish I knew when I was learning Java in CS 61B.*
 
 ## Quizzes (Spring 2017)
 
-Much of the quiz content I wrote Spring 2017 has been integrated into the
-Computer Science Mentors weekly group tutoring handouts. There might still be
-some goodies here though!
+Much of the quiz content I wrote Spring 2017 has been integrated into the Computer Science Mentors weekly group tutoring handouts. There might still be some goodies here though!
 
-These quizzes were primarily used as a means of tying together the topics in
-the course in interesting ways that aren't usually covered in the regular
-discussion handouts.
+These quizzes were primarily used as a means of tying together the topics in the course in interesting ways that aren't usually covered in the regular discussion handouts.
 
 - [Quiz 1](quiz/quiz01.pdf) and [solutions](quiz/quiz01_sol.pdf)
 - [Quiz 2](quiz/quiz02.pdf) and [solutions](quiz/quiz02_sol.pdf)
@@ -46,17 +35,14 @@ discussion handouts.
 - [UCSF Visualizations][ucsf]
 - [PathFinding.js][pathfinding]
 
-### Guides
-
-> Josh's CS 61B [Exam Studying Guide][] is fantastic. I wrote the CS 61A
-> [Studying Guide][] which has a few more tips for general problem-solving.
+Josh's CS 61B [Exam Studying Guide][] is fantastic. I wrote the CS 61A [Studying Guide][] which has a few more tips for general problem-solving.
 
 - [Java Gotchas][]
 - [Asymptotic Analysis][]
 - [Hashing][]
 - [Comparison-based Sorting][sorting]
 
-### Selected Staff Material
+### Selected staff material
 
 - [Allen Guo][]
 - [Daniel Nguyen][]
