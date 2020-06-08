@@ -2,38 +2,14 @@
 layout: post
 title: Subgoals, Problem Solving Phases, and Sources of Knowledge
 excerpt: >-
-  A Complex Mangle
+  A complex mangle.
 ---
 
-[Kevin Lin](/about), [David DeLiema](http://www.david-deliema.com),
-*University of California, Berkeley*
+[Kevin Lin](/about), [David DeLiema](http://www.david-deliema.com), *University of California, Berkeley*
 
-> Educational researchers have increasingly drawn attention to how students
-> develop computational thinking (CT) skills, including in science, math, and
-> literacy contexts. A key component of CT is the process of abstraction, a
-> particularly challenging concept for novice programmers, but one vital to
-> problem solving. We propose a framework based on situated cognition that can
-> be used to document how instructors and students communicate about
-> abstractions during the problem solving process. We develop this framework in
-> a multimodal interaction analysis of a 32-minute long excerpt of a middle
-> school student working in the PixelBots JavaScript programming environment at
-> a two-week summer programming workshop taught by undergraduate CS majors.
-> Through a microgenetic analysis of the process of teaching and learning about
-> abstraction in this excerpt, we document the extemporaneous prioritization of
-> subgoals and the back-and-forth coordination of problem solving phases. In
-> our case study, we identify that (a) problem solving phases are nested with
-> several instances of context-switching within a single phase; (b) the
-> introduction of new ideas and information create bridges or opportunities to
-> move between different problem solving phases; (c) planning to solve a
-> problem is a non-linear process; and (d) pedagogical moves such as modeling
-> and prompting highlight situated resources and advance problem solving.
-> Future research should address how to help students structure subgoals and
-> reflect on connections between problem solving phases, and how to help
-> instructors reflect on their routes to supporting students in the problem
-> solving process.
+> Educational researchers have increasingly drawn attention to how students develop computational thinking (CT) skills, including in science, math, and literacy contexts. A key component of CT is the process of abstraction, a particularly challenging concept for novice programmers, but one vital to problem solving. We propose a framework based on situated cognition that can be used to document how instructors and students communicate about abstractions during the problem solving process. We develop this framework in a multimodal interaction analysis of a 32-minute long excerpt of a middle school student working in the PixelBots JavaScript programming environment at a two-week summer programming workshop taught by undergraduate CS majors. Through a microgenetic analysis of the process of teaching and learning about abstraction in this excerpt, we document the extemporaneous prioritization of subgoals and the back-and-forth coordination of problem solving phases. In our case study, we identify that (a) problem solving phases are nested with several instances of context-switching within a single phase; (b) the introduction of new ideas and information create bridges or opportunities to move between different problem solving phases; (c) planning to solve a problem is a non-linear process; and (d) pedagogical moves such as modeling and prompting highlight situated resources and advance problem solving. Future research should address how to help students structure subgoals and reflect on connections between problem solving phases, and how to help instructors reflect on their routes to supporting students in the problem solving process.
 
-**Keywords**: Computational Thinking; Education; Situated Cognition; Debugging;
-Abstraction; Problem Solving
+**Keywords**: Computational Thinking; Education; Situated Cognition; Debugging; Abstraction; Problem Solving
 
 **DOI**: <https://doi.org/10.1145/3287324.3293712>
 
@@ -62,8 +38,4 @@ Abstraction; Problem Solving
 14. Janet Rountree, Anthony Robins, and Nathan Rountree. 2013. Elaborating on threshold concepts. Computer Science Education 23, 3 (sep 2013), 265–289. <https://doi.org/10.1080/08993408.2013.834748>
 15. David Weintrop, Elham Beheshti, Michael Horn, Kai Orton, Kemi Jona, Laura Trouille, and Uri Wilensky. 2015. Defining Computational Thinking for Mathe- matics and Science Classrooms. Journal of Science Education and Technology 25, 1 (oct 2015), 127–147. <https://doi.org/10.1007/s10956-015-9581-5>
 
-*This material is based upon work supported by the National Science Foundation
-under Grant No. 1607742, 1612770, and 1612660. Any opinions, findings, and
-conclusions or recommendations expressed in this material are those of the
-author(s) and do not necessarily reflect the views of the National Science
-Foundation.*
+*This material is based upon work supported by the National Science Foundation under Grant No. 1607742, 1612770, and 1612660. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*

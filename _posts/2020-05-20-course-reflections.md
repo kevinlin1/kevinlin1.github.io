@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Course Reflections
+title: Course reflections
 excerpt: >-
   Online learning in CSE 143: Computer Programming II.
 ---

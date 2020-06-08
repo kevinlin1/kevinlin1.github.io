@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Structures Course Transformation
+title: Data structures course transformation
 excerpt: >-
   Design principles for the intersection of theoretical and practical CS.
 ---
@@ -20,7 +20,7 @@ This was written by [Mike Clancy in 1997](https://users.cs.duke.edu/~ola/woduds/
 
 Data structures courses often work via case study, examining the design decisions (invariants), algorithm ideas, and complexity tradeoffs of "arrays, linked lists, trees, and hash tables". The value of a case study is in the opportunity to learn a variety of programming templates, or "reusable abstractions of programming knowledge" ([Xie et al. 2019](https://doi.org/10.1080/08993408.2019.1565235)). Data structures instructors are responsible for designing a productive sequencing of topics that minimizes misconceptions ([Lewis et al. 2019](https://doi.org/10.1017/9781108654555.028)), provides sufficient opportunities for deliberate practice and productive failure to refine [representations and solution methods](https://www.manukapur.com/productive-failure/), while developing a supportive classroom climate ([Barker et al. 2002](https://doi.org/10.1145/563340.563354)). These challenges can be abstracted into three broad areas: content design, instructional design, and classroom design.
 
-## Data Structures
+## Data structures
 
 Programming can be motivating because computers can bring mathematical ideas to life. But programming is not an efficient way to learn data structures. (Programming is not necessarily the most efficient way to learn programming, either.) Programming makes process explicit but obscures it behind syntax. Data structures represent one of infinitely many possible states; programming represent generalized algorithms that operate on any such state. Data structures change; programming is static. The kinds of concepts and thinking taught through programming data structures are orthogonal to using data structures: the crux of the identity crisis.
 
@@ -28,7 +28,7 @@ This course inherits the approach of exploring data structures via case study, b
 
 Drawing on research in equitable student-centered learning, classroom instruction emphasizes collaborative problem solving with group random call ([Knight et al., 2016](https://doi.org/10.1187/cbe.16-02-0109)). Though not fully committed to more structured pedagogies like process-oriented guided inquiry learning (POGIL), we draw inspiration from its emphasis on making problem solving process visible by setting subgoals ([Loksa et al. 2016](https://doi.org/10.1145/2858036.2858252), [Lin and DeLiema 2019](https://doi.org/10.1145/3287324.3293712)) and leveraging student inquiry as a opportunities for student-centered reflection rather than teacher-centered explanation. In this way, the time spent in class is proportional to the kinds of knowledge students are expected to produce on exams.
 
-## Computer Programming
+## Computer programming
 
 What kinds of perspectives and experiences do students need to succeed as programmers and more broadly as computer scientists? Values and skills are perhaps more important than the concepts that we aim to teach an introductory course.
 
@@ -41,7 +41,7 @@ Fundamentally, both approaches are grounded in the idea that learning programmin
 
 Compounding these effects is the institutional challenge of developing an introductory programming course (especially one used in competitive admission) within the frame of fixed time and fixed learning ([Guzdial 2020](https://computinged.wordpress.com/2020/01/27/thorndike-won-dewey-lost-the-most-important-thing-to-know-about-the-us-education-system/)). Introductory courses are situated in a broader social context that requires institutional change to move away from systems that disempower students towards systems that lead to equitable outcomes. Computing may play a promising role in reimagining the way we assess and, therefore, the way we teach introductory courses in the future, such as the [Computer-based Testing Facility](http://zilles.cs.illinois.edu/cbtf.html). However, it will require humanity, not technology, to be the arbiters of such institutional change.
 
-## Programming the World
+## Programming the world
 
 Although computer science values processes and algorithms, the past decade has made it clear that the data are now as important as the data structures.
 

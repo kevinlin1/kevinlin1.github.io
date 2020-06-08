@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Towards Robust CS Education
+title: Towards robust CS education
 excerpt: >-
-  Equitable CS education in higher-ed: a 2-year retrospective on Teaching to Groups.
+  Equitable CS education in higher-ed: a 2-year retrospective on teaching to groups.
 ---
 
-*Part two of [Teaching to Groups]({% link _posts/2018-02-04-Teaching-to-Groups.md %}).*
+*Part two of [Teaching to Groups]({% link _posts/2018-02-04-teaching-to-groups.md %}).*
 
 I used to think undergraduate teaching assistants (TAs) were the most amazing part of a CS course. I admired my TAs, and I owe to them my interest in teaching computer science. I mostly still think this way. But, over time, I've grown increasingly critical of what I call **inherited pedagogy**: when a teacher chooses their pedagogy based on how their teachers taught them. These practices reinforce the status quo, and we know that the status quo often enables diversity and achievement gaps in CS education. How can we design a technical CS education that is accessible to all undergraduates?
 
@@ -24,7 +24,7 @@ Broadly speaking, effective teaching at any level necessarily requires an equity
 [student evaluations]: https://www.stat.berkeley.edu/~stark/Preprints/setNotes19.pdf
 [feeling of learning]: https://www.pnas.org/content/116/39/19251
 
-## Productive Failure
+## Productive failure
 
 > [Productive Failure][] (PF) is a learning design that entails the design of conditions for learners to persist in generating and exploring representations and solution methods (RSMs) for solving complex, novel problems. Though such a process may initially lead to failure to generate canonical RSMs, it has a hidden efficacy that is germane for learning provided an appropriate form of instructional intervention follows that can consolidate and assemble student-generated RSMs into canonical RSMs. (Kapur)
 
@@ -58,7 +58,7 @@ In undergraduate CS classrooms, a hierarchy of value for student responses is es
 
 If robust CS education requires iteratively refining students' mental RSMs, then it is the teacher's responsibility to design supportive classroom communication climates that encourage mutual collaboration, development, and introspection of incomplete mental RSMs, not answers.
 
-## Pedagogical Development
+## Pedagogical development
 
 However, teachers don't improve overnight. Four stages of psychosocial pedagogical development are outlined in *How Professors Develop as Teachers* ([Kugel, 1993][]):
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: End-User Programming
+title: End-user programming
 excerpt: >-
   When it's really not about the turtles all the way down.
 ---

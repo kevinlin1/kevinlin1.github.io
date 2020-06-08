@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programming the World
+title: Programming the world
 excerpt: >-
   Design principles for the future of computing instruction.
 ---
@@ -15,7 +15,7 @@ The goal of an introductory computing course (even one ostensibly about programm
 
 We should instead strive to construct **a new ethos for computer science through education**: designed in collaboration with students, integrating [intentional teamwork](https://www.pblworks.org/what-is-pbl), empowering students as creators of technologies, exploring the equally technical and social boundaries of computing, situating computing as [explicitly antiracist](https://wac.colostate.edu/books/perspectives/labor/), acknowledging that [learning takes time](https://www.youtube.com/watch?v=srDYfqoUQRw), and understanding the whole human experience.
 
-## Critical Programming Language Learning
+## Critical programming language learning
 
 The study of programming should involve exploring different forms of expression.
 
@@ -25,7 +25,7 @@ But computing culture concerns more than just programming. Computing culture is 
 
 Coding is just one (algorithmic) way of communicating mathematical ideas. But just as important is the ability to [communicate these ideas across a variety of media and to a variety of stakeholders](https://cacm.acm.org/news/236858-when-computer-science-majors-take-improv/fulltext): not only in the form of code reviews or technical papers, but also in the form of presentations, emails, tweets, blog posts, and videos. Communication occurs across various media for various recipients with various objectives. Computer programming is not only about coding, but also about [reading, writing, and translating between languages and modalities](https://www.youtube.com/watch?v=g1ib43q3uXQ) to learn effective representations for programs.
 
-## Emergency Remote Teaching
+## Emergency remote teaching
 
 But where are we today? In the transition to emergency remote teaching, our course is doing well thanks to deep investment in both human capital (undergraduate TAs) and technical capital (infrastructure for online learning). Incidentally, many of these suggestions were just published in the context of teaching an online discrete mathematics class by [Sandy Irani and Kameryn Denaro (2020)](https://www.youtube.com/watch?v=a5PK71a7ShU).
 
@@ -35,7 +35,7 @@ For assessment, we dropped all high-stakes exams. Our weeklong programming assig
 
 As for pedagogy, I shared the following with students on the first day of class.
 
-## [How Learning Works](https://courses.cs.washington.edu/courses/cse143/20sp/lessons/00/#how-learning-works)
+## [How learning works](https://courses.cs.washington.edu/courses/cse143/20sp/lessons/00/#how-learning-works)
 
 Learning is a process that requires **deliberate practice**. There are four components to deliberate practice.
 
@@ -76,7 +76,7 @@ Each lesson contains a mix of reading, quiz questions, and coding challenges. Ea
 
 In addition, there will be stop and think questions like this one embedded within readings. These are good questions to ask and answer in your own words. Collaborate with other students to improve your external brain during each lesson.
 
-## [Learning Online](https://courses.cs.washington.edu/courses/cse143/20sp/lessons/00/#learning-online)
+## [Learning online](https://courses.cs.washington.edu/courses/cse143/20sp/lessons/00/#learning-online)
 
 We've taken special care to design the course such that all of the work can be done on your own time. However, personalized feedback is a key component of deliberate practice, so we'll still hold online class sessions using [UW Zoom Video Conferencing](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/).
 

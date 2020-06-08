@@ -11,7 +11,7 @@ redirect_from:
 
 - **Email**: <kevinl@cs.uw.edu>
 - **Office**: CSE 560
-- **CV**: [pdf](/cv)
+- **CV**: [PDF](/cv)
 
 Hi, I'm Kevin. I teach large computer science courses in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and also help lead the [ComputingEd@UW][] community.
 
