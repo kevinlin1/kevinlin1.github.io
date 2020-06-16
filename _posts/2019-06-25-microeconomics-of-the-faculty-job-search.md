@@ -4,10 +4,10 @@ title: Microeconomics of the faculty job search
 excerpt: >-
   An institution's most important resource is its people.
 redirect_from:
-  - /2019/06/25/Microeconomics-of-the-Faculty-Job-Search.md/
+  - /2019/06/25/Microeconomics-of-the-Faculty-Job-Search/
 ---
 
-*See my [Teaching Faculty Job Search](/recruiting) for details on my specific academic job search and the context that inspired this article.*
+*See my [Teaching faculty job search]({% link _posts/2019-03-29-teaching-faculty-job-search.md %}) for details on my specific academic job search and the context that inspired this article.*
 
 An institution's most important resource is its people.
 
@@ -96,7 +96,7 @@ The job talk is the most important part of the interview. The norms and expectat
 
 The teaching faculty job talk is typically posed to the candidate as an hour-long lecture on a technical topic from the undergraduate curriculum during which the faculty interviewers role-play as undergraduate students in your class. While you can certainly reuse a lecture from a real course you've taught before, the delivery of the content and the decisions that go into the job talk should reflect your value alignment. More experienced teachers tend to have an established teaching style or [persona][]. Speaking from interviewing teaching assistants, experienced interviewers can usually get a sense of a candidate's intellectual personality within the first five minutes of a teaching demonstration. More often than not, these initial impressions are on the mark. How would someone who only saw the first few minutes and last few minutes of your talk respond to your value alignment on the following metrics? How about the entire lesson?
 
-[persona]: /2018/02/04/Teaching-to-Groups/#develop-a-teaching-persona
+[persona]: {% link _posts/2018-02-04-teaching-to-groups.md %}#develop-a-teaching-persona
 
 - What pedagogies do you utilize? Why are they suited to the content?
 - How do you organize a complex lesson? What do you emphasize in the lesson? e.g. motivation, exposition, demonstration, practice, theory.

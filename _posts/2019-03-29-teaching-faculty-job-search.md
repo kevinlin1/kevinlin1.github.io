@@ -8,9 +8,7 @@ redirect_from:
   - /2019/03/29/Teaching-Faculty-Job-Search/
 ---
 
-*For a long-form article on the faculty job search process and what it entails, see the [Microeconomics of the Faculty Job Search][].*
-
-[Microeconomics of the Faculty Job Search]: /2019/06/25/Microeconomics-of-the-Faculty-Job-Search/
+*For a long-form article on the faculty job search process and what it entails, see the [Microeconomics of the faculty job search]({% link _posts/2019-06-25-microeconomics-of-the-faculty-job-search.md %}).*
 
 I will be receiving an MS in Computer Science from UC Berkeley in May 2019 and teaching in the Paul G. Allen School of Computer Science & Engineering at the University of Washington in Fall 2019. Some of my friends and students were curious as to how I got here, so I wanted to talk a bit about the process and share my application and interview materials. These materials are all dated 2018.
 
@@ -44,7 +42,7 @@ The teaching job talk is one of the most important events during the interview. 
 For finding job listings, the [CRA Job Announcements][] page is by far the most complete for candidates looking to teach at R1 universities. Based on my informal records, there were well over 60 open listings for full-time, long-term teaching faculty positions starting in the 2019-2020 academic year, and about two-thirds of them required a master's as the minimum degree. The [SIGCSE-jobs][] mailing list is also useful for last-minute and special opportunities, but the majority of listings were posted to the CRA ads list first.
 
 [CRA Job Announcements]: https://cra.org/ads/
-[SIGCSE-members]: https://sigcse.org/sigcse/membership/mailing-lists.html
+[SIGCSE-jobs]: https://sigcse.org/sigcse/membership/mailing-lists.html
 
 For detailed views on the tenure-track faculty job search, plenty of other folks have written about their experiences. I consulted [Philip Guo][] and [Matt Welsh][]. These were helpful to get insight into the application and interview process. If you have any teaching faculty in your department, I would also suggest connecting with them.
 
