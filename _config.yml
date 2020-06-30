@@ -13,7 +13,7 @@ description: >-
 logo: "/assets/images/kevin.jpg"
 baseurl: ""
 url: "https://kevinl.info"
-permalink: pretty
+permalink: /:categories/:title/
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "redirects.json"]
 
 name: Kevin Lin
