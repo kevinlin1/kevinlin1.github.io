@@ -4,6 +4,7 @@ title: A Berkeley View of Teaching CS at Scale
 excerpt: >-
   The road to 27,000 student enrollments per year, and what lies ahead.
 redirect_from:
+  - /2019/05/28/a-berkeley-view-of-teaching-cs-at-scale/
   - /2019/05/28/A-Berkeley-View-of-Teaching-CS-at-Scale/
 ---
 

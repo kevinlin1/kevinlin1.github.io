@@ -4,6 +4,7 @@ title: From peer instruction to POGIL
 excerpt: >-
   Improving equity in CS education with guided lecture notes.
 redirect_from:
+  - /2020/03/11/peer-instruction-to-pogil/
   - /2020/03/11/Peer-Instruction-to-POGIL/
 ---
 

@@ -4,6 +4,7 @@ title: End-user programming
 excerpt: >-
   When it's really not about the turtles all the way down.
 redirect_from:
+  - /2020/05/20/end-user-programming/
   - /2020/05/20/End-User-Programming/
 ---
 

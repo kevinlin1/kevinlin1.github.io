@@ -4,6 +4,7 @@ title: Contraction Hierarchies
 excerpt: >-
   Efficient real-world route searching
 redirect_from:
+  - /2019/10/13/contraction-hierarchies/
   - /2019/10/13/Contraction-Hierarchies/
 ---
 

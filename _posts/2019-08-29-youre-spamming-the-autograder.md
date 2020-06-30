@@ -4,6 +4,7 @@ title: You're spamming the autograder
 excerpt: >-
   A lesson in user-testing, expectations management, and course integration.
 redirect_from:
+  - /2019/08/29/spamming-the-autograder/
   - /2019/08/29/Spamming-the-Autograder/
 ---
 

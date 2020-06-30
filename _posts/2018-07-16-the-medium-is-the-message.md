@@ -4,6 +4,7 @@ title: The medium is the message
 excerpt: >-
   Understanding what a computer is, and what it can do.
 redirect_from:
+  - /2018/07/16/the-medium-is-the-message/
   - /2018/07/16/The-Medium-is-the-Message/
 ---
 

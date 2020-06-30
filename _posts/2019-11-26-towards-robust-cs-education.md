@@ -4,6 +4,7 @@ title: Towards robust CS education
 excerpt: >-
   Equitable CS education in higher-ed: a 2-year retrospective on teaching to groups.
 redirect_from:
+  - /2019/11/26/towards-robust-cs-education/
   - /2019/11/26/Towards-Robust-CS-Education/
 ---
 

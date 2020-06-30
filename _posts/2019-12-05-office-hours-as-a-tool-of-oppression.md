@@ -4,6 +4,7 @@ title: Office hours as a tool of oppression
 excerpt: >-
   A critical review of power and pedagogy in large-scale office hours.
 redirect_from:
+  - /2019/12/05/office-hours-as-a-tool-of-oppression/
   - /2019/12/05/Office-Hours-as-a-Tool-of-Oppression/
 ---
 

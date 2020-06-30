@@ -4,6 +4,7 @@ title: Mindstorms
 excerpt: >-
   A review of Papert's seminal work in modern context, 38 years later.
 redirect_from:
+  - /2018/01/05/mindstorms/
   - /2018/01/05/Mindstorms/
 ---
 

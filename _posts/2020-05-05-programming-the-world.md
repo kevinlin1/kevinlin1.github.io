@@ -4,6 +4,7 @@ title: Programming the world
 excerpt: >-
   Design principles for the future of computing instruction.
 redirect_from:
+  - /2020/05/05/programming-the-world/
   - /2020/05/05/Programming-the-World/
 ---
 

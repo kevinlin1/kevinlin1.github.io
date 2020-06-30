@@ -5,6 +5,7 @@ excerpt: >-
   A five year, non-traditional path into academia.
 redirect_from:
   - /recruiting/
+  - /2019/03/29/teaching-faculty-job-search/
   - /2019/03/29/Teaching-Faculty-Job-Search/
 ---
 

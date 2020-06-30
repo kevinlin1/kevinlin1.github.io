@@ -4,6 +4,7 @@ title: Teaching to groups
 excerpt: >-
   Advice for leading sections, and other thoughts from shadowing undergrad TAs.
 redirect_from:
+  - /2018/02/04/teaching-to-groups/
   - /2018/02/04/Teaching-to-Groups/
 ---
 

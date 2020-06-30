@@ -4,6 +4,7 @@ title: Sending mixed messages
 excerpt: >-
   Do as I say, not as I do.
 redirect_from:
+  - /2019/08/13/sending-mixed-messages/
   - /2019/08/13/Sending-Mixed-Messages/
 ---
 

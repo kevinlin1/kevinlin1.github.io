@@ -4,6 +4,7 @@ title: On GPS Syndrome
 excerpt: >-
     The code is never the focal point.
 redirect_from:
+  - /2019/07/08/on-gps-syndrome/
   - /2019/07/08/On-GPS-Syndrome/
 ---
 

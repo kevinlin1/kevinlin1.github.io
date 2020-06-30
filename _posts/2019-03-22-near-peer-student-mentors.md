@@ -4,6 +4,7 @@ title: Near-Peer Student Mentors
 excerpt: >-
   Creating scalable learning experiences in large lecture courses.
 redirect_from:
+  - /2019/03/22/near-peer-student-mentors/
   - /2019/03/22/Near-Peer-Student-Mentors/
 ---
 

@@ -4,6 +4,7 @@ title: Historical perspectives on CS education
 excerpt: >-
   And a few other notes for the CS educator in-progress.
 redirect_from:
+  - /2019/07/17/historical-perspectives-on-cs-education/
   - /2019/07/17/Historical-Perspectives-on-CS-Education/
 ---
 

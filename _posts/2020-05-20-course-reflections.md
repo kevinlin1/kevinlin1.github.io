@@ -4,6 +4,7 @@ title: Course reflections
 excerpt: >-
   Online learning in CSE 143: Computer Programming II.
 redirect_from:
+  - /2020/05/20/course-reflections/
   - /2020/05/20/Course-Reflections/
 ---
 

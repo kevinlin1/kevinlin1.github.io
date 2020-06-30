@@ -4,6 +4,7 @@ title: Data structures course transformation
 excerpt: >-
   Design principles for the intersection of theoretical and practical CS.
 redirect_from:
+  - /2020/02/19/data-structures-course-transformation/
   - /2020/02/19/Data-Structures-Course-Transformation/
 ---
 
