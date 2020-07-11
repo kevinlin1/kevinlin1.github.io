@@ -16,7 +16,7 @@ Microethics and the study of social implications provide a framework for underst
 
 The goal of an introductory computing course (even one ostensibly about programming) should not be to produce better software engineers. Better software engineers are exactly what they sound like: "better software engineers." Designing education as a pipeline is an incorrect metaphor on many levels, but it's perhaps most saliently realized in how it reproduces the bias and inequity of the status quo.
 
-We should instead strive to construct **a new ethos for computer science through education**: designed in collaboration with students, integrating [intentional teamwork](https://www.pblworks.org/what-is-pbl), empowering students as creators of technologies, exploring the equally technical and social boundaries of computing, situating computing as [explicitly antiracist](https://wac.colostate.edu/books/perspectives/labor/), acknowledging that [learning takes time](https://www.youtube.com/watch?v=srDYfqoUQRw), and understanding the whole human experience.
+We should instead strive to construct a new ethos for computer science through education: designed in collaboration with students, integrating [intentional teamwork](https://www.pblworks.org/what-is-pbl), empowering students as creators of technologies, exploring the equally technical and social boundaries of computing, situating computing as [explicitly antiracist](https://wac.colostate.edu/books/perspectives/labor/), and acknowledging that [learning takes time](https://www.youtube.com/watch?v=srDYfqoUQRw)---that students bring to the classroom diverse and differently valuable human experiences.
 
 ## Critical programming language learning
 
