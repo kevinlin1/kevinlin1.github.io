@@ -24,6 +24,7 @@ The purpose of the personal statement is to make an argument as to why you would
 
 ### CSE 143: Computer Programming II
 
+- [Autumn 2020](https://courses.cs.washington.edu/courses/cse143/20au/)
 - [Spring 2020](https://courses.cs.washington.edu/courses/cse143/20sp/)
 
 ### CSE 332: Data Structures and Parallelism
