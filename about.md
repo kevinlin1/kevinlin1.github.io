@@ -2,7 +2,6 @@
 layout: page
 title: About
 header: true
-permalink: /about/
 redirect_from:
   - /bio/
 ---

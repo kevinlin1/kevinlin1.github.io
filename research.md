@@ -4,7 +4,6 @@ title: Research
 header: true
 description: >-
   Formal CS Education research and current areas of interest in chronological order.
-permalink: /research/
 redirect_from:
   - /sigcse/
 ---

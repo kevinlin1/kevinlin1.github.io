@@ -4,7 +4,6 @@ title: Teaching
 header: true
 description: >-
   Opportunities to get involved with the teaching community.
-permalink: /teaching/
 ---
 
 ## Teaching Tea Parties
