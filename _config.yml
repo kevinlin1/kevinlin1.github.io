@@ -22,6 +22,8 @@ author_image: "/assets/images/kevin.jpg"
 buttons:
   Schedule a meeting:
     - "/meet/"
+  CV:
+    - "/cv/"
 
 social:
   name: Kevin Lin
