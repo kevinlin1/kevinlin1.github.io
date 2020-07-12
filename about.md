@@ -8,10 +8,6 @@ redirect_from:
 
 > Kevin Lin is an Assistant Teaching Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. Kevin received his BA (2018) and MS (2019) in Computer Science from UC Berkeley where he coordinated the teaching and delivery of large-scale introductory undergraduate CS courses and developed programs for broadening participation and retention in classrooms of all sizes.
 
-- **Email**: <kevinl@cs.uw.edu>
-- **Office**: CSE 560
-- **CV**: [PDF](/cv)
-
 Hi, I'm Kevin. I teach large computer science courses in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and also help lead the [ComputingEd@UW][] community.
 
 [ComputingEd@UW]: http://computinged.uw.edu/
