@@ -73,3 +73,28 @@ hr {
   border-bottom: 1px solid $light;
   margin: 2rem auto;
 }
+
+@media screen {
+  dl {
+    display: grid;
+    grid-column-gap: 1.5rem;
+    grid-row-gap: 0.75rem;
+    grid-template-columns: 1fr 6fr;
+  }
+
+  dt {
+    grid-column-start: 1;
+    text-align: right;
+  }
+
+  dd {
+    grid-column-start: 2;
+    margin: 0;
+  }
+}
+
+@media print {
+  dd {
+    margin-bottom: 0.75rem;
+  }
+}
