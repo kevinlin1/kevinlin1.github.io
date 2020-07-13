@@ -1,6 +1,7 @@
 $dark: #444;
 $light: #888;
 $link: #7253ed;
+$width: 680px;
 
 body {
   color: $dark;
@@ -14,7 +15,7 @@ footer,
 header,
 main {
   margin: 3rem auto;
-  max-width: 680px;
+  max-width: $width;
 }
 
 main header > * {
@@ -74,7 +75,11 @@ hr {
   margin: 2rem auto;
 }
 
-@media screen {
+dd {
+  margin-bottom: 0.75rem;
+}
+
+@media screen and (min-width: $width) {
   dl {
     display: grid;
     grid-column-gap: 1.5rem;
@@ -90,11 +95,5 @@ hr {
   dd {
     grid-column-start: 2;
     margin: 0;
-  }
-}
-
-@media print {
-  dd {
-    margin-bottom: 0.75rem;
   }
 }
