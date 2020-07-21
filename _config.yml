@@ -15,26 +15,13 @@ baseurl: ""
 url: "https://kevinl.info"
 permalink: /:categories/:title/
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "redirects.json"]
-
-name: Kevin Lin
 author: Kevin Lin
-author_image: "/assets/images/kevin.jpg"
+
 buttons:
   Schedule a meeting:
     - "/meet/"
   CV:
     - "/cv/"
-
-social:
-  name: Kevin Lin
-  links:
-    - https://facebook.com/kevinl.info
-    - https://github.com/kevinlin1
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: "/assets/images/kevin.jpg"
 
 # Build settings
 markdown: kramdown
