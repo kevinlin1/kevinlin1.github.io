@@ -152,7 +152,7 @@ redirect_from:
 
 ## References
 
-1. **[John DeNero](mailto:denero@berkeley.edu)**. Associate Teaching Professor, UC Berkeley.
-1. **[Josh Hug](mailto:hug@cs.berkeley.edu)**. Associate Teaching Professor, UC Berkeley.
-1. **[Dan Garcia](mailto:ddgarcia@berkeley.edu)**. Teaching Professor, UC Berkeley.
-1. **[Christopher Hunn](mailto:cthunn@berkeley.edu)**. Director of Undergraduate Student Instruction, UC Berkeley.
+1. **[John DeNero](https://www2.eecs.berkeley.edu/Faculty/Homepages/denero.html)**. Associate Teaching Professor, UC Berkeley.
+1. **[Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html)**. Associate Teaching Professor, UC Berkeley.
+1. **[Dan Garcia](https://www2.eecs.berkeley.edu/Faculty/Homepages/garcia.html)**. Teaching Professor, UC Berkeley.
+1. **[Christopher Hunn](https://www2.eecs.berkeley.edu/Faculty/Homepages/cthunn.html)**. Director of Undergraduate Student Instruction, UC Berkeley.
