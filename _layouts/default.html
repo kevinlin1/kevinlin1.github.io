@@ -6,10 +6,31 @@ layout: vendor/compress
 <html ⚡ lang="en">
   {% include head.html %}
   <body>
-    {% include header.html %}
+    <header>
+      <nav>
+        <a href="{{ site.baseurl }}/">
+          <amp-img alt="{{ site.title }}" src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" style="border-radius: 50%"></amp-img>
+        </a>
+        {% assign pages = site.pages | where_exp: "page", "page.header != nil" %}
+        {% if pages %}
+        <ul>
+          {% for page in pages %}
+          <li>
+            <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </nav>
+    </header>
     <main>
       {{ content }}
     </main>
-    {% include footer.html %}
+    <footer>
+      <small>
+        {{ site.name }} &copy; {{ site.time | date: '%Y' }}
+        <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
+      </small>
+    </footer>
   </body>
 </html>
