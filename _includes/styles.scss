@@ -69,6 +69,10 @@ blockquote {
   padding-left: 20px;
 }
 
+pre {
+  overflow: auto;
+}
+
 hr {
   border: 0;
   border-bottom: 1px solid $light;
