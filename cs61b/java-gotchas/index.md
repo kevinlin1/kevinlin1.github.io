@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Java Gotchas
-hidden: true
 ---
 
 Things I wish I knew when I was learning Java in CS 61B.
