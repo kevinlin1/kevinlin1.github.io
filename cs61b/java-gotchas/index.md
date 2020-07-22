@@ -243,11 +243,11 @@ What's most confusing about Java's inheritance model is that its abstract repres
 
 We normally say that, "Walrus is a subclass of Animal," or, "Walrus is one type of Animal," or, "**Walrus is an Animal.**" The taxonomical view looks something like this.
 
-![Walrus Taxonomy](walrus-taxonomy.png)
+<amp-img alt="Walrus Taxonomy" src="walrus-taxonomy.png" width="720" height="720" layout="responsive"></amp-img>
 
 In order to support the claim that every Walrus **is an** Animal, the way Java implements inheritance is by having an Animal underneath every Walrus. Imagine a box-and-pointer diagram that looks like this.
 
-![Walrus Java](walrus-java.png)
+<amp-img alt="Walrus Java" src="walrus-java.png" width="720" height="720" layout="responsive"></amp-img>
 
 Walrus **is an** Animal because it contains all the fields and methods of the Animal class.
 
@@ -326,11 +326,7 @@ In the example above, the first commented line does not compile because the no-a
 
 ### Funky Implication: Implicit super() call
 
-Recall that, in Java's object inheritance model, all Walruses are also Animals.
-
-![Walrus Java](walrus-java.png)
-
-How does that actually happen? There's one last bit of magic that glues everything together. To realize the Animal in every Walrus, the default constructor actually performs an implict `super()` call to fill the Animal fields. This is what it looks like.
+Recall that, in Java's object inheritance model, all Walruses are also Animals. How does that actually happen? There's one last bit of magic that glues everything together. To realize the Animal in every Walrus, the default constructor actually performs an implict `super()` call to fill the Animal fields. This is what it looks like.
 
     public class Animal {
         public String name;
