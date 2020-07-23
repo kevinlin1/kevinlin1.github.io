@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Kevin Lin
+title: &title Kevin Lin
 email: hello@kevinl.info
 description: >-
   Creating effective, equitable, accessible CS education.
@@ -15,7 +15,7 @@ baseurl: ""
 url: "https://kevinl.info"
 permalink: /:categories/:title/
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "redirects.json"]
-author: Kevin Lin
+author: *title
 
 buttons:
   Schedule a meeting:
