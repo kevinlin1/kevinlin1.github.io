@@ -20,8 +20,6 @@ author: Kevin Lin
 buttons:
   Schedule a meeting:
     - "/meet/"
-  CV:
-    - "/cv/"
 
 # Build settings
 markdown: kramdown
