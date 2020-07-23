@@ -14,7 +14,10 @@ I care about {{ site.description | downcase }}
 - Alternative, authentic, formative assessment as a means of deconstructing the fixed-time, fixed-learning model of the [US education system](https://computinged.wordpress.com/2020/01/27/thorndike-won-dewey-lost-the-most-important-thing-to-know-about-the-us-education-system/) and moving towards problem-centric and context-aware computing education.
 - [Can Learning Be Fair?](http://calendar.washington.edu/140800140/AdvancesinHigherEducationResearchSeminarPracticingIntoInclusionUtilizingaLearningAssistantPedagogyCoursetoExploreandAddressImpactsofStructuralOppressiononLearning) Embedding equity, social justice, and social responsibility into the [values of CS education](https://medium.com/bits-and-behavior/21st-grand-challenges-for-computing-education-f5e937d57155) for students and teachers.
 
-Are you a current or prospective **UW undergrad or Allen School BS/MS student**?
+Are you a current or prospective **UW undergrad or CSE BS/MS student**?
+
+BS/MS
+: The Allen School teaching professors are creating a [BS/MS Teaching Track](https://docs.google.com/document/u/2/d/e/2PACX-1vS3kjwJWOvtsHmaHnr5oAxQtWNDKzLV6iMnNY8E1s9hMn3JuB3LzrDz_wBuC5ofSVWTGVVwH0INl7Dy/pub) specializing students for computer science teaching careers in higher-ed.
 
 Teaching
 : For CSE 14X, complete a [CSE 14X TA Application](http://courses.cs.washington.edu/courses/cse14x/ta/). For all other courses, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement.
