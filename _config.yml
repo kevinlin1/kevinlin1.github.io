@@ -13,8 +13,6 @@ buttons:
   Schedule a meeting:
     - "/meet/"
 
-markdown: kramdown
-
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
