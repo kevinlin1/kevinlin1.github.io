@@ -15,9 +15,6 @@ buttons:
 
 markdown: kramdown
 
-kramdown:
-  parse_block_html: true
-
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
