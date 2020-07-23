@@ -11,12 +11,12 @@ layout: vendor/compress
         <a href="{{ site.baseurl }}/">
           <amp-img alt="{{ site.title }}" src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" style="border-radius: 50%"></amp-img>
         </a>
-        {% assign pages = site.pages | where_exp: "page", "page.header != nil" %}
+        {% assign pages = site.pages | where_exp: "page", "page.header != nil" | sort_natural: "header" %}
         {% if pages %}
         <ul>
           {% for page in pages %}
           <li>
-            <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+            <a href="{{ site.baseurl }}{{ page.url }}">{{ page.header }}</a>
           </li>
           {% endfor %}
         </ul>
