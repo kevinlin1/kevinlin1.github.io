@@ -131,9 +131,16 @@ redirect_from:
 
 ## Advising
 
+2020
+: **Sumant Guha**.
+: **Joe Spaniac**.
+: **Andy Zheng**.
+: **Sanjana Sathyanarayanan**.
+: **Nathan Chen**.
+
 2017
-: **Sarah Jin**.
-  Stanford Teacher Education Program (MA, Education) starting 2020.
+: **Sarah Jin**, BA 2019.
+  Stanford Teacher Education Program (MA, Education), 2020--2021.
 
 ## Service
 
