@@ -8,7 +8,7 @@ redirect_from:
   - /resume/
 ---
 
-> Kevin Lin is an Assistant Teaching Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. Kevin received his BA (2018) and MS (2019) in Computer Science from UC Berkeley where he coordinated the teaching and delivery of large-scale introductory undergraduate CS courses and developed programs for broadening participation and retention in classrooms of all sizes.
+Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Teaching Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. Kevin received his BA (2018) and MS (2019) in Computer Science from UC Berkeley where he coordinated the teaching and delivery of large-scale introductory undergraduate CS courses and developed programs for broadening participation and retention in classrooms of all sizes.
 
 2019---
 : **Assistant Teaching Professor**\\
@@ -145,6 +145,10 @@ redirect_from:
 ## Service
 
 ### Conference Service
+
+2021
+: **ACM Technical Symposium on Computer Science Education (SIGCSE)**.
+  Reviewer.
 
 2020
 : **ACM Technical Symposium on Computer Science Education (SIGCSE)**.
