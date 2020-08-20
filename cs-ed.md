@@ -17,7 +17,7 @@ I care about {{ site.description | downcase }}
 Are you a current or prospective **UW undergrad or CSE BS/MS student**?
 
 BS/MS
-: The Allen School teaching professors are creating a [BS/MS Teaching Track](https://docs.google.com/document/u/2/d/e/2PACX-1vS3kjwJWOvtsHmaHnr5oAxQtWNDKzLV6iMnNY8E1s9hMn3JuB3LzrDz_wBuC5ofSVWTGVVwH0INl7Dy/pub) specializing students for computer science teaching careers in higher-ed.
+: The Allen School teaching professors are creating a [BS/MS Teaching Focus](https://docs.google.com/document/d/1s_NOnBeXRqzxYkUaGz7aUbGA1fLy87sMfINpFO01Myo/edit?usp=sharing) preparing students for teaching careers in computer science (esp. higher-ed).
 
 Teaching
 : For CSE 14X, complete a [CSE 14X TA Application](http://courses.cs.washington.edu/courses/cse14x/ta/). For all other courses, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement.
