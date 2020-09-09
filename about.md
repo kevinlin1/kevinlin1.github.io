@@ -31,7 +31,7 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
 ### University of Washington
 
 2019---
-: [CSE 143: Computer Programming II](https://courses.cs.washington.edu/courses/cse143/)\\
+: [CSE 143: Programming with Data Structures](https://courses.cs.washington.edu/courses/cse143/)\\
   <small>
   [20au](https://courses.cs.washington.edu/courses/cse143/20au/) --
   [20sp](https://courses.cs.washington.edu/courses/cse143/20sp/)
