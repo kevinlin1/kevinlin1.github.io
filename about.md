@@ -47,6 +47,11 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
   [19au](https://courses.cs.washington.edu/courses/cse373/19au/)
   </small>
 
+  [CSE 390HA: Restorying Computing](https://courses.cs.washington.edu/courses/cse390ha/)\\
+  <small>
+  [20au](https://courses.cs.washington.edu/courses/cse390ha/20au/)
+  </small>
+
 ### University of California, Berkeley
 
 2016--2018
