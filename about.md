@@ -149,8 +149,6 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
 
 ## Service
 
-### Conference Service
-
 2021
 : **ACM Technical Symposium on Computer Science Education (SIGCSE)**.
   Reviewer.
@@ -158,20 +156,6 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
 2020
 : **ACM Technical Symposium on Computer Science Education (SIGCSE)**.
   Lightning Talks Chair, Paper Session Chair, Reviewer.
-
-### University Service
-
-#### University of Washington
-
-2019
-: 100-Level Management.
-: Teaching Faculty Recruiting.
-
-#### University of California, Berkeley
-
-2018
-: Undergraduate Study Committee.
-: Undergraduate Teaching Task Force.
 
 ## References
 
