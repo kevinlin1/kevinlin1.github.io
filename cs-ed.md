@@ -19,6 +19,7 @@ I care about {{ site.description | downcase }}
 Are you a current or prospective **UW undergrad or CSE BS/MS student**?
 
 Teaching
+: See also [CSE 492T: Equitable and Inclusive Computer Science Pedagogy](https://courses.cs.washington.edu/courses/cse492t/).
 : For CSE 14X, complete a [CSE 14X TA Application](http://courses.cs.washington.edu/courses/cse14x/ta/).
 : For all other courses, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement.
 
