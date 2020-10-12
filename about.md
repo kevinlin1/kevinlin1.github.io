@@ -92,6 +92,11 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
 
 ### Conference Abstracts
 
+2021
+: **[Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link _posts/2020-08-23-nifty-web-apps.md %})**.
+  Kevin Lin, Sumant Guha, Joe Spaniac and Andy Zheng.
+  Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+
 2020
 : **[It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% link _posts/2019-08-29-youre-spamming-the-autograder.md %})**.
   Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii and Ursula Wolz.
