@@ -21,7 +21,7 @@ Are you a current or prospective **UW undergrad or CSE BS/MS student**?
 Teaching
 : See also [CSE 492T: Equitable and Inclusive Computer Science Pedagogy](https://courses.cs.washington.edu/courses/cse492t/).
 : For CSE 14X, complete a [CSE 14X TA Application](http://courses.cs.washington.edu/courses/cse14x/ta/).
-: For all other courses, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement.
+: For all other courses, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement. It doesn't need to be particularly long. I'm mostly interested in getting a sense of your values as a teacher.
 
   - How do you [see yourself](https://www.mach.kit.edu/download/HowProfessorsDevelop.pdf) as a teacher during quiz section?
   - Analyze a school experience you found particularly effective or ineffective.
