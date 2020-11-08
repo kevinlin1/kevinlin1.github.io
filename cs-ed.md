@@ -23,7 +23,7 @@ Teaching
 : For CSE 14X, complete a [CSE 14X TA Application](http://courses.cs.washington.edu/courses/cse14x/ta/).
 : For all other courses, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement. It doesn't need to be particularly long. I'm mostly interested in getting a sense of your values as a teacher.
 
-  - How do you [see yourself](https://www.mach.kit.edu/download/HowProfessorsDevelop.pdf) as a teacher during quiz section?
+  - Describe what you think is the most important role of a teaching assistant.
   - Analyze a school experience you found particularly effective or ineffective.
 
 Research
