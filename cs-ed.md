@@ -38,4 +38,4 @@ Are you a current or prospective **PhD student**? I do not formally advise Ph.D 
 
 Teaching tea parties are low-key hangouts for unwinding at the end of the week with other folks in the [ComputingEd@UW](https://computinged.uw.edu/) community meeting 4:30--5:20pm every Friday over Zoom. Drop by whenever you want to chat about teaching, catch up on life, share what you've been working on, or see our friendly faces! The format of these meetings is mostly unstructured, so feel free to join with your other work or food on the side, but don't expect to get much deep work done.
 
-To participate, message me on the [ComputingEd@UW Slack](http://computinged-uw.slack.com/) or ask an attendee to share the calendar invitation with you. Everyone in the University of Washington community is welcome!
+To participate, ask me or an attendee to share the calendar invitation with you. Everyone in the University of Washington community is welcome!
