@@ -44,6 +44,7 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
 
   [CSE 373: Data Structures and Algorithms](https://courses.cs.washington.edu/courses/cse373/)\\
   <small>
+  [21wi](https://courses.cs.washington.edu/courses/cse373/21wi/) --
   [19au](https://courses.cs.washington.edu/courses/cse373/19au/)
   </small>
 
