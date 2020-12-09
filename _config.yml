@@ -9,7 +9,7 @@ exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "redirects
 author: *title
 
 buttons:
-  he/him/his:
+  he/him:
     - "https://www.mypronouns.org/he-him"
   Schedule a meeting:
     - "/meet/"
