@@ -31,24 +31,25 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
 ### University of Washington
 
 2019---
-: [CSE 143: Programming with Data Structures](https://courses.cs.washington.edu/courses/cse143/)\\
+: Programming with Data Structures\\
   <small>
   [20au](https://courses.cs.washington.edu/courses/cse143/20au/) --
   [20sp](https://courses.cs.washington.edu/courses/cse143/20sp/)
   </small>
 
-  [CSE 332: Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)\\
-  <small>
-  [20wi](https://courses.cs.washington.edu/courses/cse332/20wi/)
-  </small>
-
-  [CSE 373: Data Structures and Algorithms](https://courses.cs.washington.edu/courses/cse373/)\\
+  Critical Algorithm Analysis\\
   <small>
   [21wi](https://courses.cs.washington.edu/courses/cse373/21wi/) --
+  [20wi](https://courses.cs.washington.edu/courses/cse332/20wi/) --
   [19au](https://courses.cs.washington.edu/courses/cse373/19au/)
   </small>
 
-  [CSE 390HA: Restorying Computing](https://courses.cs.washington.edu/courses/cse390ha/)\\
+  Designing a More Critical CS Education\\
+  <small>
+  21wi
+  </small>
+
+  Restorying Computing\\
   <small>
   [20au](https://courses.cs.washington.edu/courses/cse390ha/20au/)
   </small>
@@ -56,7 +57,7 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
 ### University of California, Berkeley
 
 2016--2018
-: [CS 61A: Structure and Interpretation of Computer Programs](https://www2.eecs.berkeley.edu/Courses/CS61A/)\\
+: Structure and Interpretation of Computer Programs\\
   <small>
   [fa17](https://inst.eecs.berkeley.edu/~cs61a/fa17/) (Head TA) --
   [su17](https://su17.cs61a.org/) --
@@ -64,7 +65,7 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
   [sp16](https://inst.eecs.berkeley.edu/~cs61a/sp16/) (Tutor)
   </small>
 
-  [CS 61B: Data Structures](https://www2.eecs.berkeley.edu/Courses/CS61B/)\\
+  Data Structures\\
   <small>
   [su18](https://cs61bl.org/su18/) --
   [sp18](https://sp18.datastructur.es/) (Head TA) --
@@ -72,7 +73,7 @@ Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Te
   [su16](https://cs61bl.org/su16/) (TA)
   </small>
 
-  [CS 61C: Great Ideas in Computer Architecture (Machine Structures)](https://www2.eecs.berkeley.edu/Courses/CS61C/)\\
+  Great Ideas in Computer Architecture\\
   <small>
   [fa18](https://inst.eecs.berkeley.edu/~cs61c/fa18/) (Head TA)
   </small>
