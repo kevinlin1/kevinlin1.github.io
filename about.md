@@ -8,7 +8,7 @@ redirect_from:
   - /resume/
 ---
 
-Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Teaching Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. Kevin received his BA (2018) and MS (2019) in Computer Science from UC Berkeley where he coordinated the teaching and delivery of large-scale introductory undergraduate CS courses and developed programs for broadening participation and retention in classrooms of all sizes.
+Kevin Lin ([*he/him/his*](https://www.mypronouns.org/he-him)) is an Assistant Teaching Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. He leads instructional innovation in introductory programming and data structures with a focus on restorying computing education towards more critical, contrapuntal, and justice-oriented social futures. Kevin received his MS in Computer Science from UC Berkeley, where he coordinated the teaching and delivery of very large-scale undergraduate CS courses to over 1,000 students per semester.
 
 2019---
 : **Assistant Teaching Professor**\\
