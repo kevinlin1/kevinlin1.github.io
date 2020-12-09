@@ -150,25 +150,25 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ## Advising
 
 2020
-: **Sumant Guha**.
-: **Joe Spaniac**.
-: **Andy Zheng**.
-: **Sanjana Sathyanarayanan**.
-: **Nathan Chen**.
+: **Sumant Guha**
+: **Joe Spaniac**
+: **Andy Zheng**
+: **Sanjana Sathyanarayanan**
+: **Nathan Chen**
 
 2017
-: **Sarah Jin**, BA 2019.
-  Stanford Teacher Education Program (MA, Education), 2020--2021.
+: **Sarah Jin**\\
+  Stanford Teacher Education Program (MA, Education)
 
 ## Service
 
 2021
-: **ACM Technical Symposium on Computer Science Education (SIGCSE)**.
-  Reviewer.
+: **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
+  Reviewer
 
 2020
-: **ACM Technical Symposium on Computer Science Education (SIGCSE)**.
-  Lightning Talks Chair, Paper Session Chair, Reviewer.
+: **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
+  Lightning Talks Chair, Paper Session Chair, Reviewer
 
 ## References
 
