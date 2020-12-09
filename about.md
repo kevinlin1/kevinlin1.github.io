@@ -95,35 +95,35 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ### Conference Abstracts
 
 2021
-: **[Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link _posts/2020-08-23-nifty-web-apps.md %})**.
+: [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link _posts/2020-08-23-nifty-web-apps.md %}).
   Kevin Lin, Sumant Guha, Joe Spaniac and Andy Zheng.
   Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: **How Can We Make Office Hours Better?**
+: How Can We Make Office Hours Better?
   Kevin Lin, Kristin Stephens-Martinez and Brian Railing.
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: **Strategies for Authentic Assessments of Mastery in CS Courses**
+: Strategies for Authentic Assessments of Mastery in CS Courses
   Kevin Lin, Lina Battestilli, and Michael Ball.
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 
 2020
-: **[It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% link _posts/2019-08-29-youre-spamming-the-autograder.md %})**.
+: [It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% link _posts/2019-08-29-youre-spamming-the-autograder.md %}).
   Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii and Ursula Wolz.
   Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: **Perspectives on Allyship in Academia**.
+: Perspectives on Allyship in Academia.
   Jamie Payton, Adam Blank, Christian Murphy, Melissa Hovik, Kevin Lin, Angela Kwon and Lara McConnaughey.
   Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: **[Transitioning From Peer Instruction to POGIL with Guided Lecture Notes]({% link _posts/2020-03-11-from-peer-instruction-to-pogil.md %})**.
+: [Transitioning From Peer Instruction to POGIL with Guided Lecture Notes]({% link _posts/2020-03-11-from-peer-instruction-to-pogil.md %}).
   Kevin Lin.
   Lightning talk in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: **How Can We Make Office Hours Better?**
+: How Can We Make Office Hours Better?
   Kevin Lin and Brian Railing.
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 
 2019
-: **[Near-Peer Student Mentors: Creating Scalable Learning Experiences in Large Lecture Courses](% link _posts/2019-03-22-near-peer-student-mentors.md %})**.
+: [Near-Peer Student Mentors: Creating Scalable Learning Experiences in Large Lecture Courses](% link _posts/2019-03-22-near-peer-student-mentors.md %}).
   Kevin Lin.
   Lightning talk in the *Consortium for Computing Sciences in Colleges Southwestern Region (CCSC-SW)*.
-: **[Subgoals, Problem Solving Phases, and Sources of Knowledge: A Complex Mangle]({% link _posts/2019-02-28-subgoals-problem-solving-phases-and-sources-of-knowledge.md %})**.
+: [Subgoals, Problem Solving Phases, and Sources of Knowledge: A Complex Mangle]({% link _posts/2019-02-28-subgoals-problem-solving-phases-and-sources-of-knowledge.md %}).
   Kevin Lin and David DeLiema.
   Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 
@@ -132,7 +132,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 2019
 : *How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom*.
   Kevin Lin.
-: **[From 40 to 400 to 1,400: Providing Formative Feedback in Large-Scale Courses]({% link _posts/2019-04-26-formative-feedback-in-intro-cs.md %})**.
+: [From 40 to 400 to 1,400: Providing Formative Feedback in Large-Scale Courses]({% link _posts/2019-04-26-formative-feedback-in-intro-cs.md %}).
   Kevin Lin.
   Article in the *GSI Online Library: Teaching Effectiveness Award Essays*. Graduate Division, UC Berkeley.
 
