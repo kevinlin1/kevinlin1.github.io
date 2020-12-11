@@ -3,9 +3,6 @@ layout: post
 title: Course reflections
 excerpt: >-
   Online learning in CSE 143: Computer Programming II.
-redirect_from:
-  - /2020/05/20/course-reflections/
-  - /2020/05/20/Course-Reflections/
 ---
 
 What a time to teach a new course! While the quarter's not quite done yet, I wanted to share some reflections on this offering of CSE 143 as we conclude our core lessons.

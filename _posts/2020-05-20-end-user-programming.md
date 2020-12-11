@@ -3,9 +3,6 @@ layout: post
 title: End-user programming
 excerpt: >-
   When it's really not about the turtles all the way down.
-redirect_from:
-  - /2020/05/20/end-user-programming/
-  - /2020/05/20/End-User-Programming/
 ---
 
 **Abstraction** is one of the most important ideas in computer programming. By defining methods, programmers give names to computational ideas. Abstraction allows clients to use these computational ideas without understanding the implementation details. Another kind of abstraction, known as **data abstraction**, is about defining abstract data types (e.g. list) to separate the behaviors of a data type from its implementation details (e.g. resizing array, linked nodes).

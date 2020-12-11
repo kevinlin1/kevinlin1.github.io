@@ -3,9 +3,6 @@ layout: post
 title: Microeconomics of the faculty job search
 excerpt: >-
   An institution's most important resource is its people.
-redirect_from:
-  - /2019/06/25/microeconomics-of-the-faculty-job-search/
-  - /2019/06/25/Microeconomics-of-the-Faculty-Job-Search/
 ---
 
 *See my [Teaching faculty job search]({% link _posts/2019-03-29-teaching-faculty-job-search.md %}) for details on my specific academic job search and the context that inspired this article.*

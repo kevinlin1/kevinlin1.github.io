@@ -5,8 +5,6 @@ excerpt: >-
   A five year, non-traditional path into academia.
 redirect_from:
   - /recruiting/
-  - /2019/03/29/teaching-faculty-job-search/
-  - /2019/03/29/Teaching-Faculty-Job-Search/
 ---
 
 *For a long-form article on the faculty job search process and what it entails, see the [Microeconomics of the faculty job search]({% link _posts/2019-06-25-microeconomics-of-the-faculty-job-search.md %}).*
