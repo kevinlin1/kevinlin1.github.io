@@ -69,7 +69,7 @@ Video interviews typically involved members of the faculty search committee aski
 
 I prepared my [Talking Points Document][] to address these questions. Though the questions rarely lined up exactly with the questions interviewers actually asked, the process of preparing answers with value alignment in mind made it easier for me to focus more on the interpersonal aspects of the interview such as building a rapport with the search committee.
 
-[Talking Points Document]: http://www.pgbovine.net/guo-faculty-job-search.pdf#page=5
+[Talking Points Document]: https://pg.ucsd.edu/guo-faculty-job-search.pdf#page=5
 
 Building rapport is particularly important in the next interview phase: the on-campus interview. The on-campus interview involved a full day of events coordinated by the faculty host, typically a member of the faculty search committee. Most of my teaching-track faculty interviews ran between 9 and 12 hours long with the shortest at 5 hours and the longest at 13 hours. Interviews largely followed a standard template.
 
@@ -85,12 +85,12 @@ Some departments added meetings with directors, deans, administrative staff, and
 
 The faculty job interview is a grueling process not only due to its length but also because the candidate is always on. Every interaction from the moment you greet the host for breakfast until the moment you're dropped off after dinner is part of the interview and should be considered critical to the faculty's view of your value alignment. I echo Philip's advice that at the heart of the faculty interview is being a great communicator: [Strive to engage, not to impress][]. Faculty are people, first and foremost, so one of the functions of the interview meetings is to determine how you would collaborate and interact with those people. You're not going there to get a job. You're going there to [meet your colleagues][].
 
-[Strive to engage, not to impress]: http://www.pgbovine.net/guo-faculty-job-search.pdf#page=6
+[Strive to engage, not to impress]: https://pg.ucsd.edu/guo-faculty-job-search.pdf#page=6
 [meet your colleagues]: https://ask.metafilter.com/31759/Academic-Job-Interview-Questions#c499299
 
 The job talk is the most important part of the interview. The norms and expectations of the talk differ significantly between fields, departments, and positions. The faculty search committee, at this point, understand several dimensions of you and your work. Through the application, they understand your value proposition to the department in terms of your background and experience, and to some extent your ability to design, execute, and evaluate research or teaching ideas. Through the interview meetings, they understand how you might fit with faculty, staff, and students. What is missing is an understanding of your [intellectual personality][]: how you present yourself, how you talk about ideas, and how you would represent the department to the public.
 
-[intellectual personality]: http://www.pgbovine.net/guo-faculty-job-search.pdf#page=8
+[intellectual personality]: https://pg.ucsd.edu/guo-faculty-job-search.pdf#page=8
 
 The teaching faculty job talk is typically posed to the candidate as an hour-long lecture on a technical topic from the undergraduate curriculum during which the faculty interviewers role-play as undergraduate students in your class. While you can certainly reuse a lecture from a real course you've taught before, the delivery of the content and the decisions that go into the job talk should reflect your value alignment. More experienced teachers tend to have an established teaching style or [persona][]. Speaking from interviewing teaching assistants, experienced interviewers can usually get a sense of a candidate's intellectual personality within the first five minutes of a teaching demonstration. More often than not, these initial impressions are on the mark. How would someone who only saw the first few minutes and last few minutes of your talk respond to your value alignment on the following metrics? How about the entire lesson?
 

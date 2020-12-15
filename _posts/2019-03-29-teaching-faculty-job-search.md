@@ -45,7 +45,7 @@ For finding job listings, the [CRA Job Announcements][] page is by far the most 
 
 For detailed views on the tenure-track faculty job search, plenty of other folks have written about their experiences. I consulted [Philip Guo][] and [Matt Welsh][]. These were helpful to get insight into the application and interview process. If you have any teaching faculty in your department, I would also suggest connecting with them.
 
-[Philip Guo]: http://www.pgbovine.net/faculty-job-application-materials.htm
+[Philip Guo]: https://pg.ucsd.edu/index.html#faq
 [Matt Welsh]: https://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-1.html
 
 I found the entire job search process incredibly enjoyable and a rare opportunity to broaden my perspective through meeting over a hundred academics in the span of a few months. I couldn't have asked for any better way to cap off my five year experience at UC Berkeley, and I am grateful to the faculty, staff, and students in the EECS Department for their perpetual support.
