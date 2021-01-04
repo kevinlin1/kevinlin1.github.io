@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Implementation of mastery grading towards rightful presence
+title: Implementation of Mastery Grading Towards Rightful Presence
 excerpt: >-
   Moving a step closer to justice-centered CS education.
 ---
