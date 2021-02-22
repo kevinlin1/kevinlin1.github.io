@@ -36,20 +36,17 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   [20au](https://courses.cs.washington.edu/courses/cse143/20au/) --
   [20sp](https://courses.cs.washington.edu/courses/cse143/20sp/)
   </small>
-
-  **Critical Algorithm Analysis**\\
+: **Critical Algorithm Analysis**\\
   <small>
   [21wi](https://courses.cs.washington.edu/courses/cse373/21wi/) --
   [20wi](https://courses.cs.washington.edu/courses/cse332/20wi/) --
   [19au](https://courses.cs.washington.edu/courses/cse373/19au/)
   </small>
-
-  **Designing a More Critical CS Education**\\
+: **Designing a More Critical CS Education**\\
   <small>
   21wi
   </small>
-
-  **Restorying Computing**\\
+: **Restorying Computing**\\
   <small>
   [20au](https://courses.cs.washington.edu/courses/cse390ha/20au/)
   </small>
@@ -64,16 +61,14 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   [fa16](https://inst.eecs.berkeley.edu/~cs61a/fa16/) (TA) --
   [sp16](https://inst.eecs.berkeley.edu/~cs61a/sp16/) (Tutor)
   </small>
-
-  **Data Structures**\\
+: **Data Structures**\\
   <small>
   [su18](https://cs61bl.org/su18/) --
   [sp18](https://sp18.datastructur.es/) (Head TA) --
   [sp17](https://datastructur.es/sp17/) (Head TA) --
   [su16](https://cs61bl.org/su16/) (TA)
   </small>
-
-  **Great Ideas in Computer Architecture**\\
+: **Great Ideas in Computer Architecture**\\
   <small>
   [fa18](https://inst.eecs.berkeley.edu/~cs61c/fa18/) (Head TA)
   </small>
