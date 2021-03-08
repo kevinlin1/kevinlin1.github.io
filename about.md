@@ -163,11 +163,11 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 2021
 : **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
-  Reviewer
+  Paper Session Chair, Reviewer
 
 2020
 : **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
-  Lightning Talks Chair, Paper Session Chair, Reviewer
+  Paper Session Chair, Reviewer
 
 ## References
 
