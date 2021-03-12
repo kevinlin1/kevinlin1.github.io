@@ -14,7 +14,7 @@ title: CS 61B
 - [UCSF Visualizations][ucsf]
 - [PathFinding.js][pathfinding]
 
-Josh's CS 61B [Exam Studying Guide][] is fantastic. I wrote the CS 61A [Studying Guide][] which has a few more tips for general problem-solving.
+I wrote the CS 61A [Studying Guide][] which has a few more tips for general problem-solving.
 
 - [Java Gotchas][]
 - [Asymptotic Analysis][]
@@ -27,8 +27,7 @@ Josh's CS 61B [Exam Studying Guide][] is fantastic. I wrote the CS 61A [Studying
 - [Daniel Nguyen][]
 - [Matt Sit][]
 
-[exam studying guide]: http://datastructur.es/sp17/materials/guides/study-guide.html
-[studying guide]: https://cs61a.org/articles/studying.html
+[studying guide]: https://cs61a.org/articles/studying/
 
 [java tutor]: http://www.pythontutor.com/java.html#mode=edit
 [visualgo]: https://visualgo.net/en
