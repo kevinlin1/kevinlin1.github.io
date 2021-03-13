@@ -102,7 +102,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : [How Can We Make Office Hours Better?]({% link office-hours.md %})
   Kevin Lin, Kristin Stephens-Martinez and Brian Railing.
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %})
+: [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %}).
   Kevin Lin, Lina Battestilli, and Michael Ball.
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 : [Implementation of Mastery Grading Towards Rightful Presence]({% link _posts/2020-12-22-implementation-of-mastery-grading-towards-rightful-presence.md %}).
