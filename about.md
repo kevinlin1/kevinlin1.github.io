@@ -48,6 +48,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   </small>
 : **Designing a More Critical CS Education**\\
   <small>
+  21sp --
   21wi
   </small>
 : **Restorying Computing**\\
