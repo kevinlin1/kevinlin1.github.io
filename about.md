@@ -40,7 +40,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   <small>
   [21sp](https://courses.cs.washington.edu/courses/cse163/21sp/)
   </small>
-: **Critical Algorithm Analysis**\\
+: **Data Structures and Algorithms**\\
   <small>
   [21wi](https://courses.cs.washington.edu/courses/cse373/21wi/) --
   [20wi](https://courses.cs.washington.edu/courses/cse332/20wi/) --
