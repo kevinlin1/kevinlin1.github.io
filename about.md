@@ -103,6 +103,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %})
   Kevin Lin, Lina Battestilli, and Michael Ball.
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+: [Implementation of Mastery Grading Towards Rightful Presence]({% link _posts/2020-12-22-implementation-of-mastery-grading-towards-rightful-presence.md %}).
+  Jayne Everson, Leah Perlmutter, Ken Yasuhara, Kevin Lin, and Brett Wortzman.
+  Poster in the *UW Teaching & Learning Symposium*.
 
 2020
 : [It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% link _posts/2019-08-29-youre-spamming-the-autograder.md %}).
@@ -136,6 +139,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Article in the *GSI Online Library: Teaching Effectiveness Award Essays*. Graduate Division, UC Berkeley.
 
 ### Campus Talks
+
+2020
+: [Programming a Better Future]({% link _posts/2020-11-25-programming-a-better-future.md %}).
 
 2019
 : Applying for Academic Positions and Postdoctoral Appointments.
