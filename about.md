@@ -149,10 +149,6 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ## Advising
 
 2020
-: **Sumant Guha**
-: **Joe Spaniac**
-: **Andy Zheng**
-: **Sanjana Sathyanarayanan**
 : **Nathan Chen**
 
 2017
