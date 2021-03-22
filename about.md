@@ -81,6 +81,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Distinctions
 
+2021
+: [Cultural Competence in Computing (3C) Fellow](https://identity.cs.duke.edu/fellows.html), Duke University.
+
 2019
 : [EECS Distinguished Student Teaching Award](https://www2.eecs.berkeley.edu/Students/Awards/13/), UC Berkeley.
 : [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/), UC Berkeley.
