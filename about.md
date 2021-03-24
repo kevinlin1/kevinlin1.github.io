@@ -179,10 +179,3 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Transcript Editor
 : **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
   Paper Session Chair, Reviewer
-
-## References
-
-1. **[John DeNero](https://www2.eecs.berkeley.edu/Faculty/Homepages/denero.html)**. Associate Teaching Professor, UC Berkeley.
-1. **[Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html)**. Associate Teaching Professor, UC Berkeley.
-1. **[Dan Garcia](https://www2.eecs.berkeley.edu/Faculty/Homepages/garcia.html)**. Teaching Professor, UC Berkeley.
-1. **[Christopher Hunn](https://www2.eecs.berkeley.edu/Faculty/Homepages/cthunn.html)**. Director of Undergraduate Student Instruction, UC Berkeley.
