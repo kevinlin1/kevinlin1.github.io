@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Towards robust CS education
+title: Toward robust CS education
 excerpt: >-
   Equitable CS education in higher-ed: a 2-year retrospective on teaching to groups.
 ---
@@ -54,7 +54,7 @@ Within the context of productive failure, teachers are responsible for designing
 
 [classroom climate]: https://dl.acm.org/citation.cfm?id=2538959
 
-In undergraduate CS classrooms, a hierarchy of value for student responses is established through the way in which teachers respond to student suggestions. For example, when an incorrect answer is suggested, the teacher will sometimes dismiss it nicely *without giving the incorrect suggestion more than one second of consideration*. Other times, they may discuss why it's incorrect *without giving it spatial consideration on the board*. These are just two of several dimensions by which teachers are biased towards correct answers to the detriment of incorrect answers. But there's an even more fundamental problem with this example: by funneling student ideas into the dichotomy of either correct or incorrect, student responses are immediately judged on those merits, obscuring the underlying mental RSMs responsible for producing the answer. (Lin, unpublished)
+In undergraduate CS classrooms, a hierarchy of value for student responses is established through the way in which teachers respond to student suggestions. For example, when an incorrect answer is suggested, the teacher will sometimes dismiss it nicely *without giving the incorrect suggestion more than one second of consideration*. Other times, they may discuss why it's incorrect *without giving it spatial consideration on the board*. These are just two of several dimensions by which teachers are biased toward correct answers to the detriment of incorrect answers. But there's an even more fundamental problem with this example: by funneling student ideas into the dichotomy of either correct or incorrect, student responses are immediately judged on those merits, obscuring the underlying mental RSMs responsible for producing the answer. (Lin, unpublished)
 
 If robust CS education requires iteratively refining students' mental RSMs, then it is the teacher's responsibility to design supportive classroom communication climates that encourage mutual collaboration, development, and introspection of incomplete mental RSMs, not answers.
 

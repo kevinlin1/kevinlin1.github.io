@@ -5,9 +5,9 @@ excerpt: >-
   A critical review of power and pedagogy in large-scale office hours.
 ---
 
-Large-enrollment CS courses often rely on **large-scale office hours** staffed by multiple TAs helping students one-on-one, one after the other. Typically, these interactions are discrete sessions during which the TA helps the student make progress on homework. Within this context, the question, "Why do some students struggle with learning CS more than other students?" has been on my mind especially in the past few months: [Towards Robust CS Education][], [Sending Mixed Messages][], and [On GPS Syndrome][].
+Large-enrollment CS courses often rely on **large-scale office hours** staffed by multiple TAs helping students one-on-one, one after the other. Typically, these interactions are discrete sessions during which the TA helps the student make progress on homework. Within this context, the question, "Why do some students struggle with learning CS more than other students?" has been on my mind especially in the past few months: [Toward Robust CS Education][], [Sending Mixed Messages][], and [On GPS Syndrome][].
 
-[Towards Robust CS Education]: {% link _posts/2019-11-26-towards-robust-cs-education.md %}
+[Toward Robust CS Education]: {% link _posts/2019-11-26-toward-robust-cs-education.md %}
 [Sending Mixed Messages]: {% link _posts/2019-08-13-sending-mixed-messages.md %}
 [On GPS Syndrome]: {% link _posts/2019-07-08-on-gps-syndrome.md %}
 
@@ -15,7 +15,7 @@ Large-scale office hours can be tools of oppression: rather than helping student
 
 [Freire, 1968]: https://patitsas.github.io/2016/01/28/On-Paulo-Freire-and-seeing-computing-as-literacy/
 
-Critically, however, this model of assistance fails to engender **praxis**, which Freire defines as "reflection and action directed at the structures to be transformed." The student condition is often unchanged after an office hours interaction. While their homework moves towards a more complete state, the same cannot necessarily be said for the student's understanding and sense of self-efficacy. Large-scale office hours optimize for the delivery of teaching, not learning.
+Critically, however, this model of assistance fails to engender **praxis**, which Freire defines as "reflection and action directed at the structures to be transformed." The student condition is often unchanged after an office hours interaction. While their homework moves toward a more complete state, the same cannot necessarily be said for the student's understanding and sense of self-efficacy. Large-scale office hours optimize for the delivery of teaching, not learning.
 
 Consider online office hours queues as a realization of this model. Online office hours queues have been deployed at large universities to manage the enrollment demand, including [Berkeley][], [Michigan][], [Stanford][], [Duke, NC State, UNC Chapel Hill][], [CMU][], [Illinois][], and [Harvard][]. There has been some published work about understanding the efficacy of office hours using queue metadata ([Smith, 2017][]; [Ren, 2019][]) but less on understanding the social impact of online office hours queues on TA-student interactions.
 

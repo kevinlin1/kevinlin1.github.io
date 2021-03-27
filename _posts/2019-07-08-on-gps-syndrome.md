@@ -51,5 +51,5 @@ If the student needs additional help, one thing helpers can do is suggest smalle
 
 Some of these questions may require asking even higher level questions about what actually is the expected behavior of the program, and identify patterns in the output to figure out the source of the issue.
 
-A useful heuristic for determining how much a help session is geared towards directly discussing code is in the artifacts produced from the help session. One of sufficient (but not necessary) conditions for GPS Syndrome is a help session that fails to produce any artifacts: there are no diagrams drawn on whiteboards, there are no external visualizations, and no space for planning
+A useful heuristic for determining how much a help session is geared toward directly discussing code is in the artifacts produced from the help session. One of sufficient (but not necessary) conditions for GPS Syndrome is a help session that fails to produce any artifacts: there are no diagrams drawn on whiteboards, there are no external visualizations, and no space for planning
 the fix; the student often won't even look away from their screen.

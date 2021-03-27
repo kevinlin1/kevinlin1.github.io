@@ -8,7 +8,7 @@ redirect_from:
   - /resume/
 ---
 
-Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teaching Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. He leads instructional innovation in introductory programming and data structures with a focus on restorying computing education towards more critical, contrapuntal, and justice-oriented social futures. Kevin received his MS in Computer Science from UC Berkeley, where he coordinated the teaching and delivery of very large-scale undergraduate CS courses to over 1,000 students per semester.
+Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teaching Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. He leads instructional innovation in introductory programming and data structures with a focus on restorying computing education toward more critical, contrapuntal, and justice-oriented social futures. Kevin received his MS in Computer Science from UC Berkeley, where he coordinated the teaching and delivery of very large-scale undergraduate CS courses to over 1,000 students per semester.
 
 2019---
 : **Assistant Teaching Professor**\\
@@ -108,7 +108,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %}).
   Kevin Lin, Lina Battestilli, and Michael Ball.
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: [Implementation of Mastery Grading Towards Rightful Presence]({% link _posts/2020-12-22-implementation-of-mastery-grading-towards-rightful-presence.md %}).
+: [Implementation of Mastery Grading Toward Rightful Presence]({% link _posts/2020-12-22-implementation-of-mastery-grading-toward-rightful-presence.md %}).
   Jayne Everson, Leah Perlmutter, Ken Yasuhara, Kevin Lin, and Brett Wortzman.
   Poster in the *UW Teaching & Learning Symposium*.
 
