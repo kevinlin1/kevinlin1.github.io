@@ -89,7 +89,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/), UC Berkeley.
 : [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/), UC Berkeley.
 
-## Research and Talks
+## Publications and Talks
 
 2019
 : *[A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-a-berkeley-view-of-teaching-cs-at-scale.md %})*.
