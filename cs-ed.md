@@ -19,7 +19,8 @@ Teaching
 : To teach any other CSE course with me, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement. It doesn't need to be particularly long. I'm interested in getting to know what you value as a teacher.
   - Describe what you think is the most important role of a teaching assistant.
   - Analyze a school experience you found particularly effective or ineffective.
-: Become a CS teaching professor through the [BS/MS Teaching Focus](https://docs.google.com/document/d/1s_NOnBeXRqzxYkUaGz7aUbGA1fLy87sMfINpFO01Myo/preview).
+: Become a K--12 CS teacher through the [CS Secondary Teaching Endorsement](https://education.uw.edu/programs/teacher/cs-endorsement).
+: Become a CS teaching professor through the [BS/MS Teaching Focus](https://docs.google.com/document/d/1s_NOnBeXRqzxYkUaGz7aUbGA1fLy87sMfINpFO01Myo/edit?usp=sharing).
 
 Research
 : Take [CSE 590E: Computer Science Education Seminar](https://courses.cs.washington.edu/courses/cse590e/)!
