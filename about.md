@@ -49,7 +49,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   </small>
 : **Designing a More Critical CS Education**\\
   <small>
-  21sp --
+  [21sp](https://canvas.uw.edu/courses/1475575) --
   21wi
   </small>
 : **Restorying Computing**\\
