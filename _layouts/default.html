@@ -9,7 +9,7 @@ layout: vendor/compress
     <header>
       <nav>
         <a href="{{ site.baseurl }}/">
-          <img alt="{{ site.title }}" src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" style="border-radius: 50%"></img>
+          <img alt="{{ site.title }}" src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" class="circle"></img>
         </a>
         {% assign pages = site.pages | where_exp: "page", "page.header != nil" | sort_natural: "header" %}
         {% if pages %}
