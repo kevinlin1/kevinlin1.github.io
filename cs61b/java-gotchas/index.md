@@ -240,15 +240,7 @@ What's most confusing about Java's inheritance model is that its abstract repres
         public int weight;
     }
 
-We normally say that, "Walrus is a subclass of Animal," or, "Walrus is one type of Animal," or, "**Walrus is an Animal.**" The taxonomical view looks something like this.
-
-<amp-img alt="Walrus Taxonomy" src="walrus-taxonomy.png" width="720" height="720" layout="responsive"></amp-img>
-
-In order to support the claim that every Walrus **is an** Animal, the way Java implements inheritance is by having an Animal underneath every Walrus. Imagine a box-and-pointer diagram that looks like this.
-
-<amp-img alt="Walrus Java" src="walrus-java.png" width="720" height="720" layout="responsive"></amp-img>
-
-Walrus **is an** Animal because it contains all the fields and methods of the Animal class.
+We normally say that, "Walrus is a subclass of Animal," or, "Walrus is one type of Animal," or, "**Walrus is an Animal.**" In order to support the claim that every Walrus **is an** Animal, the way Java implements inheritance is by having an Animal underneath every Walrus. A walrus **is an** Animal because it contains all the fields and methods of the Animal class.
 
 ### Dynamic method lookup
 
