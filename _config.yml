@@ -13,6 +13,8 @@ buttons:
     - "https://www.mypronouns.org/he-him"
   Schedule a meeting:
     - "/meet/"
+  Ask me anything:
+    - "https://github.com/kevinlin1/kevinlin1/discussions"
 
 plugins:
   - jekyll-redirect-from
