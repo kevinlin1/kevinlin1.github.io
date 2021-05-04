@@ -159,6 +159,8 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 2018
 : [Introductory CS Courses at UC Berkeley](https://docs.google.com/presentation/d/1qQIxjFJ-5PvFntVaZ5hN9u5LecRXrZ_eJK5pf6KpCZ8/edit?usp=sharing).
 : EECS/CS Life from a Student Perspective.
+
+2017
 : [How to Learn Computer Science]({% link _posts/2017-08-21-how-to-learn-cs.md %}).
 
 ## Advising
