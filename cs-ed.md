@@ -8,23 +8,18 @@ redirect_from:
   - /sigcse/
 ---
 
-Join me in designing a [more critical CS education](https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext)!
-
-Are you a current or prospective **UW undergrad or CSE BS/MS student**?
+Are you a current or prospective **UW undergrad or CSE BS/MS student**? The [CSE Teaching Focus](https://docs.google.com/document/d/1s_NOnBeXRqzxYkUaGz7aUbGA1fLy87sMfINpFO01Myo/edit?usp=sharing) has a complete list of resources.
 
 Teaching
 : Take [CSE 492T: Equitable and Inclusive Computer Science Pedagogy](https://courses.cs.washington.edu/courses/cse492t/)!
-: Take [CSE 492/590K1: Designing a More Critical CS Education](https://www.cs.washington.edu/academics/ugrad/current-students/degree/courses/special-topics)!
 : To teach CSE 142/143 with me, complete a [CSE 14X TA Application](http://courses.cs.washington.edu/courses/cse14x/ta/).
 : To teach any other CSE course with me, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement. It doesn't need to be particularly long. I'm interested in getting to know what you value as a teacher.
   - Describe what you think is the most important role of a teaching assistant.
   - Analyze a school experience you found particularly effective or ineffective.
-: Become a K--12 CS teacher through the [CS Secondary Teaching Endorsement](https://education.uw.edu/programs/teacher/cs-endorsement).
-: Become a CS teaching professor through the [BS/MS Teaching Focus](https://docs.google.com/document/d/1s_NOnBeXRqzxYkUaGz7aUbGA1fLy87sMfINpFO01Myo/edit?usp=sharing).
 
 Research
 : Take [CSE 590E: Computer Science Education Seminar](https://courses.cs.washington.edu/courses/cse590e/)!
-: To pursue independent research with me, read more [about me]({% link about.md %}) and [Undergraduate Research](https://www.cs.washington.edu/academics/ugrad/enrichment/research) in the Allen School. Then, tell me why you're interested in working on CS education.
+: To pursue independent research with me, read more [about me]({% link about.md %}) and [Undergraduate Research](https://www.cs.washington.edu/academics/ugrad/enrichment/research) in the Allen School. Then, tell me what you're interested in working on.
 
 Are you a current or prospective **PhD student**? I do not formally advise Ph.D students, but there are plenty of other researchers in [ComputingEd@UW](https://computinged.uw.edu/) who'd love to get to know you. Amy Ko has published an overview of [Computing Education Research](https://faculty.washington.edu/ajko/cer) at UW and beyond.
 
