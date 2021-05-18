@@ -5,7 +5,7 @@ excerpt: >-
   How computer scientists can undo the social dilemma.
 ---
 
-I recently gave a prepared talk to introductory programming students reflecting on the nature of computer science's social and political responsibility. UW Zoom users can [watch the recorded talk](https://washington.zoom.us/rec/share/PTgQ2fghs90chIK-VIkWdL-fCcQ2HHqUAGtTCnkG34qYulxC1mBBCBpqQ1ElY2n2.X3HllLO2z9eSwmj4).
+I recently gave a prepared talk to introductory programming students reflecting on the nature of computer science's social and political responsibility.
 
 **Techlash**: *The Social Dilemma* is an important documentary on techlash, though deeply problematic in how it references tech insiders rather than the important work done by leading researchers on algorithmic justice: Dr. Timnit Gebru, Joy Buolamwini, Dr. Rediet Abebe, Deb Raji, Mutale Nkonde, Dr. Ruha Benjamin, Dr. Simone Browne, and Dr. Safiya Noble.
 
