@@ -131,7 +131,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 
 2019
-: [Near-Peer Student Mentors: Creating Scalable Learning Experiences in Large Lecture Courses](% link _posts/2019-03-22-near-peer-student-mentors.md %}).
+: [Near-Peer Student Mentors: Creating Scalable Learning Experiences in Large Lecture Courses]({% link _posts/2019-03-22-near-peer-student-mentors.md %}).
   Kevin Lin.
   Lightning talk in the *Consortium for Computing Sciences in Colleges Southwestern Region (CCSC-SW)*.
 : [Subgoals, Problem Solving Phases, and Sources of Knowledge: A Complex Mangle]({% link _posts/2019-02-28-subgoals-problem-solving-phases-and-sources-of-knowledge.md %}).
