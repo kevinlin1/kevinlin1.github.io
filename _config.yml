@@ -17,6 +17,7 @@ buttons:
     - "https://github.com/kevinlin1/kevinlin1/discussions"
 
 plugins:
+  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
