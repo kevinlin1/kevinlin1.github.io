@@ -1,0 +1,16 @@
+---
+layout: post
+title: Centering Identity and Culture in Critical Computing
+excerpt: >-
+  How do we wrestle with critical questions and justice in our racialized classrooms?
+---
+
+I'm presenting a lightning talk at the [Teaching Responsible Computing Summit 2021](https://foundation.mozilla.org/en/blog/teaching-responsible-computing-summit-2021/) on one cornerstone of my teaching titled, [Centering Identity and Culture in Critical Computing](https://docs.google.com/presentation/d/1HBM4eo-EqYWTPyMZzZbS8bmcUeA7Hcz7heV2loP6GUM/edit?pli=1#slide=id.ge4e3f5c3d4_5_0). Here's the abstract extended from the slide.
+
+> Students find "ethical and social interventions in CS education [...] valuable in application-centered classes, like data visualization or applied machine learning, but not in 'core' technical classes like [CS1]" ([Malazita and Resetar 2019](https://doi.org/10.1080/14626268.2019.1682616)). Ruha Benjamin reminds us of our commitment as educators to [Incubate a Better World in the Minds & Hearts of Students](https://youtu.be/9xmrJJESCt8), calling on us to inspire and empower students to imagine and then realize resistant, contrapuntal, and anti-oppressive futures through education. Teaching responsible computing requires that we wrestle with critical questions and justice in our racialized classrooms ([Shah 2020](https://youtu.be/_iCCsYR5QJY), [Philip 2021](https://youtu.be/-eTQrFPTM1Y)) that are entangled with broader social questions. I present an approach to **culturally-responsive and critical pedagogy** in [my responsible data structures classroom](https://courses.cs.washington.edu/courses/cse373/21su/) grounded in 3 ideas.
+>
+> 1. Developing [cultural competence](https://doi.org/10.1145/3328778.3366792) and [deconstructing computing culture](https://youtu.be/c8TQ29I8lK4).
+> 1. Valuing [indigeneous ways of living in nature](https://doi.org/10.1007/s11422-007-9067-8) and [purposes for learning](https://youtu.be/MnRZcPeEAv0?t=1833).
+> 1. Student-centered equity pedagogies that draw on the past and present experiences of people in the room.
+
+Geoff Challen recently raised the questions around the topic of [creating course community](https://www.geoffreychallen.com/essays/2021-07-09-creating-course-community), suggesting that "whether you build course community should be determined by your learning goals and how the community contributes to student success." When I think about the diversity of people in our classrooms in today's educational environment---and for the futures that we want to create---the answer has to be an affirmative 'yes' if we as educators want to make good on our commitment to "incubate a better world in the minds and hearts of students" (Benjamin 2016). Learning without each other assumes that student success is determined by acquisition of knowledge disconnected from the world, which is problematic not only for learning responsible computing but also because it reinforces hegemonic ideas about knowledge only as a fungible asset---one that treats students only as agents of national economic growth. For marginalized students who have lived through the harms of progress and technology narratives, it is no surprise then that many students experience traditional computing and STEM courses as oppressive spaces.
