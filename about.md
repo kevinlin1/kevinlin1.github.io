@@ -97,12 +97,16 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Kevin Lin.
   MS technical report. EECS Department, UC Berkeley.
 
-### Conference Abstracts
+### Conference Papers
 
 2021
 : [Do Abstractions Have Politics? Toward a More Critical Algorithm Analysis]({% link _posts/2021-01-05-do-abstractions-have-politics.md %}).
   Kevin Lin.
   Position paper in the *IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)*.
+
+### Conference Abstracts
+
+2021
 : [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link _posts/2020-08-23-nifty-web-apps.md %}).
   Kevin Lin, Sumant Guha, Joe Spaniac and Andy Zheng.
   Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
