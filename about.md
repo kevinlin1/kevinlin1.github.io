@@ -194,7 +194,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : **IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)**\\
   Reviewer
 : **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
-  Paper Session Chair, Reviewer
+  Paper Session Chair, Reviewer, Poster Judge
 
 2020
 : **The CS-Ed Podcast**\\
