@@ -146,6 +146,11 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Non-Refereed Publications
 
+2021
+: [Centering Identity and Culture in Critical Computing]({% link _posts/2021-07-15-centering-identity-and-culture-in-critical-computing.md %}).
+  Kevin Lin.
+  Lightning talk in the *Teaching Responsible Computing Summit 2021*.
+
 2019
 : *How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom*.
   Kevin Lin.
