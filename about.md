@@ -110,10 +110,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 2021
 : [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link _posts/2020-08-23-nifty-web-apps.md %}).
-  Kevin Lin, Sumant Guha, Joe Spaniac and Andy Zheng.
+  Kevin Lin, Sumant Guha, Joe Spaniac, and Andy Zheng.
   Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 : [How Can We Make Office Hours Better?]({% link office-hours.md %})
-  Kevin Lin, Kristin Stephens-Martinez and Brian Railing.
+  Kevin Lin, Kristin Stephens-Martinez, and Brian Railing.
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 : [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %}).
   Kevin Lin, Lina Battestilli, and Michael Ball.
@@ -124,10 +124,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 2020
 : [It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% link _posts/2019-08-29-youre-spamming-the-autograder.md %}).
-  Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii and Ursula Wolz.
+  Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii, and Ursula Wolz.
   Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 : Perspectives on Allyship in Academia.
-  Jamie Payton, Adam Blank, Christian Murphy, Melissa Hovik, Kevin Lin, Angela Kwon and Lara McConnaughey.
+  Jamie Payton, Adam Blank, Christian Murphy, Melissa Hovik, Kevin Lin, Angela Kwon, and Lara McConnaughey.
   Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 : [Transitioning From Peer Instruction to POGIL with Guided Lecture Notes]({% link _posts/2020-03-11-from-peer-instruction-to-pogil.md %}).
   Kevin Lin.
