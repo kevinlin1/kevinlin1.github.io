@@ -8,7 +8,9 @@ redirect_from:
   - /sigcse/
 ---
 
-Are you a current or prospective **UW undergrad or CSE BS/MS student**? The [CSE Teaching Focus](https://docs.google.com/document/d/1s_NOnBeXRqzxYkUaGz7aUbGA1fLy87sMfINpFO01Myo/edit?usp=sharing) has a complete list of resources.
+Check out the Allen School [Computer Science Education](https://www.cs.washington.edu/academics/ugrad/current-students/career/cs-teaching) resource hub that describes how students can get involved in the school's educational efforts.
+
+Are you a current or prospective **UW undergrad or CSE BS/MS student**?
 
 Teaching
 : Take [CSE 492T: Equitable and Inclusive Computer Science Pedagogy](https://courses.cs.washington.edu/courses/cse492t/)!
