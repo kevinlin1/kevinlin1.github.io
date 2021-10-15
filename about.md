@@ -182,6 +182,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Advising
 
+2021
+: **Aleks Jovčić**
+
 2020
 : **Nathan Chen**
 
