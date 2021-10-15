@@ -164,6 +164,16 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Kevin Lin.
   Article in the *GSI Online Library: Teaching Effectiveness Award Essays*. Graduate Division, UC Berkeley.
 
+### Invited Talks
+
+2021
+: CS Education for the Socially-Just Worlds We Need.
+  TechEd Seminar, Princeton University.
+: Justice-Centered CS Education.
+  CS Education Seminar, Western Washington University.
+: What You Wish You Knew About Summer Instruction.
+  Designing Computer Science Education, UC Berkeley.
+
 ### Campus Talks
 
 2020
