@@ -113,6 +113,11 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Conference Abstracts
 
+2022
+: Approaches for Weaving Responsible Computing into Data Structures and Algorithms Courses.
+  Kathi Fisler, Sorelle Friedler, Kevin Lin, and Suresh Venkatasubramanian.
+  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+
 2021
 : [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link _posts/2020-08-23-nifty-web-apps.md %}).
   Kevin Lin, Sumant Guha, Joe Spaniac, and Andy Zheng.
