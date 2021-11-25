@@ -83,6 +83,10 @@ dd {
   margin-bottom: 0.75rem;
 }
 
+img {
+  max-width: 100%;
+}
+
 @media screen and (min-width: $width) {
   dl {
     display: grid;
