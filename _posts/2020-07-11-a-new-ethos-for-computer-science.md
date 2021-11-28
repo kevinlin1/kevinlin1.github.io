@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019
+title: A new ethos for computer science
 excerpt: >-
   A look back at the 2019 through 2020 academic year.
 ---
