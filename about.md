@@ -184,6 +184,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Campus Talks
 
+2021
+: CS for What and for Whom?
+
 2020
 : [Programming a Better Future]({% link _posts/2020-11-25-programming-a-better-future.md %}).
 
