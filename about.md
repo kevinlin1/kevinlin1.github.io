@@ -210,6 +210,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ## Advising
 
 2021
+: [**Leah Perlmutter**](https://homes.cs.washington.edu/~lrperlmu/)
 : **Aleks Jovčić**
 
 2020
