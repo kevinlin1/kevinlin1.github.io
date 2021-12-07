@@ -182,6 +182,12 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : What You Wish You Knew About Summer Instruction.
   Designing Computer Science Education, UC Berkeley.
 
+### Media
+
+2021
+: [S3xE1: Alternative Grading with Brett Wortzman and Kevin Lin](https://csedpodcast.org/blog/season3_episode1/).
+  The CS-Ed Podcast.
+
 ### Campus Talks
 
 2021
