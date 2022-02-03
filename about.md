@@ -33,6 +33,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 2019---
 : **Programming with Data Structures**\\
   <small>
+  [22sp](https://courses.cs.washington.edu/courses/cse143/22sp/) --
   [20au](https://courses.cs.washington.edu/courses/cse143/20au/) --
   [20sp](https://courses.cs.washington.edu/courses/cse143/20sp/)
   </small>
