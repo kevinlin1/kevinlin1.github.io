@@ -174,6 +174,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Invited Talks
 
+2022
+: CS Education for the Socially-Just Worlds We Need.
+  [CS Diversity Committee Webinar, Simon Fraser University](https://www.sfu.ca/computing/diversity-in-computing-science/activities/computer-science-diversity-committee-webinars.html).
+
 2021
 : CS Education for the Socially-Just Worlds We Need.
   TechEd Seminar, Princeton University.
