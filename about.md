@@ -190,9 +190,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ### Media
 
 2021
-: [S3xE2: Alternative grading, how?](https://csedpodcast.org/blog/season3_episode2/).
+: [S3xE2: Alternative grading, how?](https://csedpodcast.org/blog/season3_episode2/)
   The CS-Ed Podcast.
-: [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/).
+: [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)
   The CS-Ed Podcast.
 
 ### Campus Talks
