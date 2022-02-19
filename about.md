@@ -158,6 +158,13 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Kevin Lin and David DeLiema.
   Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 
+### Open Educational Resources
+
+2022
+: [Decision Trees for Text Classification in CS2]({% link _posts/2020-07-23-text-classifier.md %}).
+  Kevin Lin.
+  Assignment in *EngageCSEdu*.
+
 ### Non-Refereed Publications
 
 2021
