@@ -5,16 +5,8 @@ logo: "/assets/images/kevin.jpg"
 baseurl: ""
 url: "https://kevinl.info"
 permalink: /:categories/:title/
-exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "redirects.json"]
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "redirects.json"]
 author: *title
-
-buttons:
-  he/him:
-    - "https://www.mypronouns.org/he-him"
-  Schedule a meeting:
-    - "/meet/"
-  Availability:
-    - "/calendar/"
 
 plugins:
   - jekyll-feed
