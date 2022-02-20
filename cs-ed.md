@@ -5,7 +5,6 @@ header: *title
 redirect_from:
   - /teaching/
   - /research/
-  - /sigcse/
 ---
 
 Check out the Allen School [Computer Science Education](https://www.cs.washington.edu/academics/ugrad/current-students/career/cs-teaching) resource hub that describes how students can get involved in the school's educational efforts.
