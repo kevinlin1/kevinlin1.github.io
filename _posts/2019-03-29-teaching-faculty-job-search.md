@@ -7,8 +7,6 @@ redirect_from:
   - /recruiting/
 ---
 
-*For a long-form article on the faculty job search process and what it entails, see the [Microeconomics of the faculty job search]({% link _posts/2019-06-25-microeconomics-of-the-faculty-job-search.md %}).*
-
 I will be receiving an MS in Computer Science from UC Berkeley in May 2019 and teaching in the Paul G. Allen School of Computer Science & Engineering at the University of Washington in Fall 2019. Some of my friends and students were curious as to how I got here, so I wanted to talk a bit about the process and share my application and interview materials. These materials are all dated 2018.
 
 - [Cover letter](https://drive.google.com/open?id=1fWM9ZNEdC8digPhTVeuLpeCMII-aNWdE)

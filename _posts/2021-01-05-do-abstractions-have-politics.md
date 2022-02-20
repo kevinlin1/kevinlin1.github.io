@@ -12,7 +12,7 @@ excerpt: >-
 >
 > We argue for affordance analysis, a more critical algorithm analysis that centers an affordance account of value embedding. Drawing on critical methods from science and technology studies, philosophy of technology, and human-computer interaction, affordance analysis examines how the design of abstractions such as data structures and algorithms embody affordances, which in turn embody values with political consequences. We illustrate 5 case studies of how affordance analysis refutes social determination of technology, foregrounds the limitations of data abstractions, and implicates the design of algorithms in disproportionately distributing benefits and harms to particular social identities within the matrix of domination.
 
-**Affordance analysis** is an algorithm analysis that makes space for the rightful presence of critical counternarratives by centering design justice in software engineering. In my own data structures and algorithms courses, we apply a [comparative data structures]({% link _posts/2021-03-26-comparative-data-structures.md %}) approach and interleave sociotechnical applications for each abstraction.
+**Affordance analysis** is an algorithm analysis that makes space for the rightful presence of critical counternarratives by centering design justice in software engineering. In my own data structures and algorithms courses, we apply a comparative approach and interleave sociotechnical applications for each abstraction.
 
 1. Autocomplete data structures and algorithms for **search suggestions** and **DNA indexing**.
 1. Priority queue data structures for **content moderation** and **shortest paths**.

@@ -43,7 +43,6 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   </small>
 : **Data Structures and Algorithms**\\
   <small>
-  [Visualizations](https://drive.google.com/drive/folders/1hnJuzhpzKLG9uY61fIHe0AoIySA-Shhw?usp=sharing) --
   [22wi](https://courses.cs.washington.edu/courses/cse373/22wi/) --
   [21au](https://courses.cs.washington.edu/courses/cse373/21au/) --
   [21su](https://courses.cs.washington.edu/courses/cse373/21su/) --
@@ -123,7 +122,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 
 2021
-: [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link _posts/2020-08-23-nifty-web-apps.md %}).
+: [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link nifty-web-apps.md %}).
   Kevin Lin, Sumant Guha, Joe Spaniac, and Andy Zheng.
   Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 : [How Can We Make Office Hours Better?]({% link office-hours.md %})
@@ -161,7 +160,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ### Open Educational Resources
 
 2022
-: [Decision Trees for Text Classification in CS2]({% link _posts/2020-07-23-text-classifier.md %}).
+: [Decision Trees for Text Classification in CS2]({% link text-classifier.md %}).
   Kevin Lin.
   Assignment in *EngageCSEdu*.
 
@@ -210,18 +209,18 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : CS for What and for Whom?
 
 2020
-: [Programming a Better Future]({% link _posts/2020-11-25-programming-a-better-future.md %}).
+: Programming a Better Future.
 
 2019
 : Applying for Academic Positions and Postdoctoral Appointments.
 : EECS/CS Life from a Student Perspective.
 
 2018
-: [Introductory CS Courses at UC Berkeley](https://docs.google.com/presentation/d/1qQIxjFJ-5PvFntVaZ5hN9u5LecRXrZ_eJK5pf6KpCZ8/edit?usp=sharing).
+: Introductory CS Courses at UC Berkeley.
 : EECS/CS Life from a Student Perspective.
 
 2017
-: [How to Learn Computer Science]({% link _posts/2017-08-21-how-to-learn-cs.md %}).
+: How to Learn Computer Science.
 
 ## Advising
 
