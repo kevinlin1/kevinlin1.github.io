@@ -212,6 +212,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Campus Talks
 
+2022
+: Impact++ @ UW Lightning Talk: Education X Tech.
+
 2021
 : CS for What and for Whom?
 
