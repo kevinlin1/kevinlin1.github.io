@@ -1,6 +1,8 @@
-$dark: #444;
-$light: #888;
-$link: #7253ed;
+$black: #000;
+$dark: #333;
+$medium: #888;
+$light: #ccc;
+$white: #fff;
 $width: 680px;
 
 body {
@@ -33,11 +35,11 @@ nav {
 }
 
 a {
-  color: $link;
+  color: #0969da;
   text-decoration: none;
 
   &:hover {
-    color: $dark;
+    text-decoration: underline;
   }
 
   b,
@@ -75,7 +77,7 @@ pre {
 
 hr {
   border: 0;
-  border-bottom: 1px solid $light;
+  border-bottom: 1px solid $medium;
   margin: 2rem auto;
 }
 
@@ -103,6 +105,17 @@ img {
   dd {
     grid-column-start: 2;
     margin: 0;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: $black;
+    color: $light;
+  }
+
+  a {
+    color: #58a6ff;
   }
 }
 
