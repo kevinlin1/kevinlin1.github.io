@@ -77,7 +77,7 @@ pre {
 
 hr {
   border: 0;
-  border-bottom: 1px solid $medium;
+  border-bottom: 2px solid #eee;
   margin: 2rem auto;
 }
 
@@ -116,6 +116,10 @@ img {
 
   a {
     color: #58a6ff;
+  }
+
+  hr {
+    border-bottom: 2px solid $dark;
   }
 }
 
