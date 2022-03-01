@@ -4,9 +4,11 @@ title: &title SIGCSE
 header: *title
 ---
 
-I'm presenting a paper, open educational resource, panel, and poster at SIGCSE TS 2022.
+I'm presenting a paper, open educational resource, panel, and poster at SIGCSE TS 2022 focusing around **justice-centered approaches to CS in higher education**.
 
 ## [CS Education for the Socially-Just Worlds We Need]({% link _posts/2021-10-11-cs-education-for-the-socially-just-worlds-we-need.md %})
+
+My prior work at RESPECT 2021 proposed [**affordance analysis**]({% link _posts/2021-01-05-do-abstractions-have-politics.md %}) as a more critical algorithm analysis centering the limitations, implications, and unjust outcomes when we apply data structures and algorithms to "solve" problems. This work presents the broader context and end purposes for engaging critical perspectives in our university classrooms by engaging questions like, "What do we ultimately want students to take away from our CS education?" See the [CSE 373 Winter 2022](https://courses.cs.washington.edu/courses/cse373/22wi/) course website and [course project on GitHub](https://github.com/kevinlin1/huskymaps).
 
 {% comment %}
 
