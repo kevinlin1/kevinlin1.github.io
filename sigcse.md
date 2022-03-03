@@ -4,7 +4,7 @@ title: &title SIGCSE
 header: *title
 ---
 
-I'm presenting a paper, open educational resource, panel, and poster at SIGCSE TS 2022 focusing around **justice-centered approaches to CS in higher education**.
+I'm presenting a paper, open educational resource, panel, and poster at SIGCSE TS 2022 focusing around **justice-centered approaches to CS in higher education**. Several authors from the University of Washington are thinking about starting a community of practice: to receive more information in the coming weeks, add the [**Paper Session: Ethics: Proposals and Counternarratives**](https://sigcse2022.us2.pathable.com/meetings/virtual/67bWzJXJQM89raQuM) to your agenda.
 
 ## [CS Education for the Socially-Just Worlds We Need]({% link _posts/2021-10-11-cs-education-for-the-socially-just-worlds-we-need.md %})
 
