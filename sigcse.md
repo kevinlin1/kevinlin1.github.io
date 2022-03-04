@@ -18,4 +18,4 @@ My prior work at RESPECT 2021 proposed [**affordance analysis**]({% link _posts/
 
 Justice-centered approaches to CS education emphasize 3 features: the content of curriculum (centering ethics), the design of learning environments (centering identity), and the politics and purposes of CS education reform.[^1] We should consider not only ethics, but also identity and political vision in our work.
 
-[^1]: Sepehr Vakil. 2018. Ethics, Identity, and Political Vision: Toward a Justice-Centered Approach to Equity in Computer Science Education. https://doi.org/10.17763/1943-5045-88.1.26
+[^1]: Sepehr Vakil. 2018. Ethics, Identity, and Political Vision: Toward a Justice-Centered Approach to Equity in Computer Science Education. <https://doi.org/10.17763/1943-5045-88.1.26>
