@@ -13,3 +13,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+
+feed:
+  posts_limit: 1000
