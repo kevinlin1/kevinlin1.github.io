@@ -12,7 +12,7 @@ layout: default
     {% endif %}
     {% if page.date %}
     <small>
-      <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_string: "ordinal", "US" }}</time>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %d, %Y" }}</time>
     </small>
     {% endif %}
   </header>
