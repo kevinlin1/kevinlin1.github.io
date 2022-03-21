@@ -1,0 +1,89 @@
+---
+title: Feed
+canonical_url: https://kevinl.info/feed.xml
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:atom="http://www.w3.org/2005/Atom">
+  <xsl:strip-space elements="*"/>
+  <xsl:output method="html" version="1.0" encoding="UTF-8" indent="no"/>
+  <xsl:template match="atom:feed">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        {% seo %}
+        <link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;✨&lt;/text&gt;&lt;/svg&gt;"/>
+        <style>
+          {% capture include_to_scssify %}
+          {% include styles.scss %}
+          {% endcapture %}
+          {{ include_to_scssify | scssify }}
+        </style>
+      </head>
+      <body>
+        <header>
+          <nav>
+            <a href="{{ site.baseurl }}/">
+              <img alt="{{ site.title }}" src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" class="circle"></img>
+            </a>
+            {% assign pages = site.pages | where_exp: "page", "page.header != nil" | sort_natural: "header" %}
+            {% if pages %}
+            <ul>
+              {% for page in pages %}
+              <li>
+                <a href="{{ site.baseurl }}{{ page.url }}">{{ page.header }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </nav>
+        </header>
+        <main>
+          <header>
+            <h1>{{ page.title }}</h1>
+          </header>
+          <xsl:apply-templates select="atom:entry"/>
+        </main>
+        <footer>
+          <small>
+            {{ site.title }} &#169; {{ site.time | date: '%Y' }}
+            <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+            &#183; <a href="/feed.xml">Feed</a>
+          </small>
+        </footer>
+      </body>
+    </html>
+  </xsl:template>
+  <xsl:template match="atom:entry">
+    <article>
+      <header>
+        <h2>
+          <a>
+            <xsl:attribute name="href"><xsl:value-of select="atom:id"/></xsl:attribute>
+            <xsl:value-of select="atom:title"/>
+          </a>
+        </h2>
+        <p>
+          <xsl:value-of select="atom:summary"/>
+        </p>
+        <small>
+          <xsl:apply-templates select="atom:published"/>
+        </small>
+      </header>
+    </article>
+  </xsl:template>
+  <xsl:template match="atom:published">
+    <time>
+      <xsl:attribute name="datetime"><xsl:value-of select="."/></xsl:attribute>
+      <!-- month -->
+      <xsl:variable name="m" select="substring(., 6, 2)"/>
+      <xsl:value-of select="substring('JanFebMarAprMayJunJulAugSepOctNovDec', 3 * ($m - 1) + 1, 3)"/>
+      <xsl:text> </xsl:text>
+      <!-- day -->
+      <xsl:value-of select="substring(., 9, 2)"/>
+      <xsl:text>, </xsl:text>
+      <!-- year -->
+      <xsl:value-of select="substring(., 1, 4)"/>
+    </time>
+  </xsl:template>
+</xsl:stylesheet>
