@@ -192,6 +192,8 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 2022
 : CS Education for the Socially-Just Worlds We Need.
+  [Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/).
+: CS Education for the Socially-Just Worlds We Need.
   [CS Diversity Committee Webinar, Simon Fraser University](https://www.sfu.ca/computing/diversity-in-computing-science/activities/computer-science-diversity-committee-webinars.html).
 
 2021
