@@ -251,6 +251,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Service
 
+2023
+: **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
+  Birds-of-a-Feather Junior Co-Chair
+
 2022
 : **Communications of the ACM**\\
   Reviewer
