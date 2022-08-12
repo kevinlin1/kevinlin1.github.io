@@ -52,6 +52,8 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   </small>
 : **Data Structures and Algorithms**\\
   <small>
+  [23wi](https://courses.cs.washington.edu/courses/cse373/23wi/) --
+  [22au](https://courses.cs.washington.edu/courses/cse373/22au/) --
   [22wi](https://courses.cs.washington.edu/courses/cse373/22wi/) --
   [21au](https://courses.cs.washington.edu/courses/cse373/21au/) --
   [21su](https://courses.cs.washington.edu/courses/cse373/21su/) --
