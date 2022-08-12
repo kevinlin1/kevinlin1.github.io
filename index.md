@@ -61,6 +61,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   [20wi](https://courses.cs.washington.edu/courses/cse332/20wi/) --
   [19au](https://courses.cs.washington.edu/courses/cse373/19au/)
   </small>
+: **Equitable and Inclusive Computer Science Pedagogy**\\
+  <small>
+  [22au](https://canvas.uw.edu/courses/1579006)
+  </small>
 : **Designing a More Critical CS Education**\\
   <small>
   [21sp](https://canvas.uw.edu/courses/1475575) --
