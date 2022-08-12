@@ -70,8 +70,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   [21sp](https://canvas.uw.edu/courses/1475575) --
   21wi
   </small>
-: **Restorying Computing**\\
+: **Honors Seminar**\\
   <small>
+  22sp --
   [20au](https://courses.cs.washington.edu/courses/cse390ha/20au/)
   </small>
 
