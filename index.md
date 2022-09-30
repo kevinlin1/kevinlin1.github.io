@@ -191,7 +191,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 2019
 : *How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom*.
   Kevin Lin.
-  White paper prepared for the UC Berkeley EECS Department.
+  Paper prepared for the UC Berkeley EECS Department.
 : [From 40 to 400 to 1,400: Providing Formative Feedback in Large-Scale Courses]({% link _posts/2019-04-26-formative-feedback-in-intro-cs.md %}).
   Kevin Lin.
   Article in the *GSI Online Library: Teaching Effectiveness Award Essays*. Graduate Division, UC Berkeley.
