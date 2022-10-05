@@ -130,6 +130,11 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Conference Abstracts
 
+2023
+: Equitable Grading Best Practices.
+  Dan Garcia, Maria Camarena, Kevin Lin, and Jill Westerland.
+  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+
 2022
 : Approaches for Weaving Responsible Computing into Data Structures and Algorithms Courses.
   Kathi Fisler, Sorelle Friedler, Kevin Lin, and Suresh Venkatasubramanian.
