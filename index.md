@@ -251,6 +251,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Advising
 
+2022
+: **Sonia Fereidooni**
+
 2021
 : **Leah Perlmutter**
 : **Aleks Jovčić**
