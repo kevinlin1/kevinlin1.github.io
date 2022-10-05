@@ -204,6 +204,8 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ### Invited Talks
 
 2022
+: Teaching-Track Faculty Panel.
+  [CMU School of Computer Science Education Group](https://www.cs.cmu.edu/~bpr/scsedgrp/ttt2022.html).
 : CS Education for the Socially-Just Worlds We Need.
   [Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/).
 : CS Education for the Socially-Just Worlds We Need.
