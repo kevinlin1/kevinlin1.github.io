@@ -11,7 +11,7 @@ title: CS 61B
 
 - [Java Tutor][]
 - [VisuAlgo][]
-- [UCSF Visualizations][ucsf]
+- [David Galles Visualizations][david]
 - [PathFinding.js][pathfinding]
 
 I wrote the CS 61A [Studying Guide][] which has a few more tips for general problem-solving.
@@ -31,7 +31,7 @@ I wrote the CS 61A [Studying Guide][] which has a few more tips for general prob
 
 [java tutor]: http://www.pythontutor.com/java.html#mode=edit
 [visualgo]: https://visualgo.net/en
-[ucsf]: http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+[david]: http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 [pathfinding]: https://qiao.github.io/PathFinding.js/visual/
 [java gotchas]: java-gotchas
 [asymptotic analysis]: https://cs61bl.org/su16/materials/lab/lab07/lab07.html
