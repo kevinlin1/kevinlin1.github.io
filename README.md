@@ -235,6 +235,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Campus Talks
 
+2023
+: Computing Education Researcher Panel.
+: Racial Diversity in Tech Speaker Event.
+
 2022
 : Impact++ @ UW Lightning Talk: Education X Tech.
 
