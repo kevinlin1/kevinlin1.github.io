@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kevin Lin
+permalink: /:path/
 redirect_from:
   - /about/
   - /bio/
