@@ -135,7 +135,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : What You Wish You Knew About Summer Instruction.
   Designing Computer Science Education, UC Berkeley.
 
-## Publications and Talks
+## Publications
 
 2019
 : *[A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-a-berkeley-view-of-teaching-cs-at-scale.md %})*.
@@ -237,7 +237,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)
   The CS-Ed Podcast.
 
-### Campus Talks
+## Campus Talks
 
 2023
 : Computing Education Researcher Panel.
