@@ -130,6 +130,8 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 2021
 : CS Education for the Socially-Just Worlds We Need.
   TechEd Seminar, Princeton University.
+: [Centering Identity and Culture in Critical Computing]({% link _posts/2021-07-15-centering-identity-and-culture-in-critical-computing.md %}).
+  [Teaching Responsible Computing Summit 2021](https://foundation.mozilla.org/en/blog/teaching-responsible-computing-summit-2021/).
 : Justice-Centered CS Education.
   CS Education Seminar, Western Washington University.
 : What You Wish You Knew About Summer Instruction.
@@ -213,11 +215,6 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Assignment in *EngageCSEdu*.
 
 ### Non-Refereed Publications
-
-2021
-: [Centering Identity and Culture in Critical Computing]({% link _posts/2021-07-15-centering-identity-and-culture-in-critical-computing.md %}).
-  Kevin Lin.
-  Lightning talk in the *Teaching Responsible Computing Summit 2021*.
 
 2019
 : *How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom*.
