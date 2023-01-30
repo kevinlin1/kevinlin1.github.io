@@ -102,6 +102,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Distinctions
 
+2023
+: [Invited Speaker](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science), Stanford McCoy Family Center for Ethics in Society and the Stanford Institute
+for Human-Centered Artificial Intelligence.
+
 2022
 : [Designing Empirical Education Research Studies (DEERS) Participant](http://empiricalcsed.org/), University of Virginia.
 
