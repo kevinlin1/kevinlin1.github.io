@@ -102,10 +102,6 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Distinctions
 
-2023
-: [Invited Speaker](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science), Stanford McCoy Family Center for Ethics in Society and the Stanford Institute
-for Human-Centered Artificial Intelligence.
-
 2022
 : [Designing Empirical Education Research Studies (DEERS) Participant](http://empiricalcsed.org/), University of Virginia.
 
@@ -116,6 +112,28 @@ for Human-Centered Artificial Intelligence.
 : [EECS Distinguished Student Teaching Award](https://www2.eecs.berkeley.edu/Students/Awards/13/), UC Berkeley.
 : [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/), UC Berkeley.
 : [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/), UC Berkeley.
+
+## Invited Talks
+
+2023
+: Experiences Teaching Critical Comparative Data Structures and Algorithms.
+  [Embedded Ethics Conference: Strategies for Teaching Responsible Computing Within the Computer Science Curriculum](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science).
+
+2022
+: Teaching-Track Faculty Panel.
+  [CMU School of Computer Science Education Group](https://www.cs.cmu.edu/~bpr/scsedgrp/ttt2022.html).
+: CS Education for the Socially-Just Worlds We Need.
+  [Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/).
+: CS Education for the Socially-Just Worlds We Need.
+  [CS Diversity Committee Webinar, Simon Fraser University](https://www.sfu.ca/computing/diversity-in-computing-science/activities/computer-science-diversity-committee-webinars.html).
+
+2021
+: CS Education for the Socially-Just Worlds We Need.
+  TechEd Seminar, Princeton University.
+: Justice-Centered CS Education.
+  CS Education Seminar, Western Washington University.
+: What You Wish You Knew About Summer Instruction.
+  Designing Computer Science Education, UC Berkeley.
 
 ## Publications and Talks
 
@@ -208,28 +226,6 @@ for Human-Centered Artificial Intelligence.
 : [From 40 to 400 to 1,400: Providing Formative Feedback in Large-Scale Courses]({% link _posts/2019-04-26-formative-feedback-in-intro-cs.md %}).
   Kevin Lin.
   Article in the *GSI Online Library: Teaching Effectiveness Award Essays*. Graduate Division, UC Berkeley.
-
-### Invited Talks
-
-2023
-: Experiences Teaching Critical Comparative Data Structures and Algorithms.
-  [Embedded Ethics Conference: Strategies for Teaching Responsible Computing Within the Computer Science Curriculum](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science).
-
-2022
-: Teaching-Track Faculty Panel.
-  [CMU School of Computer Science Education Group](https://www.cs.cmu.edu/~bpr/scsedgrp/ttt2022.html).
-: CS Education for the Socially-Just Worlds We Need.
-  [Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/).
-: CS Education for the Socially-Just Worlds We Need.
-  [CS Diversity Committee Webinar, Simon Fraser University](https://www.sfu.ca/computing/diversity-in-computing-science/activities/computer-science-diversity-committee-webinars.html).
-
-2021
-: CS Education for the Socially-Just Worlds We Need.
-  TechEd Seminar, Princeton University.
-: Justice-Centered CS Education.
-  CS Education Seminar, Western Washington University.
-: What You Wish You Knew About Summer Instruction.
-  Designing Computer Science Education, UC Berkeley.
 
 ### Media
 
