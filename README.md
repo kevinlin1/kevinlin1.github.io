@@ -139,11 +139,6 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Publications
 
-2019
-: *[A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-a-berkeley-view-of-teaching-cs-at-scale.md %})*.
-  Kevin Lin.
-  MS technical report. EECS Department, UC Berkeley.
-
 ### Conference Papers
 
 2022
@@ -220,6 +215,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : *How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom*.
   Kevin Lin.
   Paper prepared for the UC Berkeley EECS Department.
+: *[A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-a-berkeley-view-of-teaching-cs-at-scale.md %})*.
+  Kevin Lin.
+  MS technical report. EECS Department, UC Berkeley.
 : [From 40 to 400 to 1,400: Providing Formative Feedback in Large-Scale Courses]({% link _posts/2019-04-26-formative-feedback-in-intro-cs.md %}).
   Kevin Lin.
   Article in the *GSI Online Library: Teaching Effectiveness Award Essays*. Graduate Division, UC Berkeley.
