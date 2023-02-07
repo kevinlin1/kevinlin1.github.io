@@ -285,6 +285,8 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Committee Member
 
 2022
+: **NCWIT Aspirations in Computing (AiC)**\\
+  Reviewer
 : **Communications of the ACM**\\
   Reviewer
 : **IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)**\\
