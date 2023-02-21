@@ -9,19 +9,21 @@ body {
   color: $dark;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   line-height: 1.75;
+  margin: 0;
   overflow-x: hidden;
-  padding: 0 1rem;
+  padding: 0 0.75rem;
 }
 
+article,
 footer,
 header,
 main {
   margin: 3rem auto;
   max-width: $width;
-}
 
-main header > * {
-  margin-bottom: 0.25rem;
+  &> * {
+    margin-bottom: 0.25rem;
+  }
 }
 
 nav {
@@ -57,7 +59,11 @@ h5,
 h6 {
   font-weight: normal;
   line-height: 1.25;
-  margin-top: 1.5em;
+  margin-top: 1.5rem;
+
+  &:first-of-type {
+    margin-top: 0.5rem;
+  }
 }
 
 ol,
@@ -87,6 +93,15 @@ dd {
 
 img {
   max-width: 100%;
+}
+
+.boxed {
+  border: 2px solid #eee;
+  padding: 0.75rem;
+}
+
+.circle {
+  border-radius: 50%
 }
 
 @media screen and (min-width: $width) {
@@ -121,8 +136,4 @@ img {
   hr {
     border-bottom: 2px solid $dark;
   }
-}
-
-.circle {
-  border-radius: 50%
 }
