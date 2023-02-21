@@ -8,6 +8,8 @@ permalink: /:categories/:title/
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "redirects.json"]
 author: *title
 
+featured: "CS Education for the Socially-Just Worlds We Need"
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
