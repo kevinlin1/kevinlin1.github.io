@@ -23,9 +23,3 @@ Research
 : To pursue independent research with me, read more about [Undergraduate Research](https://www.cs.washington.edu/academics/ugrad/enrichment/research) in the Allen School. Then, tell me what you're interested in working on.
 
 Are you a current or prospective **PhD student**? I do not formally advise Ph.D students, but there are plenty of other researchers in [ComputingEd@UW](https://computinged.uw.edu/) who'd love to get to know you. Amy Ko has published an overview of [Computing Education Research](https://faculty.washington.edu/ajko/cer) at UW and beyond.
-
-## Teaching Tea Parties
-
-Teaching tea parties are low-key hangouts for unwinding at the end of each week with the [ComputingEd@UW](https://computinged.uw.edu/) community. Drop by whenever you want to chat about teaching, catch up on life, share what you've been working on, or see our friendly faces! The format of these meetings is mostly unstructured, so feel free to join with your other work or food on the side, but don't expect to get much deep work done.
-
-To participate, ask me or an attendee to share the calendar invitation with you. Everyone in the University of Washington community is welcome!
