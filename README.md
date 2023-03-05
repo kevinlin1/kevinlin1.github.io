@@ -116,7 +116,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ## Invited Talks
 
 2023
-: Experiences Teaching Critical Comparative Data Structures and Algorithms.
+: [Experiences Teaching Critical Comparative Data Structures and Algorithms](https://docs.google.com/presentation/d/1fVqtYxWupi6zOWOjHGBH0CQOWlwi6p5fuwUFE06JUGg/edit?usp=sharing).
   [Embedded Ethics Conference: Strategies for Teaching Responsible Computing Within the Computer Science Curriculum](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science).
 : Experiences Teaching Critical Comparative Data Structures and Algorithms.
   Northwestern University Tech Ethics Mentors.
