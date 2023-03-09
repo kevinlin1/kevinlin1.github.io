@@ -23,8 +23,7 @@ layout: vendor/compress
         {% endif %}
       </nav>
     </header>
-    {% if site.featured and site.featured != page.title %}
-    {% assign featured = site.posts | where: "title", site.featured | first %}
+    {% assign featured = site.posts.first %}
     <article class="boxed">
       <h2><a href="{{ featured.url }}">{{ featured.title }}</a></h2>
       {% if featured.excerpt %}
@@ -36,7 +35,6 @@ layout: vendor/compress
         <time datetime="{{ featured.date | date_to_xmlschema }}">{{ featured.date | date: "%b %d, %Y" }}</time>
       </small>
     </article>
-    {% endif %}
     <main>
       {{ content }}
     </main>
