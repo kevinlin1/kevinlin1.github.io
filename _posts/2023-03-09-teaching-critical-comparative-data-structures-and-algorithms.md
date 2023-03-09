@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experiences Teaching Critical Comparative Data Structures and Algorithms
+title: Teaching Critical Comparative Data Structures and Algorithms
 excerpt: >-
   What do we have so far?
 ---

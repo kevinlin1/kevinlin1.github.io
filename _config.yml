@@ -8,7 +8,7 @@ permalink: /:categories/:title/
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "redirects.json"]
 author: *title
 
-featured: "Experiences Teaching Critical Comparative Data Structures and Algorithms"
+featured: "Teaching Critical Comparative Data Structures and Algorithms"
 
 plugins:
   - jekyll-feed
