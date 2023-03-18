@@ -282,7 +282,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : **IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)**\\
   Reviewer
 : **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
-  Birds-of-a-Feather Junior Co-Chair
+  Birds-of-a-Feather Junior Co-Chair, Student Research Competition Judge
 : **ACM SIGCSE Special Projects & Travel Grants**\\
   Committee Member
 
