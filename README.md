@@ -103,10 +103,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ## Distinctions
 
 2022
-: [Designing Empirical Education Research Studies (DEERS) Participant](http://empiricalcsed.org/), University of Virginia.
+: [Designing Empirical Education Research Studies (DEERS) Participant](http://empiricalcsed.org/).
 
 2021
-: [Cultural Competence in Computing (3C) Fellow](https://identity.cs.duke.edu/fellows.html), Duke University.
+: [Cultural Competence in Computing (3C) Fellow](https://identity.cs.duke.edu/fellows.html).
 
 2019
 : [EECS Distinguished Student Teaching Award](https://www2.eecs.berkeley.edu/Students/Awards/13/), UC Berkeley.
