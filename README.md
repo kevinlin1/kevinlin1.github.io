@@ -102,6 +102,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Distinctions
 
+2023
+: [Teach Access Faculty Grant](https://teachaccess.org/initiatives/faculty-grants/).
+
 2022
 : [Designing Empirical Education Research Studies (DEERS) Participant](http://empiricalcsed.org/).
 
