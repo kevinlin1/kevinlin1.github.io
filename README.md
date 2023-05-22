@@ -216,6 +216,11 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Non-Refereed Publications
 
+2023
+: Designing and Evaluating a Justice-Centered Intermediate Computing Course.
+  Anna Batra, Iris Zhou, Chongjiu Gao, Sonia Fereidooni, Yanbing Xiao, Suh Young Choi, Kevin Lin.
+  Poster in the *UW Undergraduate Research Symposium*.
+
 2019
 : *How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom*.
   Kevin Lin.
