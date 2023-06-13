@@ -26,6 +26,11 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Computer Science & Engineering\\
   <kevinl@cs.uw.edu>
 
+2023
+: **Visiting Assistant Professor**\\
+  University of California, San Diego\\
+  Halıcıoğlu Data Science Institute
+
 ## Education
 
 2019
@@ -76,6 +81,14 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   <small>
   22sp --
   [20au](https://courses.cs.washington.edu/courses/cse390ha/20au/)
+  </small>
+
+### University of California, San Diego
+
+2023
+: **Data Structures and Algorithms for Data Science**\\
+  <small>
+  [23su](https://dsc-courses.github.io/dsc30-2023-su/)
   </small>
 
 ### University of California, Berkeley
