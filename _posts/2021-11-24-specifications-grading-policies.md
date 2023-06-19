@@ -15,7 +15,7 @@ Specifications-based grading policies attempts to design grading to support grow
 
 ## Single-rating grading
 
-Under single-rating grading, most assignments in the course are assigned a single rating representing the quality of the work with respect to the assignment specifications. We replaced fine-grained point-based rubrics with a 4-level **E/S/N/U** ordinal scale: Exemplary / Satisfactory / Not yet / Unassessable. This policy was used in [CSE 143 Autumn 2020](https://courses.cs.washington.edu/courses/cse143/20au/about/#grading).
+Under single-rating grading, most assignments in the course are assigned a single rating representing the quality of the work with respect to the assignment specifications. We replaced fine-grained point-based rubrics with a 4-level **E/S/N/U** ordinal scale: Exemplary / Satisfactory / Not yet / Unassessable. This policy was used in a CS2 course, [CSE 143 Autumn 2020](https://courses.cs.washington.edu/courses/cse143/20au/about/#grading).
 
 **How is progress communicated?** Although we can represent this data in a learning management system as 3/2/1/0, the conversion to an interval scale implies that differences between each rating are similar when in reality they may be quite different depending on what information the rubrics intend to evaluate at each level. This system is relatively easy to adapt to single-number learning management systems because we can enter the 3/2/1/0 rating for each assignment as the grade. Final grades are calculated by exporting the grades, entering them into a spreadsheet, and then applying the specifications-based grading policy. The contribution of specifications-based grading is to not assume a weighted average of 3/2/1/0 values is the ideal way to assign grades---not only because of the interval scale conversion, but also because final grades (for the many purposes they might serve) might be better determined using a count of E/S/N/U ratings. Robert Talbert's [written a lot more about this](https://rtalbert.org/tag/mastery-grading/).
 
@@ -28,7 +28,7 @@ Multiple-rating grading takes the idea of E/S/N/U ratings but considers that lar
 - **Quality**. Does the code meet the code quality guidelines and documentation standards?
 - **Testing**. Do the unit tests ensure the correctness of the code across relevant inputs?
 
-This policy was used in [CSE 163 Spring 2021](https://courses.cs.washington.edu/courses/cse163/21sp/#grading).
+This policy was used in a CS2 course, [CSE 163 Spring 2021](https://courses.cs.washington.edu/courses/cse163/21sp/#grading).
 
 **How is progress communicated?** This is much trickier to represent in a learning management system because they often assume assignments only have a single score. One approach would be to apply the interval scale conversion and sum the result so that a single score is generated between 0 and 12, but this raises many new issues around interpretation of grades as well as the fact that this conversion is a one-way operation---we can't recover the original E/S/N/U grades for some scores like 6 because there are many ways for a student to have a scored a total of 6 "points" in this scale. An average of the score is similarly problematic.
 
@@ -50,7 +50,7 @@ Getting all of this multiple-rating data into Canvas is also tricky for programm
 
 Module completion grading is a variant of single-rating grading that organizes the grading policy around modules---collections of assignments or other work in the course. Rather than emphasizing each assignment's grade as an individual unit to be counted toward a student's final grade in the course, module completion grading emphasizes counting the modules completed to satisfaction. We still give grades for each assignment, but rather than use a 4-level E/S/N/U scale, I use a binary 1/0 scale. Receiving a 1 on all the work in a module signifies satisfactory completion.
 
-This policy is used in my CSE 373 courses, the latest of which will be [CSE 373 Winter 2022](https://courses.cs.washington.edu/courses/cse373/22wi/#deliberate-practice).
+This policy is used in an advanced data structures course, [CSE 373 Winter 2022](https://courses.cs.washington.edu/courses/cse373/22wi/#deliberate-practice).
 
 **How is progress communicated?** The binary 1/0 scale is a good fit for single-number learning management systems, so it's relatively easy to adapt. Modules can be communicated using any medium: it could be posted as a document, discussed in class, included in the syllabus, or presented using [Canvas modules](https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Modules/ta-p/6). Canvas provides robust features for modules, including the ability to [add requirements](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-requirements-to-a-module/ta-p/1131) that students must complete in order to pass a module. I use module requirements to codify the score requirements for assignments in a module, and as student work is graded, the module immediately updates to reflect their progress through the course.
 
