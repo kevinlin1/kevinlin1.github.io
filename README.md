@@ -258,7 +258,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)
   The CS-Ed Podcast.
 
-## Campus Talks
+## Department Talks
 
 2023
 : Computing Education Researcher Panel.
