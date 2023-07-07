@@ -131,6 +131,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ## Invited Talks
 
+2024
+: Equitable Grading. [Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/).
+
 2023
 : [Experiences Teaching Critical Comparative Data Structures and Algorithms]({% link _posts/2023-03-09-teaching-critical-comparative-data-structures-and-algorithms.md %}).
   [Embedded Ethics Conference: Strategies for Teaching Responsible Computing Within the Computer Science Curriculum](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science).
