@@ -54,11 +54,15 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   </small>
 : Intermediate Data Programming\\
   <small>
+  [24sp](https://courses.cs.washington.edu/courses/cse163/24sp/) --
+  [24wi](https://courses.cs.washington.edu/courses/cse163/24wi/) --
   [23sp](https://courses.cs.washington.edu/courses/cse163/23sp/) --
   [21sp](https://courses.cs.washington.edu/courses/cse163/21sp/)
   </small>
 : Data Structures and Algorithms\\
   <small>
+  [24sp](https://courses.cs.washington.edu/courses/cse373/24sp/) --
+  [23au](https://courses.cs.washington.edu/courses/cse373/23au/) --
   [23wi](https://courses.cs.washington.edu/courses/cse373/23wi/) --
   [22au](https://courses.cs.washington.edu/courses/cse373/22au/) --
   [22wi](https://courses.cs.washington.edu/courses/cse373/22wi/) --
