@@ -21,24 +21,24 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ---
 
 2019---
-: **Assistant Teaching Professor**\\
+: Assistant Teaching Professor\\
   University of Washington\\
   Computer Science & Engineering\\
   <kevinl@cs.uw.edu>
 
 2023
-: **Visiting Assistant Professor**\\
+: Visiting Assistant Professor\\
   University of California, San Diego\\
   Halıcıoğlu Data Science Institute
 
 ## Education
 
 2019
-: **MS, Computer Science**\\
+: MS, Computer Science\\
   University of California, Berkeley
 
 2018
-: **BA, Computer Science and Cognitive Science**\\
+: BA, Computer Science and Cognitive Science\\
   University of California, Berkeley
 
 ## Teaching
@@ -46,18 +46,18 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ### University of Washington
 
 2019---
-: **Computer Programming II**\\
+: Computer Programming II\\
   <small>
   [22sp](https://courses.cs.washington.edu/courses/cse143/22sp/) --
   [20au](https://courses.cs.washington.edu/courses/cse143/20au/) --
   [20sp](https://courses.cs.washington.edu/courses/cse143/20sp/)
   </small>
-: **Intermediate Data Programming**\\
+: Intermediate Data Programming\\
   <small>
   [23sp](https://courses.cs.washington.edu/courses/cse163/23sp/) --
   [21sp](https://courses.cs.washington.edu/courses/cse163/21sp/)
   </small>
-: **Data Structures and Algorithms**\\
+: Data Structures and Algorithms\\
   <small>
   [23wi](https://courses.cs.washington.edu/courses/cse373/23wi/) --
   [22au](https://courses.cs.washington.edu/courses/cse373/22au/) --
@@ -68,16 +68,16 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   [20wi](https://courses.cs.washington.edu/courses/cse332/20wi/) --
   [19au](https://courses.cs.washington.edu/courses/cse373/19au/)
   </small>
-: **Equitable and Inclusive Computer Science Pedagogy**\\
+: Equitable and Inclusive Computer Science Pedagogy\\
   <small>
   [22au](https://canvas.uw.edu/courses/1579006)
   </small>
-: **Designing a More Critical CS Education**\\
+: Designing a More Critical CS Education\\
   <small>
   [21sp](https://canvas.uw.edu/courses/1475575) --
   21wi
   </small>
-: **Honors Seminar**\\
+: Honors Seminar\\
   <small>
   22sp --
   [20au](https://courses.cs.washington.edu/courses/cse390ha/20au/)
@@ -86,7 +86,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ### University of California, San Diego
 
 2023
-: **Data Structures and Algorithms for Data Science**\\
+: Data Structures and Algorithms for Data Science\\
   <small>
   [23su](https://dsc-courses.github.io/dsc30-2023-su/)
   </small>
@@ -94,21 +94,21 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ### University of California, Berkeley
 
 2016--2018
-: **Structure and Interpretation of Computer Programs**\\
+: Structure and Interpretation of Computer Programs\\
   <small>
   [fa17](https://inst.eecs.berkeley.edu/~cs61a/fa17/) (Head TA) --
   [su17](https://su17.cs61a.org/) --
   [fa16](https://inst.eecs.berkeley.edu/~cs61a/fa16/) (TA) --
   [sp16](https://inst.eecs.berkeley.edu/~cs61a/sp16/) (Tutor)
   </small>
-: **Data Structures**\\
+: Data Structures\\
   <small>
   [su18](https://cs61bl.org/su18/) --
   [sp18](https://sp18.datastructur.es/) (Head TA) --
   [sp17](https://datastructur.es/sp17/) (Head TA) --
   [su16](https://cs61bl.org/su16/) (TA)
   </small>
-: **Great Ideas in Computer Architecture**\\
+: Great Ideas in Computer Architecture\\
   <small>
   [fa18](https://inst.eecs.berkeley.edu/~cs61c/fa18/) (Head TA)
   </small>
