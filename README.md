@@ -302,35 +302,67 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ## Service
 
 2023
-: **EngageCSEdu**\\
+: EngageCSEdu\\
+  <small>
   Reviewer
-: **NCWIT Aspirations in Computing (AiC)**\\
+  </small>
+: NCWIT Aspirations in Computing (AiC)\\
+  <small>
   Reviewer
-: **IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)**\\
+  </small>
+: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
+  <small>
   Reviewer
-: **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
-  Birds-of-a-Feather Junior Co-Chair, Student Research Competition Judge
-: **ACM SIGCSE Special Projects & Travel Grants**\\
+  </small>
+: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+  <small>
+  Birds-of-a-Feather Junior Co-Chair --
+  Student Research Competition Judge
+  </small>
+: ACM SIGCSE Special Projects & Travel Grants\\
+  <small>
   Committee Member
+  </small>
 
 2022
-: **NCWIT Aspirations in Computing (AiC)**\\
+: NCWIT Aspirations in Computing (AiC)\\
+  <small>
   Reviewer
-: **Communications of the ACM**\\
+  </small>
+: Communications of the ACM\\
+  <small>
   Reviewer
-: **IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)**\\
-  Zoom Chair, Reviewer
-: **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
-  Paper Session Chair, Reviewer
+  </small>
+: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
+  <small>
+  Zoom Chair --
+  Reviewer
+  </small>
+: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+  <small>
+  Paper Session Chair --
+  Reviewer
+  </small>
 
 2021
-: **IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)**\\
+: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
+  <small>
   Reviewer
-: **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
-  Paper Session Chair, Reviewer, Poster Judge
+  </small>
+: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+  <small>
+  Paper Session Chair --
+  Reviewer --
+  Poster Judge
+  </small>
 
 2020
-: **The CS-Ed Podcast**\\
+: The CS-Ed Podcast\\
+  <small>
   Transcript Editor
-: **ACM Technical Symposium on Computer Science Education (SIGCSE)**\\
-  Paper Session Chair, Reviewer
+  </small>
+: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+  <small>
+  Paper Session Chair --
+  Reviewer
+  </small>
