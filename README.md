@@ -287,18 +287,17 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ## Advising
 
 2022
-: **Sonia Fereidooni**
+: Sonia Fereidooni
 
 2021
-: **Leah Perlmutter**
-: **Aleks Jovčić**
+: Leah Perlmutter
+: Aleks Jovčić
 
 2020
-: **Nathan Chen**
+: Nathan Chen
 
 2017
-: **Sarah Jin**\\
-  Stanford Teacher Education Program (MA, Education)
+: Sarah Jin
 
 ## Service
 
