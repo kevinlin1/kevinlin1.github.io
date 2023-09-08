@@ -38,7 +38,9 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   University of California, Berkeley
 
 2018
-: BA, Computer Science and Cognitive Science\\
+: BA, Computer Science\\
+  University of California, Berkeley
+: BA, Cognitive Science\\
   University of California, Berkeley
 
 ## Teaching
