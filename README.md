@@ -262,6 +262,22 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 : [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)
   The CS-Ed Podcast.
 
+## Mentoring
+
+2023
+: Anna Batra (UW BA).
+: Iris Zhou (UW BA).
+
+2022
+: Sonia Fereidooni (UW BA) to UW BS/MS.
+
+2021
+: Leah Perlmutter (UW PhD) to Grinnell College Assistant Professor.
+: Aleks Jovčić (UW BA) to Lakeside School CS Teacher.
+
+2017
+: Sarah Jin (UC Berkeley BA) to Stanford Teacher Education Program.
+
 ## Department Talks
 
 2023
@@ -287,21 +303,6 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 2017
 : How to Learn Computer Science.
-
-## Advising
-
-2022
-: Sonia Fereidooni
-
-2021
-: Leah Perlmutter
-: Aleks Jovčić
-
-2020
-: Nathan Chen
-
-2017
-: Sarah Jin
 
 ## Service
 
