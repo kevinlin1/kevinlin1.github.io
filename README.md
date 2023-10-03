@@ -168,6 +168,11 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 ### Conference Papers
 
+2024
+: "It Can Relate to Real Lives": Attitudes and Expectations in Justice-Centered Data Structures & Algorithms for Non-Majors.
+  Anna Batra, Iris Zhou, Suh Young Choi, Chongjiu Gao, Yanbing Xiao, Sonia Fereidooni, Kevin Lin.
+  Experience Reports and Tools paper in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+
 2022
 : [CS Education for the Socially-Just Worlds We Need: The Case for Justice-Centered Approaches to CS in Higher Education]({% link _posts/2021-10-11-cs-education-for-the-socially-just-worlds-we-need.md %}).
   Kevin Lin.
