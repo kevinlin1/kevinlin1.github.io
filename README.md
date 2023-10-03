@@ -176,7 +176,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 2022
 : [CS Education for the Socially-Just Worlds We Need: The Case for Justice-Centered Approaches to CS in Higher Education]({% link _posts/2021-10-11-cs-education-for-the-socially-just-worlds-we-need.md %}).
   Kevin Lin.
-  Position paper in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+  Position and Curricula Initiative paper in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 
 2021
 : [Do Abstractions Have Politics? Toward a More Critical Algorithm Analysis]({% link _posts/2021-01-05-do-abstractions-have-politics.md %}).
