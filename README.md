@@ -139,6 +139,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 
 2024
 : Equitable Grading and Ecosystems for More Caring Communities. [Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/).
+: Empowering Students Through Our Teaching Keynote Panel. [UW Teaching & Learning Symposium](https://teaching.washington.edu/learn/teaching-and-learning-symposium/).
 
 2023
 : [Experiences Teaching Critical Comparative Data Structures and Algorithms]({% link _posts/2023-03-09-teaching-critical-comparative-data-structures-and-algorithms.md %}).
