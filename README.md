@@ -320,6 +320,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Birds-of-a-Feather Senior Co-Chair --
   Reviewer
   </small>
+: ACM SIGCSE Special Projects\\
+  <small>
+  Committee Member
+  </small>
 
 2023
 : EngageCSEdu\\
@@ -339,7 +343,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
   Birds-of-a-Feather Junior Co-Chair --
   Student Research Competition Judge
   </small>
-: ACM SIGCSE Special Projects & Travel Grants\\
+: ACM SIGCSE Special Projects\\
   <small>
   Committee Member
   </small>
