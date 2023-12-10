@@ -13,7 +13,7 @@ Are you a current or prospective **UW undergrad or CSE BS/MS student**?
 
 Teaching
 : Take [CSE 492T: Equitable and Inclusive Computer Science Pedagogy](https://courses.cs.washington.edu/courses/cse492t/)!
-: To teach a CSE course with me, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address the following points in your personal statement. It doesn't need to be particularly long. I'm interested in hearing what you value as a teacher.
+: To teach a CSE course with me, complete a [CSE TA Application](https://ta.cs.washington.edu/apply/) and address these two questions in your personal statement.
   - Describe what you think is the most important role of a teaching assistant.
   - Analyze a school experience you found particularly effective or ineffective.
 
