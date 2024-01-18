@@ -317,7 +317,7 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 2024
 : Center for Learning, Computing, and Imagination (LCI)\\
   <small>
-  Director
+  Co-Director
   </small>
 : ACM Technical Symposium on Computer Science Education (SIGCSE)\\
   <small>
