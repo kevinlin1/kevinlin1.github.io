@@ -315,6 +315,10 @@ Kevin Lin ([*he/him*](https://www.mypronouns.org/he-him)) is an Assistant Teachi
 ## Service
 
 2024
+: ACM Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
+  <small>
+  Reviewer
+  </small>
 : Center for Learning, Computing, and Imagination (LCI)\\
   <small>
   Co-Director
