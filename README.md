@@ -293,6 +293,10 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ## Department Talks
 
+2024
+: ACE TA Panel.
+: COM<sup>2</sup> Roundtable Career Exploration Gala.
+
 2023
 : Computing Education Researcher Panel.
 : Racial Diversity in Tech Speaker Event.
