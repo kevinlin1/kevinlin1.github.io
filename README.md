@@ -245,7 +245,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ### Non-Refereed Publications
 
 2024
-: An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers.
+: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Reframing the Dialogue between Educators, Students, and Employers.
   Kevin Lin.
   Lightning talk in the *3C Fellows Spotlight*.
 
@@ -294,6 +294,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Department Talks
 
 2024
+: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}).
 : ACE TA Panel.
 : COM<sup>2</sup> Roundtable Career Exploration Gala.
 
