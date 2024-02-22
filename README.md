@@ -138,7 +138,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Invited Talks
 
 2024
-: Teaching Contentious Issues in the Classroom.[3C Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development.
+: Teaching Contentious Issues in the Classroom. [3C Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development.
 : Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities. [Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/).
 : Empowering Students Through Our Teaching. [UW Teaching & Learning Symposium](https://teaching.washington.edu/learn/teaching-and-learning-symposium/).
 
