@@ -173,7 +173,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ### Conference Papers
 
 2024
-: "It Can Relate to Real Lives": Attitudes and Expectations in Justice-Centered Data Structures & Algorithms for Non-Majors.
+: ["It Can Relate to Real Lives": Attitudes and Expectations in Justice-Centered Data Structures & Algorithms for Non-Majors]({% link _posts/2024-03-18-it-can-relate-to-real-lives.md %}).
   Anna Batra, Iris Zhou, Suh Young Choi, Chongjiu Gao, Yanbing Xiao, Sonia Fereidooni, Kevin Lin.
   Experience Reports and Tools paper in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
 
