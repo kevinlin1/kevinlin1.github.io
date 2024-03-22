@@ -121,6 +121,9 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ## Distinctions
 
+2024
+: SIGCSE TS 2024 Outstanding Reviewer Award.
+
 2023
 : [Teach Access Faculty Grant](https://teachaccess.org/initiatives/faculty-grants/).
 
