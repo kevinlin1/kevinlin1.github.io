@@ -337,7 +337,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 2025
 : ACM Technical Symposium on Computer Science Education (SIGCSE)\\
   <small>
-  Workshops Junior Co-Chair
+  Tutorials Junior Co-Chair
   </small>
 
 2024
