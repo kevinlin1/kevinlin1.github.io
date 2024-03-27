@@ -342,6 +342,10 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 
 2024
+: ACM Journal on Responsible Computing\\
+  <small>
+  Reviewer
+  </small>
 : ACM Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
   <small>
   Reviewer
