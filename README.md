@@ -147,12 +147,12 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   [Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/).
 : Empowering Students Through Our Teaching Panel.
   [UW Teaching & Learning Symposium](https://teaching.washington.edu/learn/teaching-and-learning-symposium/).
+: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts.
+  [UC Berkeley ACE Lab](https://acelab.berkeley.edu/).
 : [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts​.
   [Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/).
 : [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts​.
   Olin College Community Research Seminar.
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts​.
-  [UC Berkeley ACE Lab](https://acelab.berkeley.edu/).
 : [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts​.
   [UIUC Computing Education Research Group](https://publish.illinois.edu/computingedresearch/).
 
