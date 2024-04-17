@@ -56,6 +56,8 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 : Intermediate Data Programming\\
   <small>
+  [25sp](https://courses.cs.washington.edu/courses/cse163/25sp/) --
+  [25wi](https://courses.cs.washington.edu/courses/cse163/25wi/) --
   [24sp](https://courses.cs.washington.edu/courses/cse163/24sp/) --
   [24wi](https://courses.cs.washington.edu/courses/cse163/24wi/) --
   [23sp](https://courses.cs.washington.edu/courses/cse163/23sp/) --
@@ -63,6 +65,8 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 : Data Structures and Algorithms\\
   <small>
+  [25sp](https://courses.cs.washington.edu/courses/cse373/25sp/) --
+  [24au](https://courses.cs.washington.edu/courses/cse373/24au/) --
   [24sp](https://courses.cs.washington.edu/courses/cse373/24sp/) --
   [23au](https://courses.cs.washington.edu/courses/cse373/23au/) --
   [23wi](https://courses.cs.washington.edu/courses/cse373/23wi/) --
@@ -73,6 +77,10 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   [21wi](https://courses.cs.washington.edu/courses/cse373/21wi/) --
   [20wi](https://courses.cs.washington.edu/courses/cse332/20wi/) --
   [19au](https://courses.cs.washington.edu/courses/cse373/19au/)
+  </small>
+: System and Software Tools\\
+  <small>
+  [25wi](https://courses.cs.washington.edu/courses/cse391/25wi/)
   </small>
 : Equitable and Inclusive Computer Science Pedagogy\\
   <small>
