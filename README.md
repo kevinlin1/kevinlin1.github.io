@@ -130,21 +130,21 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Distinctions
 
 2024
-: SIGCSE TS 2024 Outstanding Reviewer Award.
+: SIGCSE TS 2024 Outstanding Reviewer Award
 
 2023
-: [Teach Access Faculty Grant](https://teachaccess.org/initiatives/faculty-grants/).
+: [Teach Access Faculty Grant](https://teachaccess.org/initiatives/faculty-grants/)
 
 2022
-: [Designing Empirical Education Research Studies Participant](http://empiricalcsed.org/).
+: [Designing Empirical Education Research Studies Participant](http://empiricalcsed.org/)
 
 2021
-: [Cultural Competence in Computing Fellow](https://identity.cs.duke.edu/fellows.html).
+: [Cultural Competence in Computing Fellow](https://identity.cs.duke.edu/fellows.html)
 
 2019
-: [EECS Distinguished Student Teaching Award](https://www2.eecs.berkeley.edu/Students/Awards/13/), UC Berkeley.
-: [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/), UC Berkeley.
-: [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/), UC Berkeley.
+: [EECS Distinguished Student Teaching Award](https://www2.eecs.berkeley.edu/Students/Awards/13/)
+: [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/)
+: [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/)
 
 ## Invited Talks
 
