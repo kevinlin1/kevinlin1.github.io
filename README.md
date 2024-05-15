@@ -342,14 +342,14 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ### Media
 
 2022
-: [S3xE2: Alternative grading, how?](https://csedpodcast.org/blog/season3_episode2/)\\
+: [Alternative grading, how?](https://csedpodcast.org/blog/season3_episode2/)\\
   <small>
   Brett Wortzman, Kevin Lin, and Kristin Stephens-Martinez\\
   *The CS-Ed Podcast*
   </small>
 
 2021
-: [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)\\
+: [Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)\\
   <small>
   Brett Wortzman, Kevin Lin, and Kristin Stephens-Martinez\\
   *The CS-Ed Podcast*
