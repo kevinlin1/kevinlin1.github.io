@@ -136,10 +136,10 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : [Teach Access Faculty Grant](https://teachaccess.org/initiatives/faculty-grants/).
 
 2022
-: [Designing Empirical Education Research Studies (DEERS) Participant](http://empiricalcsed.org/).
+: [Designing Empirical Education Research Studies Participant](http://empiricalcsed.org/).
 
 2021
-: [Cultural Competence in Computing (3C) Fellow](https://identity.cs.duke.edu/fellows.html).
+: [Cultural Competence in Computing Fellow](https://identity.cs.duke.edu/fellows.html).
 
 2019
 : [EECS Distinguished Student Teaching Award](https://www2.eecs.berkeley.edu/Students/Awards/13/), UC Berkeley.
@@ -155,7 +155,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   <small>[3C Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development</small>
 : [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% link _posts/2024-05-11-alternative-grading.md %})\\
   <small>[Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/)</small>
-: Empowering Students Through Our Teaching (Panel)\\
+: Empowering Students Through Our Teaching\\
   <small>[UW Teaching & Learning Symposium](https://teaching.washington.edu/learn/teaching-and-learning-symposium/)</small>
 : [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
   <small>[UC Berkeley ACE Lab](https://acelab.berkeley.edu/)</small>
@@ -198,21 +198,21 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : ["It Can Relate to Real Lives": Attitudes and Expectations in Justice-Centered Data Structures & Algorithms for Non-Majors]({% link _posts/2024-03-18-it-can-relate-to-real-lives.md %})\\
   <small>
   Anna Batra, Iris Zhou, Suh Young Choi, Chongjiu Gao, Yanbing Xiao, Sonia Fereidooni, Kevin Lin\\
-  Experience Reports and Tools paper in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Experience Reports and Tools paper in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
 2022
 : [CS Education for the Socially-Just Worlds We Need: The Case for Justice-Centered Approaches to CS in Higher Education]({% link _posts/2021-10-11-cs-education-for-the-socially-just-worlds-we-need.md %})\\
   <small>
   Kevin Lin\\
-  Position and Curricula Initiative in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Position and Curricula Initiative in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
 2021
 : [Do Abstractions Have Politics? Toward a More Critical Algorithm Analysis]({% link _posts/2021-01-05-do-abstractions-have-politics.md %})\\
   <small>
   Kevin Lin\\
-  Position paper in the *IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)*
+  Position paper in the *IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology*
   </small>
 
 ### Conference Abstracts
@@ -221,36 +221,36 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : Equitable Grading Best Practices\\
   <small>
   Dan Garcia, Maria Camarena, Kevin Lin, and Jill Westerland\\
-  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Panel in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
 2022
 : Approaches for Weaving Responsible Computing into Data Structures and Algorithms Courses\\
   <small>
   Kathi Fisler, Sorelle Friedler, Kevin Lin, and Suresh Venkatasubramanian\\
-  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Panel in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : Reading Between the Lines: Student Experiences of Resubmission in an Introductory CS Course\\
   <small>
   Leah Perlmutter, Jayne Everson, Ken Yasuhara, Brett Wortzman, and Kevin Lin\\
-  Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Poster in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
 2021
 : [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link nifty-web-apps.md %})\\
   <small>
   Kevin Lin, Sumant Guha, Joe Spaniac, and Andy Zheng\\
-  Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Special session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : [How Can We Make Office Hours Better?]({% link office-hours.md %})\\
   <small>
   Kevin Lin, Kristin Stephens-Martinez, and Brian Railing\\
-  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %})\\
   <small>
   Kevin Lin, Lina Battestilli, and Michael Ball\\
-  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : [Implementation of Mastery Grading Toward Rightful Presence]({% link _posts/2020-12-22-implementation-of-mastery-grading-toward-rightful-presence.md %})\\
   <small>
@@ -262,34 +262,34 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : [It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% link _posts/2019-08-29-youre-spamming-the-autograder.md %})\\
   <small>
   Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii, and Ursula Wolz\\
-  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Panel in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : Perspectives on Allyship in Academia\\
   <small>
   Jamie Payton, Adam Blank, Christian Murphy, Melissa Hovik, Kevin Lin, Angela Kwon, and Lara McConnaughey\\
-  Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Special session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : [Transitioning From Peer Instruction to POGIL with Guided Lecture Notes]({% link _posts/2020-03-11-from-peer-instruction-to-pogil.md %})\\
   <small>
   Kevin Lin\\
-  Lightning talk in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Lightning talk in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : How Can We Make Office Hours Better?\\
   <small>
   Kevin Lin and Brian Railing\\
-  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
 2019
 : [Near-Peer Student Mentors: Creating Scalable Learning Experiences in Large Lecture Courses]({% link _posts/2019-03-22-near-peer-student-mentors.md %})\\
   <small>
   Kevin Lin\\
-  Lightning talk in the *Consortium for Computing Sciences in Colleges Southwestern Region (CCSC-SW)*
+  Lightning talk in the *Consortium for Computing Sciences in Colleges Southwestern Region*
   </small>
 : [Subgoals, Problem Solving Phases, and Sources of Knowledge: A Complex Mangle]({% link _posts/2019-02-28-subgoals-problem-solving-phases-and-sources-of-knowledge.md %})\\
   <small>
   Kevin Lin and David DeLiema\\
-  Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  Poster in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
 ### Open Educational Resources
@@ -307,7 +307,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
   <small>
   Kevin Lin and Alannah Oleson\\
-  Article in the *2024 Teaching & Learning Symposium*
+  *2024 Teaching & Learning Symposium*
   </small>
 : [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
   <small>
@@ -336,7 +336,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : [From 40 to 400 to 1,400: Providing Formative Feedback in Large-Scale Courses]({% link _posts/2019-04-26-formative-feedback-in-intro-cs.md %})\\
   <small>
   Kevin Lin\\
-  Article in the *GSI Online Library: Teaching Effectiveness Award Essays* for the Graduate Division, UC Berkeley
+  *GSI Online Library: Teaching Effectiveness Award Essays* for the Graduate Division, UC Berkeley
   </small>
 
 ### Media
@@ -349,7 +349,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 
 2021
-: [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)
+: [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)\\
   <small>
   Brett Wortzman, Kevin Lin, and Kristin Stephens-Martinez\\
   *The CS-Ed Podcast*
@@ -413,7 +413,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Service
 
 2025
-: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+: ACM Technical Symposium on Computer Science Education\\
   <small>
   Tutorials Junior Co-Chair
   </small>
@@ -423,15 +423,15 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   <small>
   Reviewer
   </small>
-: ACM Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
+: ACM Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology\\
   <small>
   Reviewer
   </small>
-: Center for Learning, Computing, and Imagination (LCI)\\
+: Center for Learning, Computing, and Imagination\\
   <small>
   Co-Director
   </small>
-: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+: ACM Technical Symposium on Computer Science Education\\
   <small>
   Birds-of-a-Feather Senior Co-Chair --
   Reviewer
@@ -446,15 +446,15 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   <small>
   Reviewer
   </small>
-: NCWIT Aspirations in Computing (AiC)\\
+: NCWIT Aspirations in Computing\\
   <small>
   Reviewer
   </small>
-: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
+: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology\\
   <small>
   Reviewer
   </small>
-: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+: ACM Technical Symposium on Computer Science Education\\
   <small>
   Birds-of-a-Feather Junior Co-Chair --
   Student Research Competition Judge
@@ -465,7 +465,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 
 2022
-: NCWIT Aspirations in Computing (AiC)\\
+: NCWIT Aspirations in Computing\\
   <small>
   Reviewer
   </small>
@@ -473,23 +473,23 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   <small>
   Reviewer
   </small>
-: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
+: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology\\
   <small>
   Zoom Chair --
   Reviewer
   </small>
-: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+: ACM Technical Symposium on Computer Science Education\\
   <small>
   Paper Session Chair --
   Reviewer
   </small>
 
 2021
-: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)\\
+: IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology\\
   <small>
   Reviewer
   </small>
-: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+: ACM Technical Symposium on Computer Science Education\\
   <small>
   Paper Session Chair --
   Reviewer --
@@ -501,7 +501,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   <small>
   Transcript Editor
   </small>
-: ACM Technical Symposium on Computer Science Education (SIGCSE)\\
+: ACM Technical Symposium on Computer Science Education\\
   <small>
   Paper Session Chair --
   Reviewer
