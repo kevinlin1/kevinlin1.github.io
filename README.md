@@ -306,18 +306,24 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Mentoring
 
 2023
-: Anna Batra (UW BA).
-: Iris Zhou (UW BA).
+: Anna Batra\\
+  <small>From UW MS in Computational Linguistics to Cascadia College Adjunct Faculty in Computer Science</small>
+: Iris Zhou\\
+  <small>From UW MA in Mathematics to UC San Diego MS in Computer Science & Engineering</small>
 
 2022
-: Sonia Fereidooni (UW BA) to UW BS/MS.
+: Sonia Fereidooni\\
+  <small>From UW BS in Computer Science to UW BS/MS in Computer Science</small>
 
 2021
-: Leah Perlmutter (UW PhD) to Grinnell College Assistant Professor.
-: Aleks Jovčić (UW BA) to Lakeside School CS Teacher.
+: Leah Perlmutter\\
+  <small>From UW PhD in Computer Science to Grinnell College Assistant Professor</small>
+: Aleks Jovčić\\
+  <small>From UW BS in Computer Science to Lakeside School CS Teacher</small>
 
 2017
-: Sarah Jin (UC Berkeley BA) to Stanford Teacher Education Program.
+: Sarah Jin\\
+  <small>From UC Berkeley BA in Computer Science to Stanford Teacher Education Program</small>
 
 ## Department Talks
 
