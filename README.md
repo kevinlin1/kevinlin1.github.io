@@ -152,7 +152,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
   <small>[Illinois Computer Science Summer Teaching Workshop](https://teaching-workshop.cs.illinois.edu/)</small>
 : Teaching Contentious Issues in the Classroom\\
-  <small>[3C Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development</small>
+  <small>[Cultural Competence in Computing Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development</small>
 : [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% link _posts/2024-05-11-alternative-grading.md %})\\
   <small>[Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/)</small>
 : Empowering Students Through Our Teaching\\
@@ -168,7 +168,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 2023
 : [Experiences Teaching Critical Comparative Data Structures and Algorithms]({% link _posts/2023-03-09-teaching-critical-comparative-data-structures-and-algorithms.md %})\\
-  <small>[Embedded Ethics Conference: Strategies for Teaching Responsible Computing Within the Computer Science Curriculum](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science)</small>
+  <small>[Embedded Ethics Conference](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science)</small>
 : Experiences Teaching Critical Comparative Data Structures and Algorithms\\
   <small>Northwestern University Tech Ethics Mentors</small>
 
