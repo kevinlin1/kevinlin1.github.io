@@ -149,159 +149,211 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Invited Talks
 
 2024
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts.
-  [Illinois Computer Science Summer Teaching Workshop](https://teaching-workshop.cs.illinois.edu/).
-: Teaching Contentious Issues in the Classroom.
-  [3C Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development.
-: [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% link _posts/2024-05-11-alternative-grading.md %}).
-  [Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/).
-: Empowering Students Through Our Teaching Panel.
-  [UW Teaching & Learning Symposium](https://teaching.washington.edu/learn/teaching-and-learning-symposium/).
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts.
-  [UC Berkeley ACE Lab](https://acelab.berkeley.edu/).
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts​.
-  [Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/).
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts​.
-  Olin College Community Research Seminar.
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts​.
-  [UIUC Computing Education Research Group](https://publish.illinois.edu/computingedresearch/).
+: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
+  <small>[Illinois Computer Science Summer Teaching Workshop](https://teaching-workshop.cs.illinois.edu/)</small>
+: Teaching Contentious Issues in the Classroom\\
+  <small>[3C Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development</small>
+: [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% link _posts/2024-05-11-alternative-grading.md %})\\
+  <small>[Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/)</small>
+: Empowering Students Through Our Teaching (Panel)\\
+  <small>[UW Teaching & Learning Symposium](https://teaching.washington.edu/learn/teaching-and-learning-symposium/)</small>
+: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
+  <small>[UC Berkeley ACE Lab](https://acelab.berkeley.edu/)</small>
+: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
+  <small>[Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/)</small>
+: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
+  <small>Olin College Community Research Seminar</small>
+: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
+  <small>[UIUC Computing Education Research Group](https://publish.illinois.edu/computingedresearch/)</small>
 
 2023
-: [Experiences Teaching Critical Comparative Data Structures and Algorithms]({% link _posts/2023-03-09-teaching-critical-comparative-data-structures-and-algorithms.md %}).
-  [Embedded Ethics Conference: Strategies for Teaching Responsible Computing Within the Computer Science Curriculum](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science).
-: Experiences Teaching Critical Comparative Data Structures and Algorithms.
-  Northwestern University Tech Ethics Mentors.
+: [Experiences Teaching Critical Comparative Data Structures and Algorithms]({% link _posts/2023-03-09-teaching-critical-comparative-data-structures-and-algorithms.md %})\\
+  <small>[Embedded Ethics Conference: Strategies for Teaching Responsible Computing Within the Computer Science Curriculum](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science)</small>
+: Experiences Teaching Critical Comparative Data Structures and Algorithms\\
+  <small>Northwestern University Tech Ethics Mentors</small>
 
 2022
-: Teaching-Track Faculty Panel.
-  [CMU School of Computer Science Education Group](https://www.cs.cmu.edu/~bpr/scsedgrp/ttt2022.html).
-: CS Education for the Socially-Just Worlds We Need.
-  [Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/).
-: CS Education for the Socially-Just Worlds We Need.
-  [CS Diversity Committee Webinar, Simon Fraser University](https://www.sfu.ca/computing/diversity-in-computing-science/activities/computer-science-diversity-committee-webinars.html).
+: Teaching-Track Faculty Panel\\
+  <small>[CMU School of Computer Science Education Group](https://www.cs.cmu.edu/~bpr/scsedgrp/ttt2022.html)</small>
+: CS Education for the Socially-Just Worlds We Need\\
+  <small>[Computing Education Research at Davis](https://cerd.cs.ucdavis.edu/)</small>
+: CS Education for the Socially-Just Worlds We Need\\
+  <small>[CS Diversity Committee Webinar, Simon Fraser University](https://www.sfu.ca/computing/diversity-in-computing-science/activities/computer-science-diversity-committee-webinars.html)</small>
 
 2021
-: CS Education for the Socially-Just Worlds We Need.
-  TechEd Seminar, Princeton University.
-: [Centering Identity and Culture in Critical Computing]({% link _posts/2021-07-15-centering-identity-and-culture-in-critical-computing.md %}).
-  [Teaching Responsible Computing Summit 2021](https://foundation.mozilla.org/en/blog/teaching-responsible-computing-summit-2021/).
-: Justice-Centered CS Education.
-  CS Education Seminar, Western Washington University.
-: What You Wish You Knew About Summer Instruction.
-  Designing Computer Science Education, UC Berkeley.
+: CS Education for the Socially-Just Worlds We Need\\
+  <small>TechEd Seminar, Princeton University</small>
+: [Centering Identity and Culture in Critical Computing]({% link _posts/2021-07-15-centering-identity-and-culture-in-critical-computing.md %})\\
+  <small>[Teaching Responsible Computing Summit 2021](https://foundation.mozilla.org/en/blog/teaching-responsible-computing-summit-2021/)</small>
+: Justice-Centered CS Education\\
+  <small>CS Education Seminar, Western Washington University</small>
+: What You Wish You Knew About Summer Instruction\\
+  <small>Designing Computer Science Education, UC Berkeley</small>
 
 ## Publications
 
 ### Conference Papers
 
 2024
-: ["It Can Relate to Real Lives": Attitudes and Expectations in Justice-Centered Data Structures & Algorithms for Non-Majors]({% link _posts/2024-03-18-it-can-relate-to-real-lives.md %}).
-  Anna Batra, Iris Zhou, Suh Young Choi, Chongjiu Gao, Yanbing Xiao, Sonia Fereidooni, Kevin Lin.
-  Experience Reports and Tools paper in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+: ["It Can Relate to Real Lives": Attitudes and Expectations in Justice-Centered Data Structures & Algorithms for Non-Majors]({% link _posts/2024-03-18-it-can-relate-to-real-lives.md %})\\
+  <small>
+  Anna Batra, Iris Zhou, Suh Young Choi, Chongjiu Gao, Yanbing Xiao, Sonia Fereidooni, Kevin Lin\\
+  Experience Reports and Tools paper in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
 
 2022
-: [CS Education for the Socially-Just Worlds We Need: The Case for Justice-Centered Approaches to CS in Higher Education]({% link _posts/2021-10-11-cs-education-for-the-socially-just-worlds-we-need.md %}).
-  Kevin Lin.
-  Position and Curricula Initiative paper in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+: [CS Education for the Socially-Just Worlds We Need: The Case for Justice-Centered Approaches to CS in Higher Education]({% link _posts/2021-10-11-cs-education-for-the-socially-just-worlds-we-need.md %})\\
+  <small>
+  Kevin Lin\\
+  Position and Curricula Initiative in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
 
 2021
-: [Do Abstractions Have Politics? Toward a More Critical Algorithm Analysis]({% link _posts/2021-01-05-do-abstractions-have-politics.md %}).
-  Kevin Lin.
-  Position paper in the *IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)*.
+: [Do Abstractions Have Politics? Toward a More Critical Algorithm Analysis]({% link _posts/2021-01-05-do-abstractions-have-politics.md %})\\
+  <small>
+  Kevin Lin\\
+  Position paper in the *IEEE Conference on Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)*
+  </small>
 
 ### Conference Abstracts
 
 2023
-: Equitable Grading Best Practices.
-  Dan Garcia, Maria Camarena, Kevin Lin, and Jill Westerland.
-  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+: Equitable Grading Best Practices\\
+  <small>
+  Dan Garcia, Maria Camarena, Kevin Lin, and Jill Westerland\\
+  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
 
 2022
-: Approaches for Weaving Responsible Computing into Data Structures and Algorithms Courses.
-  Kathi Fisler, Sorelle Friedler, Kevin Lin, and Suresh Venkatasubramanian.
-  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: Reading Between the Lines: Student Experiences of Resubmission in an Introductory CS Course.
-  Leah Perlmutter, Jayne Everson, Ken Yasuhara, Brett Wortzman, and Kevin Lin.
-  Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+: Approaches for Weaving Responsible Computing into Data Structures and Algorithms Courses\\
+  <small>
+  Kathi Fisler, Sorelle Friedler, Kevin Lin, and Suresh Venkatasubramanian\\
+  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
+: Reading Between the Lines: Student Experiences of Resubmission in an Introductory CS Course\\
+  <small>
+  Leah Perlmutter, Jayne Everson, Ken Yasuhara, Brett Wortzman, and Kevin Lin\\
+  Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
 
 2021
-: [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link nifty-web-apps.md %}).
-  Kevin Lin, Sumant Guha, Joe Spaniac, and Andy Zheng.
-  Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: [How Can We Make Office Hours Better?]({% link office-hours.md %})
-  Kevin Lin, Kristin Stephens-Martinez, and Brian Railing.
-  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %}).
-  Kevin Lin, Lina Battestilli, and Michael Ball.
-  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: [Implementation of Mastery Grading Toward Rightful Presence]({% link _posts/2020-12-22-implementation-of-mastery-grading-toward-rightful-presence.md %}).
-  Jayne Everson, Leah Perlmutter, Ken Yasuhara, Kevin Lin, and Brett Wortzman.
-  Poster in the *UW Teaching & Learning Symposium*.
+: [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link nifty-web-apps.md %})\\
+  <small>
+  Kevin Lin, Sumant Guha, Joe Spaniac, and Andy Zheng\\
+  Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
+: [How Can We Make Office Hours Better?]({% link office-hours.md %})\\
+  <small>
+  Kevin Lin, Kristin Stephens-Martinez, and Brian Railing\\
+  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
+: [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %})\\
+  <small>
+  Kevin Lin, Lina Battestilli, and Michael Ball\\
+  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
+: [Implementation of Mastery Grading Toward Rightful Presence]({% link _posts/2020-12-22-implementation-of-mastery-grading-toward-rightful-presence.md %})\\
+  <small>
+  Jayne Everson, Leah Perlmutter, Ken Yasuhara, Kevin Lin, and Brett Wortzman\\
+  Poster in the *UW Teaching & Learning Symposium*
+  </small>
 
 2020
-: [It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% link _posts/2019-08-29-youre-spamming-the-autograder.md %}).
-  Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii, and Ursula Wolz.
-  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: Perspectives on Allyship in Academia.
-  Jamie Payton, Adam Blank, Christian Murphy, Melissa Hovik, Kevin Lin, Angela Kwon, and Lara McConnaughey.
-  Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: [Transitioning From Peer Instruction to POGIL with Guided Lecture Notes]({% link _posts/2020-03-11-from-peer-instruction-to-pogil.md %}).
-  Kevin Lin.
-  Lightning talk in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
-: How Can We Make Office Hours Better?
-  Kevin Lin and Brian Railing.
-  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+: [It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% link _posts/2019-08-29-youre-spamming-the-autograder.md %})\\
+  <small>
+  Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii, and Ursula Wolz\\
+  Panel in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
+: Perspectives on Allyship in Academia\\
+  <small>
+  Jamie Payton, Adam Blank, Christian Murphy, Melissa Hovik, Kevin Lin, Angela Kwon, and Lara McConnaughey\\
+  Special session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
+: [Transitioning From Peer Instruction to POGIL with Guided Lecture Notes]({% link _posts/2020-03-11-from-peer-instruction-to-pogil.md %})\\
+  <small>
+  Kevin Lin\\
+  Lightning talk in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
+: How Can We Make Office Hours Better?\\
+  <small>
+  Kevin Lin and Brian Railing\\
+  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
 
 2019
-: [Near-Peer Student Mentors: Creating Scalable Learning Experiences in Large Lecture Courses]({% link _posts/2019-03-22-near-peer-student-mentors.md %}).
-  Kevin Lin.
-  Lightning talk in the *Consortium for Computing Sciences in Colleges Southwestern Region (CCSC-SW)*.
-: [Subgoals, Problem Solving Phases, and Sources of Knowledge: A Complex Mangle]({% link _posts/2019-02-28-subgoals-problem-solving-phases-and-sources-of-knowledge.md %}).
-  Kevin Lin and David DeLiema.
-  Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*.
+: [Near-Peer Student Mentors: Creating Scalable Learning Experiences in Large Lecture Courses]({% link _posts/2019-03-22-near-peer-student-mentors.md %})\\
+  <small>
+  Kevin Lin\\
+  Lightning talk in the *Consortium for Computing Sciences in Colleges Southwestern Region (CCSC-SW)*
+  </small>
+: [Subgoals, Problem Solving Phases, and Sources of Knowledge: A Complex Mangle]({% link _posts/2019-02-28-subgoals-problem-solving-phases-and-sources-of-knowledge.md %})\\
+  <small>
+  Kevin Lin and David DeLiema\\
+  Poster in the *ACM Technical Symposium on Computer Science Education (SIGCSE)*
+  </small>
 
 ### Open Educational Resources
 
 2022
-: [Decision Trees for Text Classification in CS2]({% link text-classifier.md %}).
-  Kevin Lin.
-  Assignment in *EngageCSEdu*.
+: [Decision Trees for Text Classification in CS2]({% link text-classifier.md %})\\
+  <small>
+  Kevin Lin\\
+  Assignment in *EngageCSEdu*
+  </small>
 
 ### Non-Refereed Publications
 
 2024
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Reframing the Dialogue between Educators, Students, and Employers.
-  Kevin Lin and Alannah Oleson.
-  Article in the *2024 Teaching & Learning Symposium*.
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Reframing the Dialogue between Educators, Students, and Employers.
-  Kevin Lin.
-  Lightning talk in the *3C Fellows Spotlight*.
+: [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
+  <small>
+  Kevin Lin and Alannah Oleson\\
+  Article in the *2024 Teaching & Learning Symposium*
+  </small>
+: [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
+  <small>
+  Kevin Lin\\
+  Lightning talk in the *3C Fellows Spotlight*
+  </small>
 
 2023
-: Designing and Evaluating a Justice-Centered Intermediate Computing Course.
-  Anna Batra, Iris Zhou, Chongjiu Gao, Sonia Fereidooni, Yanbing Xiao, Suh Young Choi, Kevin Lin.
-  Poster in the *UW Undergraduate Research Symposium*.
+: Designing and Evaluating a Justice-Centered Intermediate Computing Course\\
+  <small>
+  Anna Batra, Iris Zhou, Chongjiu Gao, Sonia Fereidooni, Yanbing Xiao, Suh Young Choi, Kevin Lin\\
+  Poster in the *UW Undergraduate Research Symposium*
+  </small>
 
 2019
-: *How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom*.
-  Kevin Lin.
-  Paper prepared for the UC Berkeley EECS Department.
-: *[A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-a-berkeley-view-of-teaching-cs-at-scale.md %})*.
-  Kevin Lin.
-  MS technical report. EECS Department, UC Berkeley.
-: [From 40 to 400 to 1,400: Providing Formative Feedback in Large-Scale Courses]({% link _posts/2019-04-26-formative-feedback-in-intro-cs.md %}).
-  Kevin Lin.
-  Article in the *GSI Online Library: Teaching Effectiveness Award Essays*. Graduate Division, UC Berkeley.
+: *How Help Can Hurt: Understanding Defensive Climate in the Undergraduate CS Classroom*\\
+  <small>
+  Kevin Lin\\
+  Research paper prepared for the EECS Department, UC Berkeley
+  </small>
+: *[A Berkeley View of Teaching CS at Scale]({% link _posts/2019-05-28-a-berkeley-view-of-teaching-cs-at-scale.md %})*\\
+  <small>
+  Kevin Lin\\
+  MS technical report for the EECS Department, UC Berkeley
+  </small>
+: [From 40 to 400 to 1,400: Providing Formative Feedback in Large-Scale Courses]({% link _posts/2019-04-26-formative-feedback-in-intro-cs.md %})\\
+  <small>
+  Kevin Lin\\
+  Article in the *GSI Online Library: Teaching Effectiveness Award Essays* for the Graduate Division, UC Berkeley
+  </small>
 
 ### Media
 
 2022
-: [S3xE2: Alternative grading, how?](https://csedpodcast.org/blog/season3_episode2/)
-  The CS-Ed Podcast.
+: [S3xE2: Alternative grading, how?](https://csedpodcast.org/blog/season3_episode2/)\\
+  <small>
+  Brett Wortzman, Kevin Lin, and Kristin Stephens-Martinez\\
+  *The CS-Ed Podcast*
+  </small>
 
 2021
 : [S3xE1: Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)
-  The CS-Ed Podcast.
+  <small>
+  Brett Wortzman, Kevin Lin, and Kristin Stephens-Martinez\\
+  *The CS-Ed Podcast*
+  </small>
 
 ## Mentoring
 
@@ -328,35 +380,35 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Department Talks
 
 2024
-: ACE Computing Education Symposium Keynote.
-: Alternative Assessment Systems: Designing for Flexibility.
-: [An Invitation to Reimagine]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %}): Empowering Students to Redesign Computing Problems and Artifacts​.
-: ACE TA Panel.
-: COM<sup>2</sup> Roundtable Career Exploration Gala.
+: ACE Computing Ed Symposium Keynote
+: Alternative Assessment Systems: Designing for Flexibility
+: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts​]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})
+: ACE TA Panel
+: COM<sup>2</sup> Roundtable Career Exploration Gala
 
 2023
-: Computing Education Researcher Panel.
-: Racial Diversity in Tech Speaker Event.
+: Computing Education Researcher Panel
+: Racial Diversity in Tech
 
 2022
-: Impact++ @ UW Lightning Talk: Education X Tech.
+: Impact++ @ UW Lightning Talk: Education X Tech
 
 2021
 : CS for What and for Whom?
 
 2020
-: Programming a Better Future.
+: Programming a Better Future
 
 2019
-: Applying for Academic Positions and Postdoctoral Appointments.
-: EECS/CS Life from a Student Perspective.
+: Applying for Academic Positions and Postdoctoral Appointments
+: EECS/CS Life from a Student Perspective
 
 2018
-: Introductory CS Courses at UC Berkeley.
-: EECS/CS Life from a Student Perspective.
+: Introductory CS Courses at UC Berkeley
+: EECS/CS Life from a Student Perspective
 
 2017
-: How to Learn Computer Science.
+: How to Learn Computer Science
 
 ## Service
 
