@@ -361,7 +361,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : Anna Batra\\
   <small>UW MS in Computational Linguistics to Cascadia College Adjunct Faculty in Computer Science</small>
 : Iris Zhou\\
-  <small>UW MA in Mathematics to UC San Diego MS in Computer Science & Engineering</small>
+  <small>UW BA in Mathematics to UC San Diego MS in Computer Science & Engineering</small>
 
 2022
 : Sonia Fereidooni\\
