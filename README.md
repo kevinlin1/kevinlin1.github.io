@@ -313,7 +313,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 2022
 : Sonia Fereidooni\\
-  <small>UW BS in Computer Science to UW BS/MS in Computer Science</small>
+  <small>UW BS/MS in Computer Science to University of Cambridge PhD in Digital Humanities</small>
 
 2021
 : Leah Perlmutter\\
