@@ -312,7 +312,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
   <small>
   Kevin Lin and Alannah Oleson\\
-  *2024 Teaching & Learning Symposium*
+  *UW Teaching & Learning Symposium*
   </small>
 : [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
   <small>
