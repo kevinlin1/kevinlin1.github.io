@@ -304,6 +304,11 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ### Non-Refereed Publications
 
 2024
+: Teaching How All Technology is Assistive: Integrating Accessible Design into an Undergraduate Computing Course\\
+  <small>
+  Anna Batra, Simon Wu, Kianna Bolante, Jinghua Sun, Katharine Zhang, Iris Zhou, Kevin Lin\\
+  Poster in the *UW Undergraduate Research Symposium*
+  </small>
 : [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% link _posts/2024-02-19-an-invitation-to-reimagine.md %})\\
   <small>
   Kevin Lin and Alannah Oleson\\
