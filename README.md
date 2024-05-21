@@ -385,9 +385,13 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Department Talks
 
 2024
-: ACE Computing Ed Symposium Keynote
+: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts​]({% post_url 2024-02-19-an-invitation-to-reimagine %})\\
+  <small>
+  Allen School Faculty Lunch --
+  ACE Computing Ed Symposium --
+  CSE 121 Staff Workshop
+  </small>
 : Alternative Assessment Systems: Designing for Flexibility
-: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts​]({% post_url 2024-02-19-an-invitation-to-reimagine %})
 : ACE TA Panel
 : COM<sup>2</sup> Roundtable Career Exploration Gala
 
