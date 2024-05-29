@@ -428,6 +428,10 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 
 2024
+: ACM Virtual Global Computing Education Conference (SIGCSE VIRTUAL)\\
+  <small>
+  Associate Program Chair
+  </small>
 : ACM Journal on Responsible Computing\\
   <small>
   Reviewer
