@@ -217,6 +217,13 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ### Conference Abstracts
 
+2024
+: Teaching Accessible Design in Data Structures and Algorithms\\
+  <small>
+  Kevin Lin\\
+  Poster in the *ACM Conference on International Computing Education Research*
+  </small>
+
 2023
 : Equitable Grading Best Practices\\
   <small>
