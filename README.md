@@ -22,14 +22,14 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 2019---
 : Assistant Teaching Professor\\
+  Paul G. Allen School of Computer Science & Engineering\\
   University of Washington\\
-  Computer Science & Engineering\\
   <kevinl@cs.uw.edu>
 
 2023
 : Visiting Assistant Professor\\
-  University of California, San Diego\\
-  Halıcıoğlu Data Science Institute
+  Halıcıoğlu Data Science Institute\\
+  University of California, San Diego
 
 ## Education
 
