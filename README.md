@@ -130,6 +130,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Distinctions
 
 2024
+: [Evidence-Based Teaching Fellow](https://teaching.washington.edu/learn/evidence-based-teaching-program/)
 : SIGCSE TS 2024 Outstanding Reviewer Award
 
 2023
