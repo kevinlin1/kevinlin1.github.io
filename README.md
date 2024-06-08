@@ -150,10 +150,10 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Invited Talks
 
 2024
-: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% post_url 2024-02-19-an-invitation-to-reimagine %})\\
-  <small>[Illinois Computer Science Summer Teaching Workshop](https://teaching-workshop.cs.illinois.edu/)</small>
 : Teaching Contentious Issues in the Classroom\\
   <small>[Cultural Competence in Computing Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development</small>
+: [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% post_url 2024-02-19-an-invitation-to-reimagine %})\\
+  <small>[Illinois Computer Science Summer Teaching Workshop](https://teaching-workshop.cs.illinois.edu/)</small>
 : [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% post_url 2024-05-11-alternative-grading %})\\
   <small>[Reflection and Practice Seminar Series](https://teaching.washington.edu/learn/workshops/reflection-and-practice-seminar-series/)</small>
 : Empowering Students Through Our Teaching\\
