@@ -312,6 +312,11 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ### Non-Refereed Publications
 
 2024
+: Generative AI in Education\\
+  <small>
+  Kevin Lin\\
+  Birds-of-a-feather session at *SciPy 2024*
+  </small>
 : Teaching How All Technology is Assistive: Integrating Accessible Design into an Undergraduate Computing Course\\
   <small>
   Anna Batra, Simon Wu, Kianna Bolante, Jinghua Sun, Katharine Zhang, Iris Zhou, Kevin Lin\\
