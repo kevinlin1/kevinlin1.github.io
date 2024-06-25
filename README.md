@@ -150,6 +150,8 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Invited Talks
 
 2024
+: Programming: You, Me, Everybody, and Everything\\
+  <small>Robinson Center Introduction to Programming in Python</small>
 : Teaching Contentious Issues in the Classroom\\
   <small>[Cultural Competence in Computing Fellows](https://identity.cs.duke.edu/fellows.html) Cohort 4 Professional Development</small>
 : [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts]({% post_url 2024-02-19-an-invitation-to-reimagine %})\\
