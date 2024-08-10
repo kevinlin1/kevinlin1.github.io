@@ -198,9 +198,9 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ### Conference Papers
 
 2024
-: An Equitable Grading Playbook.
+: An Equitable Grading Playbook.\\
   <small>
-  Working Group paper in the *ACM Virtual Global Computing Education Conference*
+  Working Group report in the *ACM Virtual Global Computing Education Conference*
   </small>
 : ["It Can Relate to Real Lives": Attitudes and Expectations in Justice-Centered Data Structures & Algorithms for Non-Majors]({% post_url 2024-03-18-it-can-relate-to-real-lives %})\\
   <small>
