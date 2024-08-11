@@ -8,6 +8,7 @@ excerpt: >-
 - DOI: [10.1145/3632621.3671432](https://doi.org/10.1145/3632621.3671432)
 - [Slides](https://docs.google.com/presentation/d/1rOYzE165PaeOp5NKFIxOctnb3f1D04EAIz9vM88BcW0/edit?usp=sharing)
 - [Poster](https://docs.google.com/drawings/d/1kfkOSoT4qL9gVuEhlgqRCKXP6Bcx8xZY5yR_NTa-f9s/edit?usp=sharing)
+- [Case Studies and Materials](https://docs.google.com/presentation/d/1_2CLMtkAs3D3XFQOlYd9YaB_VBTcLPE_U_Vf2pqflOk/edit?usp=drivesdk)
 
 > Elglaly et al. argue for teaching accessible design not only in human--computer interaction courses but across the undergraduate computing curriculum. This poster provides a description and preliminary evaluation of a pedagogical approach to teaching accessible design in an undergraduate advanced Data Structures and Algorithms (DSA) course. Inspired by the idea that all technology is assistive, our approach aims to empower students to utilize their DSA content knowledge and skills to redesign software features to address design assumptions and improve technologies for all.
 >
