@@ -197,6 +197,13 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ### Conference Papers
 
+2025
+: Code Interviews: Design and Evaluation of a More Authentic Assessment for Introductory Programming Assignments.\\
+  <small>
+  Suhas Kannam, Yuri Yang, Aarya Dharm, Kevin Lin\\
+  Experience Reports and Tools paper in the *ACM Technical Symposium on Computer Science Education*
+  </small>
+
 2024
 : An Equitable Grading Playbook.\\
   <small>
