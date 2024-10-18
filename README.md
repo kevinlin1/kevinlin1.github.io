@@ -242,53 +242,53 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 2023
 : Equitable Grading Best Practices\\
   <small>
-  Dan Garcia, Maria Camarena, Kevin Lin, and Jill Westerland\\
+  Dan Garcia, Maria Camarena, Kevin Lin, Jill Westerland\\
   Panel in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
 2022
 : Approaches for Weaving Responsible Computing into Data Structures and Algorithms Courses\\
   <small>
-  Kathi Fisler, Sorelle Friedler, Kevin Lin, and Suresh Venkatasubramanian\\
+  Kathi Fisler, Sorelle Friedler, Kevin Lin, Suresh Venkatasubramanian\\
   Panel in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : Reading Between the Lines: Student Experiences of Resubmission in an Introductory CS Course\\
   <small>
-  Leah Perlmutter, Jayne Everson, Ken Yasuhara, Brett Wortzman, and Kevin Lin\\
+  Leah Perlmutter, Jayne Everson, Ken Yasuhara, Brett Wortzman, Kevin Lin\\
   Poster in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
 2021
 : [Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment]({% link nifty-web-apps.md %})\\
   <small>
-  Kevin Lin, Sumant Guha, Joe Spaniac, and Andy Zheng\\
+  Kevin Lin, Sumant Guha, Joe Spaniac, Andy Zheng\\
   Special session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : [How Can We Make Office Hours Better?]({% link office-hours.md %})\\
   <small>
-  Kevin Lin, Kristin Stephens-Martinez, and Brian Railing\\
+  Kevin Lin, Kristin Stephens-Martinez, Brian Railing\\
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : [Strategies for Authentic Assessments of Mastery in CS Courses]({% link authentic-assessments.md %})\\
   <small>
-  Kevin Lin, Lina Battestilli, and Michael Ball\\
+  Kevin Lin, Lina Battestilli, Michael Ball\\
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : [Implementation of Mastery Grading Toward Rightful Presence]({% post_url 2020-12-22-implementation-of-mastery-grading-toward-rightful-presence %})\\
   <small>
-  Jayne Everson, Leah Perlmutter, Ken Yasuhara, Kevin Lin, and Brett Wortzman\\
+  Jayne Everson, Leah Perlmutter, Ken Yasuhara, Kevin Lin, Brett Wortzman\\
   Poster in the *UW Teaching & Learning Symposium*
   </small>
 
 2020
 : [It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% post_url 2019-08-29-youre-spamming-the-autograder %})\\
   <small>
-  Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii, and Ursula Wolz\\
+  Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii, Ursula Wolz\\
   Panel in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : Perspectives on Allyship in Academia\\
   <small>
-  Jamie Payton, Adam Blank, Christian Murphy, Melissa Hovik, Kevin Lin, Angela Kwon, and Lara McConnaughey\\
+  Jamie Payton, Adam Blank, Christian Murphy, Melissa Hovik, Kevin Lin, Angela Kwon, Lara McConnaughey\\
   Special session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : [Transitioning From Peer Instruction to POGIL with Guided Lecture Notes]({% post_url 2020-03-11-from-peer-instruction-to-pogil %})\\
@@ -298,7 +298,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 : How Can We Make Office Hours Better?\\
   <small>
-  Kevin Lin and Brian Railing\\
+  Kevin Lin, Brian Railing\\
   Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
@@ -310,7 +310,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 : [Subgoals, Problem Solving Phases, and Sources of Knowledge: A Complex Mangle]({% post_url 2019-02-28-subgoals-problem-solving-phases-and-sources-of-knowledge %})\\
   <small>
-  Kevin Lin and David DeLiema\\
+  Kevin Lin, David DeLiema\\
   Poster in the *ACM Technical Symposium on Computer Science Education*
   </small>
 
@@ -338,7 +338,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   </small>
 : [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% post_url 2024-02-19-an-invitation-to-reimagine %})\\
   <small>
-  Kevin Lin and Alannah Oleson\\
+  Kevin Lin, Alannah Oleson\\
   *UW Teaching & Learning Symposium*
   </small>
 : [An Invitation to Reimagine: Reframing the Dialogue between Educators, Students, and Employers]({% post_url 2024-02-19-an-invitation-to-reimagine %})\\
@@ -376,14 +376,14 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 2022
 : [Alternative grading, how?](https://csedpodcast.org/blog/season3_episode2/)\\
   <small>
-  Brett Wortzman, Kevin Lin, and Kristin Stephens-Martinez\\
+  Brett Wortzman, Kevin Lin, Kristin Stephens-Martinez\\
   *The CS-Ed Podcast*
   </small>
 
 2021
 : [Alternative grading, why?](https://csedpodcast.org/blog/season3_episode1/)\\
   <small>
-  Brett Wortzman, Kevin Lin, and Kristin Stephens-Martinez\\
+  Brett Wortzman, Kevin Lin, Kristin Stephens-Martinez\\
   *The CS-Ed Podcast*
   </small>
 
