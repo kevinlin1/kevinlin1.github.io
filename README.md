@@ -207,6 +207,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 2024
 : An Equitable Grading Playbook\\
   <small>
+  Stephen H. Edwards, David L. Largent, Ben Schafer, Debarati Basu, Amy Csizmar Dalal, Dan Garcia, Brian Harrington, Kevin Lin, Dan S. Myers, Christian Roberson, Giulia Toti, Brett Wortzman\\
   Working Group report in the *ACM Virtual Global Computing Education Conference*
   </small>
 : ["It Can Relate to Real Lives": Attitudes and Expectations in Justice-Centered Data Structures & Algorithms for Non-Majors]({% post_url 2024-03-18-it-can-relate-to-real-lives %})\\
