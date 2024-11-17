@@ -323,7 +323,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
   Assignment in *EngageCSEdu*
   </small>
 
-### Non-Refereed Publications
+### Non-Refereed Work
 
 2024
 : Generative AI in Education\\
