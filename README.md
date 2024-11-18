@@ -232,6 +232,13 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ### Conference Abstracts
 
+2025
+: A New Class of Teaching-Track Faculty: No Ph.D. Required\\
+  <small>
+  Michael Ball, Suraj Rampure, Kevin Lin\\
+  Birds-of-a-feather session in the *ACM Technical Symposium on Computer Science Education*
+  </small>
+
 2024
 : [Teaching Accessible Design in Data Structures and Algorithms]({% post_url 2024-07-14-accessible-design %})\\
   <small>
