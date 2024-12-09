@@ -456,6 +456,10 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Service
 
 2025
+: SciPy Conference\\
+  <small>
+  Teaching and Learning Track Co-Chair
+  </small>
 : ACM Technical Symposium on Computer Science Education\\
   <small>
   Tutorials Junior Co-Chair --
