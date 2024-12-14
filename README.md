@@ -149,6 +149,10 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ## Invited Talks
 
+2025
+: [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% post_url 2024-05-11-alternative-grading %})\\
+  <small>DO-IT Center + Alliance for Identity-Inclusive Computing Education</small>
+
 2024
 : Programming: You, Me, Everybody, and Everything\\
   <small>Robinson Center Introduction to Programming in Python</small>
