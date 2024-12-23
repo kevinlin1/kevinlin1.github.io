@@ -467,7 +467,8 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : ACM Technical Symposium on Computer Science Education\\
   <small>
   Tutorials Junior Co-Chair --
-  Associate Program Chair
+  Associate Program Chair --
+  Reviewer
   </small>
 
 2024
