@@ -400,6 +400,9 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ## Mentoring
 
+2024
+: Aarya Dharm
+
 2023
 : Anna Batra\\
   <small>UW MS in Computational Linguistics to Cascadia College Adjunct Faculty in Computer Science</small>
