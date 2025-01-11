@@ -20,7 +20,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ---
 
-2019---
+2019--
 : Assistant Teaching Professor\\
   Paul G. Allen School of Computer Science & Engineering\\
   University of Washington\\
@@ -47,7 +47,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ### University of Washington
 
-2019---
+2019--
 : Computer Programming II\\
   <small>
   [22sp](https://courses.cs.washington.edu/courses/cse143/22sp/) --
