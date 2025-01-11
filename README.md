@@ -462,6 +462,12 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ## Service
 
+2024--
+: Center for Learning, Computing, and Imagination\\
+  <small>
+  Co-Director
+  </small>
+
 2025
 : SciPy Conference\\
   <small>
@@ -486,10 +492,6 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : ACM Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology\\
   <small>
   Reviewer
-  </small>
-: Center for Learning, Computing, and Imagination\\
-  <small>
-  Co-Director
   </small>
 : ACM Technical Symposium on Computer Science Education\\
   <small>
