@@ -294,7 +294,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 2020
 : [It Seemed Like a Good Idea at the Time (Hindsight is 2020)]({% post_url 2019-08-29-youre-spamming-the-autograder %})\\
   <small>
-  Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Urell Ii, Ursula Wolz\\
+  Dan Garcia, Jim Huggins, Kevin Lin, Raja Sooriamurthi, Leo Ureel II, Ursula Wolz\\
   Panel in the *ACM Technical Symposium on Computer Science Education*
   </small>
 : Perspectives on Allyship in Academia\\
