@@ -7,7 +7,7 @@ redirect_from:
   - /research/
 ---
 
-Check out the Allen School [Computer Science Education](https://www.cs.washington.edu/academics/ugrad/current-students/career/cs-teaching) resource hub that describes how students can get involved in the school's educational efforts.
+Check out the Allen School [Computer Science Teaching](https://www.cs.washington.edu/academics/undergraduate/career-planning/cs-teaching/) career planning that describes how students can get involved in the school's educational efforts.
 
 Are you a current or prospective **UW undergrad or CSE BS/MS student**?
 
