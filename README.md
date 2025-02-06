@@ -150,6 +150,8 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 ## Invited Talks
 
 2025
+: How do I apply for teaching-oriented positions?\\
+  <small>CRA-E Career Landscape Panel</small>
 : [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% post_url 2024-05-11-alternative-grading %})\\
   <small>DO-IT Center + Alliance for Identity-Inclusive Computing Education</small>
 
