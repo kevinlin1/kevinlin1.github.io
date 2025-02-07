@@ -429,6 +429,9 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 
 ## Department Talks
 
+2025
+: CSE 492R Faculty Mentor Panel
+
 2024
 : [An Invitation to Reimagine: Empowering Students to Redesign Computing Problems and Artifacts​]({% post_url 2024-02-19-an-invitation-to-reimagine %})\\
   <small>
