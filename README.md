@@ -155,7 +155,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 : Teaching Accessibility in Data Programming and Data Structures\\
   <small>Accessibility and Disability in Computer Science Education at SIGCSE TS 2025</small>
 : [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% post_url 2024-05-11-alternative-grading %})\\
-  <small>DO-IT Center + Alliance for Identity-Inclusive Computing Education</small>
+  <small>DO-IT Center + Alliance for Interdisciplinary Innovations in Computing Education</small>
 
 2024
 : Programming: You, Me, Everybody, and Everything\\
