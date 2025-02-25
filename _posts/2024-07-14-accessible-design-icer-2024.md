@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accessible Design
+title: Accessible Design (at ICER 2024)
 excerpt: >-
   Teaching How All Technologies Are Accessible in Data Structures and Algorithms
 ---
