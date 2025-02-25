@@ -152,7 +152,7 @@ Kevin Lin (he/him) is an Assistant Teaching Professor in the Paul G. Allen Schoo
 2025
 : How do I apply for teaching-oriented positions?\\
   <small>CRA-E Career Landscape Panel</small>
-: [Teaching Accessibility in Data Programming and Data Structures]({% post_url 2025-02-26-accessible-design %})\\
+: [Teaching Accessibility in Data Programming and Data Structures]({% post_url 2025-02-25-accessible-design %})\\
   <small>Accessibility and Disability in Computer Science Education at SIGCSE TS 2025</small>
 : [Alternative Grading: Equitable Grading and Ecosystems for More Caring Communities]({% post_url 2024-05-11-alternative-grading %})\\
   <small>DO-IT Center + Alliance for Interdisciplinary Innovations in Computing Education</small>
